@@ -4,7 +4,7 @@
 # PDF: rendered by Cairo plugin in Iceweasel
 # Suggested font: Adobe Garamond Premier Pro
 
-MISC=index.html DanNhap.html README.html
+MISC=index.html DanNhap.html README.html LICENSE.html
 CH=Ch1.html Ch2.html Ch3.html Ch4.html Ch5.html Ch6.html
 
 all: $(MISC) $(CH)
@@ -35,6 +35,9 @@ Ch6.html: Ch6.txt
 
 README.html: README.md
 	maruku README.md
+
+LICENSE.html: LICENSE.md
+	maruku LICENSE.md
 
 clean:
 	rm -f $(MISC) $(CH)
