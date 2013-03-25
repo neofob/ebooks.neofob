@@ -1,0 +1,45 @@
+<!doctype html system>
+  <head>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  <meta content="Keywords" name="Vietnam War, Vietnam, Vietnamese Politics, America,American Politics, In the Jaws of History,Bui Diem, Phan Le Dung">
+  <title>Trong Gọng Kềm Lịch Sử</title>
+  <link href="neofob.css" rel="stylesheet" type="text/css">
+  </head>
+
+<body>
+
+<!-- htmlized by neofob -->
+
+<center><font size="+4"><i><b>Mục Lục</b></i></font>
+</center>
+
+<table width="60%" align="center">
+<tr><td>
+<pre><font face="Linux Biolinum Capitals O" size=+2>
+<a href="./modau.html">lời người dịch</a>
+<a href="./mos00.html">chuyển tiếp</a>
+<a href="./mos01.html">băng trắng, băng đỏ</a>
+<a href="./mos02.html">nữ diễn viên</a>
+<a href="./mos03.html">người học giả</a>
+<a href="./mos04.html">gã hề</a>
+<a href="./mos05.html">cựu chiến binh của cuộc vạn lý trường chinh</a>
+<a href="./mos06.html">du học sinh hồi hương</a>
+<a href="./mos07.html">hòn gạch</a>
+<a href="./mos08.html">người ký giả</a>
+<a href="./mos09.html">nông gia</a>
+<a href="./mos10.html">người tiểu thương</a>
+<a href="./mos11.html">kẻ khẩn cầu</a>
+<a href="./mos12.html">bạch khuyển</a>
+<a href="./mos13.html">cán bộ</a>
+<a href="./mos14.html">người hoạt náo viên</a>
+<a href="./mos15.html">những bức chân dung</a>
+<a href="./mos16.html">những chuyến ra đi</a>
+<a href="./mos17.html">số mệnh</a>
+<a href="./mos18.html">chiếc diều đuôi dài</a>
+<a href="./mos19.html">điệp khúc</a>
+</font>
+</pre>
+</td></tr>
+</table>
+</body>
+</html>
