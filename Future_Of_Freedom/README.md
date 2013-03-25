@@ -9,7 +9,7 @@ Illiberal Democracy at Home and Abroad", by Fareed Zakaria._
     *   `Makefile`: Make file to generate html files
     *   `DanNhap.md`: Introduction by _Diên Vỹ_
     *   `index.txt`: Table of Content
-    *   `Ch[1-6].md`: Chapter 1-6
+    *   `Ch[1-6].txt`: Chapter 1-6
     *   `FreedomBook.html`: Concatenated html file for PDF output
     *   `FutureOfFreedom.pdf`: Rendered with Adobe Garamond Premier Pro font
 
@@ -20,11 +20,11 @@ Illiberal Democracy at Home and Abroad", by Fareed Zakaria._
 *   **Requirements:**
 
     *    `htmlizer.pl`: convert txt to easy to read html file. Get it from [PersonalTools][1]
-    *    `markdown`: converts markdown extension file.
+    *    `maruku`: converts markdown extension file.
 
-**Translating:** _Bums_ & _Diên Vỹ_, member of [x-cafevn.org][2]
+**Translator:** _Bums_ & _Diên Vỹ_, member of [x-cafevn.org][2]
 
-**Typesetting:** _neofob_
+**Typesetter:** _neofob_
 
 [0]: http://en.wikipedia.org/wiki/Markdown "Markdown"
 [1]: https://github.com/neofob/PersonalTools "PersonalTools"
