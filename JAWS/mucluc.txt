@@ -1,0 +1,72 @@
+<!doctype html system>
+  <head>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  <meta content="Keywords" name="Vietnam War, Vietnam, Vietnamese Politics, America,American Politics, In the Jaws of History,Bui Diem, Phan Le Dung">
+  <title>Trong Gọng Kềm Lịch Sử</title>
+  <link href="neofob.css" rel="stylesheet" type="text/css">
+  </head>
+
+<body>
+
+<!-- htmlized by neofob -->
+
+<center>
+  <font size=+2><b>
+  In the Jaws of History &mdash; Trong Gọng Kềm Lịch Sử<br></b></font>
+  <font size="+1">
+  <i>Bùi Diễm & David Chanoff<br>
+  Phan Lê Dũng dịch
+  </i>
+  </font>
+</center>
+
+<br><br>
+
+<table width="60%" align="center">
+<tr><td>
+<pre>
+<a href="./thodan.html">    Thơ Dẫn</a>
+<a href="./modau.html">    Lời Người Dịch</a>
+<a href="./Ch00.html">    Lời Mở Đầu                             </a>
+<a href="./Ch01.html">1   Gọng Kềm Lịch Sử                     </a>
+<a href="./Ch02.html">2   Thuở Ấu Thời                         </a>
+<a href="./Ch03.html">3   Các Hội Bí Mật                       </a>
+<a href="./Ch04.html">4   Đảng Đại Việt                       </a>
+<a href="./Ch05.html">5   Cách Mạng Tháng Tám                  </a>
+<a href="./Ch06.html">6   Anh, Tàu Và Pháp                     </a>
+<a href="./Ch07.html">7   Khủng Bố                             </a>
+<a href="./Ch08.html">8   Trong Vòng Trốn Tránh                </a>
+<a href="./Ch09.html">9   Giải Pháp Bảo Đại                    </a>
+<a href="./Ch10.html">10  Mùa Nghỉ Alpine                      </a>
+<a href="./Ch11.html">11  Lập Trường Ngoan Cố của Pháp         </a>
+<a href="./Ch12.html">12  Sự Lựa Chọn của Cựu Hoàng            </a>
+<a href="./Ch13.html">13  Ông Diệm và Các Thành Phần Đối Lập   </a>
+<a href="./Ch14.html">14  Đảo Chánh                            </a>
+<a href="./Ch15.html">15  Tình Hình Sau Đảo Chánh              </a>
+<a href="./Ch16.html">16  Chánh Quyền Tướng Khánh              </a>
+<a href="./Ch17.html">17  Sự Can Thiệp của Hoa Kỳ              </a>
+<a href="./Ch18.html">18  Bác Sĩ Quát và Các Tướng Lãnh        </a>
+<a href="./Ch19.html">19  Con Đường Dẫn Đến Hiến Pháp          </a>
+<a href="./Ch20.html">20  Bước Thứ Hai                         </a>
+<a href="./Ch21.html">21  Đại Sứ Tại Hoa Thịnh Đốn             </a>
+<a href="./Ch22.html">22  Hiến Pháp Dân Chủ                    </a>
+<a href="./Ch23.html">23  Khung Cảnh Hậu Trường                </a>
+<a href="./Ch24.html">24  Những Cuộc Bầu Cử Năm 1967           </a>
+<a href="./Ch25.html">25  Thay Đổi Bầu Không Khí               </a>
+<a href="./Ch26.html">26  Tết Mậu Thân                         </a>
+<a href="./Ch27.html">27  Khởi Đầu Đàm Phán                    </a>
+<a href="./Ch28.html">28  Vụ Anna Chennault                    </a>
+<a href="./Ch29.html">29  Tổng Thống Mới, Chánh Sách Mới       </a>
+<a href="./Ch30.html">30  Kéo Dài Thời Gian                    </a>
+<a href="./Ch31.html">31  Đánh Mất Thời Gian                   </a>
+<a href="./Ch32.html">32  Cuộc Bầu Cử Đơn Phương               </a>
+<a href="./Ch33.html">33  Hai Màn Kết Cuộc                     </a>
+<a href="./Ch34.html">34  Hiệp Định Ba Lê                      </a>
+<a href="./Ch35.html">35  Những Việc Cuối Cùng                 </a>
+<a href="./Ch36.html">36  Lời Hậu Luận                         </a>
+
+</pre>
+</td></tr>
+</table>
+</body>
+</html>
