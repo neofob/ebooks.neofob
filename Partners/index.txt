@@ -1,0 +1,26 @@
+<center><font size="+2">Partners in Power - Đôi Bài Trùng Quyền Thế</font><br>
+<center><b>Robert Dallek</b></center>
+
+<center><i><b>Cymbidium</b></i>, <a href="http://x-cafevn.org">x-cafevn.org</a>, chuyển ngữ</center>
+
+<center><font size="+1">Mục Lục</font></center>
+
+<table align="center">
+<tr><td><a href="./DanNhap.html">Lời người dịch</a></td><td> </td></tr>
+<tr><td align="left"><a href="./Ch2.html">Chương Hai</a></td> <td align="left">Kissinger</td></tr>
+<tr><td align="left"><a href="./Ch3.html">Chương Ba</a></td> <td align="left">Năm 1968</td></tr>
+<tr><td align="left"><a href="./Ch4.html">Chương Bốn</a></td> <td align="left">Nixon và Kissinger Trong Bạch Ốc</td></tr>
+<tr><td align="left"><a href="./Ch5.html">Chương Năm</a></td><td align="left"> Hy Vọng và Ảo Vọng</td></tr>
+<tr><td align="left"><a href="./Ch6.html">Chương Sáu</a></td><td align="left"> Chính Trị Của Chính Sách Ngoại Giao</td></tr>
+<tr><td align="left"><a href="./Ch7.html">Chương Bảy</a></td><td align="left"> Khó Khăn Triền Miên</td></tr>
+<tr><td align="left"><a href="./Ch8.html">Chương Tám</a></td><td align="left"> Quản Lý Khủng Hoảng</td></tr>
+<tr><td align="left"><a href="./Ch9.html">Chương Chín</a></td><td align="left"> Mùa Đông Không Vui</td></tr>
+<tr><td align="left"><a href="./Ch10.html">Chương Mười</a></td><td align="left"> Con Đường Đến Hòa Hoãn</td></tr>
+<tr><td align="left"><a href="./Ch11.html">Chương Mười Một</a></td><td align="left"> Hòa Hoãn Ở Á Châu: Thắng Lợi Và Mất Mát</td></tr>
+<tr><td align="left"><a href="./Ch12.html">Chương Mười Hai</a></td><td align="left"> Chiến Sỹ Làm Người Hòa Giải</td></tr>
+<tr><td align="left"><a href="./Ch13.html">Chương Mười Ba</a></td><td align="left"> Chiến Thắng Ô Uế</td></tr>
+<tr><td align="left"><a href="./Ch14.html">Chương Mười Bốn</a></td><td align="left"> Nỗi Khốn Khổ Mới</td></tr>
+<tr><td align="left"><a href="./Ch15.html">Chương Mười Lăm</a></td><td align="left"> Bóng Tối Watergate</td></tr>
+<tr><td align="left"><a href="./Ch16.html">Chương Mười Sáu</a></td><td align="left"> Kết Thúc Thời Tổng Thống Nixon-Kissinger</td></tr>
+<tr><td align="left"><a href="./Epilogue.html">Lời Bạt</a></td><td align="left"> Lời Bạt</td></tr>
+</table>
