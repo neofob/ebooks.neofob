@@ -1,0 +1,55 @@
+<!doctype html system>
+  <head>
+     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+     <title>Thơ Dẫn</title>
+     <link href="thodan.css" rel="stylesheet" type="text/css">
+  </head>
+
+<!-- htmlized by neofob -->
+
+<body>
+<table width="80%" align="center">
+<tr><td>
+
+<center><font size="+3"><i>Thơ Dẫn</i></font></center>
+
+<pre><i>
+Success is counted sweetest
+By those who ne'er succeed
+To comprehend a nectar
+Requires sorest need.
+
+Not one of all the purple Host
+Who took the Flag today
+Can tell the definition
+So clear of Victory
+
+As he defeated -dying-
+On whose forbidden ear
+The distant strains of triumph
+Burst agonized and clear!
+            <b>Emily Dickinson, 1858</b>
+
+
+                          Thật ân sủng ngọt ngào chiến thắng
+                          Chỉ nhiệm màu với kẻ lỡ vận đến sau
+                          Hiểu được Cam Lồ vi diệu,
+                          Quả cần vết tận cùng đau.
+
+                          Vả chẳng thuộc kẻ Chủ Tể,
+                          Kẻ giữ cờ Tiên Cuộc cấp thời
+                          Ðịnh nghĩa rõ ràng minh tỏ
+                          Hào quang chiến thắng rạng ngời.
+
+                          Bởi chỉ kẻ vong bại sắp lìa đời-
+                          Trọn nghe âm hưởng tuyệt vời cấm đoán,
+                          Nổ bùng trong nỗi tái tê
+                          Ân huệ tột cùng Chiến Thắng
+                                           <b>Phan Lê Dũng, 1988</b></i>
+</pre>
+
+</td></tr>
+</center>
+
+</body>
+</html>
