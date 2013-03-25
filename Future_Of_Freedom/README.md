@@ -22,7 +22,7 @@ Illiberal Democracy at Home and Abroad", by Fareed Zakaria._
     *    `htmlizer.pl`: convert txt to easy to read html file. Get it from [PersonalTools][1]
     *    `markdown`: converts markdown extension file.
 
-**Translating:** _bum_ & _Diên Vỹ_, member of [x-cafevn.org][2]
+**Translating:** _Bums_ & _Diên Vỹ_, member of [x-cafevn.org][2]
 
 **Typesetting:** _neofob_
 
