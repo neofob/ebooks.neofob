@@ -1,6 +1,6 @@
 ## The Future of Freedom
 
-_This is the Vietnamse fan translation of the book "The Future of Freedom:
+_This is the Vietnamese fan translation of the book "The Future of Freedom:
 Illiberal Democracy at Home and Abroad", by Fareed Zakaria._
 
 *   **File list:**
