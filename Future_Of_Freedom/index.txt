@@ -1,0 +1,17 @@
+<center><font size="+3"><b>The Future of Freedom - Tương Lai của Tự Do</b></font><br>
+<font size="+2">Fareed Zakaria</font></center>
+
+<center>Chuyển ngữ: thành viên <b><i>Bums</i></b> &amp; <b><i>Diên Vỹ</i></b> của diễn đàn
+<a href="http://x-cafevn.org">x-cafevn.org</a></center>
+
+<center>Mục Lục</center>
+
+<table align="center">
+<tr><td><a href="./DanNhap.html">Dẫn Nhập</a></td><td> </td></tr>
+<tr><td align="left"><a href="./Ch1.html">Chương Một</a></td> <td align="left"> Thời Đại Dân Chủ</td></tr>
+<tr><td align="left"><a href="./Ch2.html">Chương Hai</a></td> <td align="left"> Trên Những Con Đường Quanh Co</td></tr>
+<tr><td align="left"><a href="./Ch3.html">Chương Ba</a></td> <td align="left"> Dân Chủ Không Có Tự Do</td></tr>
+<tr><td align="left"><a href="./Ch4.html">Chương Bốn</a></td> <td align="left"> Hồi Giáo, Trường Hợp Đặc Biệt</td></tr>
+<tr><td align="left"><a href="./Ch5.html">Chương Năm</a></td><td align="left"> Tốt Quá Nên Hóa Xấu</td></tr>
+<tr><td align="left"><a href="./Ch6.html">Chương Sáu</a></td><td align="left"> Về Sự Cáo Chung Của Quyền Thế</td></tr>
+</table>
