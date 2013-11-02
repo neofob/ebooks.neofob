@@ -1,0 +1,30 @@
+\begin[class=book,papersize=halfletter]{document}
+\define[command=em]{\font[family="Garamond Premier Pro",style=italic,
+features=+swsh:+dlig:+hlig]{\process}}
+\define[command=smcp]{\font[family="Garamond Premier Pro",features=+smcp]{\process}}
+
+\set[parameter=linebreak.emergencyStretch, value=0.5cm]
+% Modified from the sample macro of SILE source
+% At the moment, the sil/macro must begin with `\begin{document}`
+% So there is no silly comments at the beginning
+
+\define[command=headline]{
+\font[family="Garamond Premier Pro",style=italic,size=24pt,weight=600,
+features=+swsh:+dlig:+hlig]{\center{\process}}
+\bigskip
+}
+
+% Dropcap at the beginning of a paragraph
+\define[command=dropcap]{
+\float[bottomboundary=2pt]{\font[weight=700,size=60pt]{\process}}
+}
+
+% Simon added unichar package in 586f0e80700 commit
+\script[src=packages/unichar]
+\define[command=ndash]{\unichar{U+2013}}
+\define[command=mdash]{\unichar{U+2014}}
+
+\define[command=ldquo]{\unichar{U+201C}}
+\define[command=rdquo]{\unichar{U+201D}}
+
+\end{document}

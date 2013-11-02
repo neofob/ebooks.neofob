@@ -1,0 +1,9 @@
+\begin[class=book,papersize=halfletter]{document}
+\script[src=packages/verbatim]
+\script[src=packages/frametricks]
+\script[src=packages/footnotes]
+\include[src=../macros.sil]
+
+\font[family=Garamond Premier Pro,size=12pt,features=+dlig:+hlig:+swsh]
+
+\end{document}
