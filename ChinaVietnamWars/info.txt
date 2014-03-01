@@ -1,0 +1,16 @@
+| | |
+|:---------|:------------------------------:|
+|**Font:** | *Adobe Garamond Premier Pro*   |
+|**Size:** | 20                             |
+
+**Source:**
+
+| | |
+|:---------------:|:--------------------------------:|
+| Chapter 1, p1   | `https://danluan.org/node/24449` |
+| Chapter 1, p2   | `https://danluan.org/node/24542` |
+| Chapter 1, p3   | `https://danluan.org/node/24742` |
+| Chapter 1, p4   | `https://danluan.org/node/24774` |
+|=================|==================================|
+
+URL: https://www.danluan.org/tu-khoa/trach-cuong
