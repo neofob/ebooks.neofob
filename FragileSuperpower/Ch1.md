@@ -159,15 +159,51 @@ quân sự của Trung Quốc ở eo biển Đài Loan bằng một cử
 chỉ quân sự mạnh mẽ của chúng ta. Hy vọng là sự phô
 trương quyết tâm này sẽ chấm dứt khủng hoảng bằng cách
 buộc Bắc Kinh xuống thang như họ đã từng làm vào năm 1996.
-Thế nhưng cơn khủng hoảng kế tiếp có thể leo thang thay vì
-vậy nếu các nhà lãnh đạo Trung Quốc cho là nhượng bộ
-Hoa Kỳ sẽ làm họ mất mặt trong nước và dẫn đến nguy
-hiểm cho sự sống còn của chế độ. Sự leo thang khủng
-hoảng có hướng đi riêng của nó. Nó có thể dẫn đến
-chiến tranh cho dù chẳng ai muốn nó xảy ra.
+Thế nhưng thay vì thế cơn khủng hoảng kế tiếp có thể leo
+thang nếu các nhà lãnh đạo Trung Quốc cho là nhượng bộ
+Hoa Kỳ sẽ làm họ mất mặt trong nước và đặt sự sống còn của
+chế độ vào rủi ro. Sự leo thang khủng hoảng có hướng đi
+riêng của nó. Nó có thể dẫn đến chiến tranh cho dù chẳng
+ai muốn nó xảy ra.
+
+Đài Loan có lẽ là điểm nóng có nguy cơ nhất vì một cuộc xung
+đột giữa Trung Quốc và Hoa Kỳ thế nhưng nó không chỉ là duy
+nhất. Những quan hệ giữa Trung Quốc và đồng minh thân cận của
+Hoa Kỳ là Nhật Bản đã đi đến mức gay gắt trong vòng nhiều năm
+qua. Các tàu của Hải quân Quân Giải phóng Nhân dân Trung Quốc
+đã bắt đầu tuần tra ở khu vực Biển Hoa Đông gần quần đảo Điếu Ngư
+mà chúng đều được tuyên bố chủ quyền bởi Trung Quốc và Nhật Bản.
+Một tai nạn hàng hải có thể đi vượt khỏi tầm kiểm soát nếu các
+chính trị gia Trung Quốc và Nhật Bản cảm thấy bị ép buộc bởi dư
+luận chống đối.
+
+Láng giềng và đồng minh cũ của Trung Quốc là Bắc Triều Tiên đã thử
+nghiệm tên lửa tầm xa và vũ khí hạt nhân. Cho đến nay những đàm
+phán đã thất bại trong việc giải quyết vấn đề và những lệnh trừng
+phạt kinh tế của quốc tế đang siết chặt chính quyền. Nếu Bắc Triều
+Tiên sụp đổ bất thình lình và đẩy hàng ngàn người tị nạn tháo chạy
+sang vùng Đông Bắc Trung Quốc, Bắc Kinh có thể gởi binh sĩ sang
+Bắc Triều Tiên để lập lại trật tự cho dù có phản đối từ Nam Triều
+Tiên và Hoa Kỳ.
+
+Trong trường hợp như thế này, các nhà lãnh đạo của Trung Quốc có thể
+không tài nào kiểm soát những áp lực trong nước mà có thể đẩy họ vào
+thế đối đầu trực diện với Hoa Kỳ.
+
+**<font class="smcp">Trung Quốc Trỗi Dậy</font>**
+
+Trung Quốc đang tái xuất hiện lại là một cường quốc sau một trăm năm
+mươi năm với cương vị là kẻ yếu thế trên chính trường quốc tế--một sự
+gián đoạn ngắn ngủi trong lịch sử kéo dài của Trung Quốc. Trong vòng
+hai ngàn năm, Trung Quốc có nền kinh tế lớn nhất thế giới cho đến tận
+cuối thế kỷ mười chín khi mà Hoa Kỳ thay thế nó.`[1]` Kể từ năm 1978,
+bằng việc từ bỏ kế hoạch từ trung ương, tạo một nền kinh tế thị trường,
+và gở bỏ bế quan tỏa cảng, Trung Quốc đã tự hồi sinh trở thành một
+
 
 **Cước chú:**  
 **`(*):`** Nguyên văn *flashpoints.* Trong chính trị, sử học, flashpoint là
 nơi tranh chấp mà có khả năng bùng cháy thành chiến tranh cao.
 Nghĩa bóng từ nhiệt độ thấp nhất có thể bốc cháy của chất lỏng.
 
+`[1]:`
