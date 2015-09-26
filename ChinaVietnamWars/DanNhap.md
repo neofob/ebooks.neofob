@@ -14,15 +14,15 @@ CSS: ./neofob.css
 
 ###***<center>Dẫn Nhập</center>***
 
-Cuốn sách của Trạch Cường *Trung Quốc và Những Cuộc Chiến
-tranh Việt Nam, 1950-1975* là một đóng góp nổi bật cho lịch
+Cuốn sách của Trạch Cường ***Trung Quốc và Những Cuộc Chiến
+tranh Việt Nam, 1950-1975*** là một đóng góp nổi bật cho lịch
 sử quốc tế về Chiến tranh Lạnh nói chung và cho lịch sử quốc
 tế về cuộc Chiến tranh Việt Nam nói riêng. Các nhà sử học
 từ lâu đã phỏng đoán về mối quan hệ giữa Cộng hoà Nhân dân
 Trung Hoa và Việt Nam Dân chủ Cộng hoà trong một phần tư
-thế kỷ chiến tranh tại Đông Dương, kéo dài từ 1950 đến
-1975. Cho đến khi cuốn sách này xuất bản thì chúng ta mới
-biết được thực sự.
+thế kỷ chiến tranh tại Đông Dương, kéo dài từ 1950 đến 1975.
+Cho đến khi cuốn sách này xuất bản thì chúng ta mới biết được
+thực sự.
 
 Với lối viết rõ ràng và thông suốt đáng ngưỡng mộ,
 Trạch Cường đã dùng hàng loạt những nguồn thông tin đầy
@@ -45,7 +45,7 @@ thực dụng trong suy tính của Mao.
 
 Rằng viện trợ quân sự của Trung Quốc thì rất quan trọng
 đối với Việt Minh trong cuộc kháng chiến chống Pháp trước
-khi có những thoả thuận từ hiệp định Geneva 1954. Mức độ
+khi có những thỏa thuận từ hiệp định Geneva 1954. Mức độ
 của nguồn viện trợ này thật là đáng ngạc nhiên vì lúc
 ấy Trung Quốc cũng đang tham dự vào Chiến tranh Triều Tiên.
 
@@ -71,8 +71,8 @@ Rằng Trung Quốc đã gặp khó khăn rất lớn trong việc giải
 thích với Bắc Việt về chuyến thăm Bắc Kinh của Nixon vào
 năm 1972, rằng họ đã tìm cách bù đắp bằng cách tăng cường
 tiếp tế quân sự cho Hà Nội trong giai đoạn cuối của quá
-trình đàm phán ngưng bắn, và rằng - bất chấp mối giao hảo
-với người Mỹ - Mao vẫn mạnh mẽ hậu thuẫn việc Pol Pot
+trình đàm phán ngưng bắn, và rằng--bất chấp mối giao hảo
+với người Mỹ--Mao vẫn mạnh mẽ hậu thuẫn việc Pol Pot
 và Khmer Đỏ nắm chính quyền tại Cambodia vào năm 1975.
 
 Rằng giờ đây ta biết được cuộc Chiến Trung-Việt năm 1979
@@ -85,7 +85,7 @@ bật vai trò quan trọng của Trung Quốc trong Chiến tranh Việt
 Nam. Trên cả mọi thứ, *"Lịch sử Mới của cuộc Chiến tranh
 Lạnh"* dựa vào việc xem xét lại những gì chúng ta từng
 cho rằng mình đã hiểu bằng cách truy cập các tài liệu lưu
-trữ của “phía bên kia”. Cuốn sách này là khuôn mẫu của
+trữ của *"phía bên kia."* Cuốn sách này là khuôn mẫu của
 những nghiên cứu thuộc dạng này. Chắc chắn nó sẽ định
 hình kiến thức của chúng ta đối với cuộc Chiến tranh Lạnh
 tại Đông nam Á trong nhiều thập niên tới.

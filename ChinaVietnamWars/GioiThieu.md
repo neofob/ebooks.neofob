@@ -1,7 +1,7 @@
 Title: Giới Thiệu
 CSS: ./neofob.css
 
-###***<center>Giới Thiệu</center>***
+##***<center>Giới Thiệu</center>***
 
 Quá trình thăng trầm của liên minh Trung-Việt là một trong những
 diễn tiến quan trọng nhất đối với lịch sử Chiến tranh Lạnh
@@ -67,8 +67,8 @@ tổ chức đất nước và xã hội Trung Quốc đã ảnh hưởng
 đến các quyết định về Việt Nam của ông ra sao?
 
 ![Bản đồ Đông Dương][0]  
-Bản đồ Đông Dương. Nguồn: Jacques Dalloz, Chiến tranh Đông
-Dương 1945-54 (Dublin: Gill & Macmillan, 1987)
+*Bản đồ Đông Dương. Nguồn: Jacques Dalloz, Chiến tranh Đông
+Dương 1945-54 (Dublin: Gill & Macmillan, 1987)*
 
 Những câu hỏi sâu hơn nổi lên từ những tương tác giữa Trung
 Quốc với các đồng minh Sô Viết và Việt Nam. Liệu đã có sự
@@ -151,7 +151,7 @@ Mao cũng không muốn gây chiến với Hoa Kỳ. Vị lãnh tụ Trung
 Quốc này là một người thực tế, có đủ khả năng để
 chỉnh sửa chính sách khi gặp phải những khó khăn kinh tế
 trong nước hoặc những áp lực từ nước ngoài. Ông có khả
-năng vượt qua những thóai bộ chiến thuật trong nhiều lần
+năng vượt qua những thoái bộ chiến thuật trong nhiều lần
 nhưng luôn giữ vững lập trường của mình. Ví dụ như từ
 năm 1954 đến 1960, ông giảm bớt sự ủng hộ của Bắc Kinh
 đối với phong trào phản kháng tại Đông Dương để Trung
@@ -292,8 +292,8 @@ vào năm 1968 mối quan hệ Trung-Việt đã chuyển nhanh sang chiều
 hướng xấu khi Washington vừa đưa ra một bước thăm dò trong
 việc nới lỏng cam kết với Nam Việt. Trong tình hình mới,
 quyền lợi chiến lược của Bắc kinh bắt đầu có sự khác
-biệt cơ bản so với Hà Nội. Trong khi lúc này Trung Quốc xem Hoa
-Kỳ như là một tiềm năng đối trọng để chống lại Liên
+biệt cơ bản so với Hà Nội. Trong khi lúc này Trung Quốc
+xem Hoa Kỳ như là một tiềm năng đối trọng để chống lại Liên
 Sô, những đồng chí Việt Nam vẫn tiếp tục xem Washington
 là đối thủ nguy hiểm nhất. Sau khi quân đội Hoa Kỳ rút
 quân khỏi Việt Nam và đất nước được thống nhất, những
@@ -308,7 +308,7 @@ mới này được xếp vào bốn loại: nguồn hồ sơ lưu trữ, các
 tuyển tập tài liệu đã được xuất bản, hồi ký và nhật
 ký, và các tài liệu gián tiếp dựa trên các nguồn lưu trữ.
 
-**Nguồn Hồ sơ Lưu trữ**
+###Nguồn Hồ sơ Lưu trữ
 
 Trong khi các nhà nghiên cứu không được truy cập những tài
 liệu lưu trữ quan trọng như Văn khố Trung ương ĐCSTQ và Văn
@@ -333,7 +333,7 @@ của lãnh đạo Trung Quốc đối với những diễn biến trên
 thế giới nói chung và Đông Dương nói riêng chính xác hơn so
 với các tường thuật từ báo chí Trung Quốc thời kỳ ấy.
 
-**Các Tuyển Tập Tài Liệu Đã Xuất Bản**
+###Các Tuyển Tập Tài Liệu Đã Xuất Bản
 
 Trong những năm gần đây Bắc Kinh đã xuất bản nhiều tuyển
 tập gồm các bản thảo, bài viết, trao đổi và phát biểu
@@ -356,7 +356,7 @@ Văn tuyển (Tuyển tập các bài viết ngoại giao của Chu Ân Lai)
 (Bắc Kinh XB 1993), Lưu Thiếu Kỳ Niên Phả (Biên niên ký của
 Lưu Thiếu Kỳ), 2 bộ (Bắc Kinh XB 1996).
 
-**Hồi Ký Và Nhật Ký**
+###Hồi Ký Và Nhật Ký
 
 Nhiều quan chức đảng, chỉ huy quân sự, nhà ngoại giao, thư
 ký và thông dịch viên về hưu đã xuất bản những hồi ký
@@ -377,7 +377,7 @@ nghiên cứu này bao gồm Bạc Nhất Ba, Trần Canh, Hu Zhengqing,
 Lý Việt Nhiên, La Quí Ba, Shi Zhe, Tong Xiaopeng, Vương Bỉnh Nam,
 Ngũ Tu Quyền, Hùng Hướng Huy, Zeng Sheng, và Zhang Dequn`[5]`.
 
-**Những Bài Viết Gián Tiếp**
+###Những Bài Viết Gián Tiếp
 
 Kể từ giữa thập niên 1980, một số lớn các tài liệu gián
 tiếp dựa trên các nguồn lưu trữ đã xuất hiện tại Trung
