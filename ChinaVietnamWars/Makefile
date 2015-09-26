@@ -13,7 +13,8 @@ all: project
 project: $(DOCS)
 
 %.html:%.md
-	$(HTMLIZER) $< >/dev/null
+	@echo "Generating file $@"
+	@$(HTMLIZER) $< >/dev/null
 
 clean:
 	@echo 'Cleaning html files in $(shell pwd)'
