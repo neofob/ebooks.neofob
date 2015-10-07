@@ -7,13 +7,14 @@
 PDFIZER=sile
 
 DOCS:=$(patsubst %.sil,%.pdf,$(wildcard *.sil))
+REQS:=requirements.sil
 
 all: project
 
 project: $(DOCS)
 
 %.pdf:%.sil
-	$(PDFIZER) $<
+	$(PDFIZER) -I $(REQS) $<
 
 clean:
 	@echo 'Cleaning pdf files in $(shell pwd)'
