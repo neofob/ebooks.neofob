@@ -1,6 +1,6 @@
 \begin[class=book,papersize=halfletter]{document}
 
-\include[src=./requirements.sil]
+%\include[src=./requirements.sil]
 % include all chapters and all here
 \include[src=./sketch_en.sil]
 \include[src=./letter_en.sil]
@@ -8,5 +8,6 @@
 \include[src=./intro_en.sil]
 \include[src=./ch-01_en.sil]
 \include[src=./ch-02_en.sil]
+\include[src=./ch-03_en.sil]
 
 \end{document}
