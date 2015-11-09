@@ -9,5 +9,6 @@
 \include[src=./ch-01_en.sil]
 \include[src=./ch-02_en.sil]
 \include[src=./ch-03_en.sil]
+\include[src=./ch-04_en.sil]
 
 \end{document}
