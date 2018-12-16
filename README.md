@@ -9,9 +9,12 @@
     *   `htmlizer.pl`: convert text file to html, download [here][1]
     *   `maruku`: convert [Markdown][2] file to html
 
+*   Rendered `PDF`:
+    * Rendered [`PDF`][3] files on Google Drive
+
 **Typesetter:** _neofob_
 
 [0]: http://x-cafevn.org "x-cafevn.org"
 [1]: https://github.com/neofob/PersonalTools "PersonalTools"
 [2]: http://en.wikipedia.org/wiki/Markdown "Markdown"
-
+[3]: https://drive.google.com/drive/folders/0B9AhIOpYKcnxNkIzZlpUQmNYMWs "books"
