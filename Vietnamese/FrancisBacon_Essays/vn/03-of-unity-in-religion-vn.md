@@ -1,13 +1,122 @@
 ## III.—VỀ SỰ ĐOÀN KẾT TRONG TÔN GIÁO
 
-Khi tôn giáo là sợi dây liên kết chính của xã hội loài người, thật là một điều hạnh phúc khi chính nó được gói gọn trong sợi dây thực sự của sự đoàn kết. Những cuộc cãi vã và chia rẽ về tôn giáo là những nỗi khổ mà dân ngoại đạo không hề biết tới. Lý do là vì tôn giáo của dân ngoại đạo thiên về các nghi lễ và điển lễ hơn là bất kỳ một niềm tin kiên định nào; bởi lẽ quý vị có thể hình dung đức tin của họ ra sao khi những bậc học giả và giáo phụ hàng đầu trong giáo hội của họ lại chính là các thi sĩ. Nhưng Thiên Chúa chân thật có đặc tính này, rằng Ngài là một vị Thiên Chúa hay ghen; và vì thế việc thờ phượng cũng như tôn giáo của Ngài sẽ không chấp nhận bất kỳ sự pha trộn hay đối tác nào. Vì vậy, chúng ta sẽ bàn đôi lời về sự đoàn kết của giáo hội; những hoa trái của nó là gì; giới hạn ở đâu; và phương cách thực hiện ra sao.
+Tôn giáo là sợi dây liên kết chính của xã hội loài người, vì vậy thật hạnh phúc khi
+chính nó được gói gọn trong sợi dây đoàn kết đích thực. Những cuộc tranh cãi và chia
+rẽ về tôn giáo là những điều tồi tệ mà những kẻ ngoại đạo không hề biết đến. Lý
+do là vì tôn giáo của những kẻ ngoại đạo thiên về các nghi lễ và nghi thức hơn là bất
+kỳ niềm tin cố định nào; bạn có thể hình dung đức tin của họ ra sao, khi những học giả
+và giáo phụ chính của giáo hội họ lại là các thi sĩ. Nhưng Thiên Chúa đích thực có đặc
+tính là một vị Chúa ghen tuông; và vì vậy sự thờ phượng và tôn giáo của Ngài sẽ không
+chấp nhận sự pha trộn hay đối tác nào. Do đó, chúng ta sẽ nói đôi lời về sự đoàn
+kết của giáo hội; những thành quả của nó; những ranh giới; và những phương tiện.
 
-Các hoa trái của sự đoàn kết (sau điều làm hài lòng Thiên Chúa, vốn là tất cả trong mọi sự), có hai; một dành cho những kẻ ở ngoài giáo hội, và một cho những kẻ ở bên trong. Đối với vế trước, chắc chắn rằng các dị giáo và ly giáo, hơn bất kỳ điều gì khác, là những nỗi ô nhục lớn nhất, thậm chí còn hơn cả sự suy đồi về đạo đức; vì cũng như trong cơ thể vật lý, một vết thương hay sự đứt gãy liên tục thì tồi tệ hơn là một dịch hỏng, điều tương tự cũng xảy ra với cơ thể tâm linh; đến mức không gì ngăn cản con người gia nhập giáo hội, hay xua đuổi họ ra khỏi đó, mạnh mẽ bằng sự phá vỡ đoàn kết; và vì thế, bất cứ khi nào xảy ra chuyện một người nói, “Ecce in Deserto” [Kìa có tiếng kêu trong hoang địa], [69] còn người khác lại nói, “Ecce in penetralibus” [Kìa, ở trong nơi sâu kín nhất]; [70] nghĩa là, khi một số kẻ tìm kiếm Chúa Kitô trong những buổi họp kín của những kẻ dị giáo, còn những kẻ khác lại tìm trong vẻ ngoài hình thức của một giáo hội, thì tiếng nói ấy cần phải vang lên liên tục bên tai con người rằng, “nolite exire” [đừng ra đi], “đừng rời bỏ”. Vị sứ đồ của các dân ngoại (người mà thiên chức đặc thù đã dẫn dắt ông dành sự quan tâm đặc biệt cho những kẻ ở ngoài) nói rằng: “Nếu một người ngoại đạo[71] bước vào, và nghe thấy các ngươi nói bằng nhiều ngôn ngữ khác nhau, liệu anh ta có nói rằng các ngươi bị điên không?” và chắc chắn, điều đó cũng chẳng khá hơn là bao: khi những kẻ vô thần và những kẻ phàm tục nghe thấy quá nhiều ý kiến bất hòa và trái ngược trong tôn giáo, điều đó khiến họ xa rời giáo hội, và làm cho họ “ngồi vào chiếc ghế của những kẻ nhạo báng”.[72] Việc được trích dẫn trong một vấn đề nghiêm trọng như vậy chỉ là chuyện nhỏ, nhưng nó diễn tả rõ nét sự biến dạng. Có một bậc thầy về châm biếm, trong danh mục sách của một thư viện hư cấu, đã ghi tiêu đề cho một cuốn sách là “Điệu nhảy Morris[73] của những kẻ dị giáo”; bởi lẽ, thực sự mỗi giáo phái trong số họ đều có một tư thế, hay một điệu uốn mình riêng biệt, điều không thể không gây ra sự cười nhạo từ những kẻ trần tục và những chính khách suy đồi, những kẻ vốn dễ dàng khinh thường những điều thánh khiết.
+Thành quả của sự đoàn kết (kế tiếp sự hài lòng của Thiên Chúa, vốn là tất cả trong
+tất cả), có hai điều; một đối với những kẻ ngoài giáo hội, và một đối với những
+kẻ trong giáo hội. Đối với những kẻ trước, chắc chắn rằng những dị giáo và ly giáo,
+hơn bất cứ điều gì khác, là những điều gây sững sờ nhất, thậm chí hơn cả sự suy
+đồi về đạo đức; vì giống như trong cơ thể tự nhiên, một vết thương hay sự đứt đoạn
+của tính liên tục thì tệ hơn là một chất dịch độc hại, thì trong tâm linh cũng vậy; sao
+cho không gì ngăn cản con người vào giáo hội, và đẩy con người ra khỏi giáo hội, hơn là
+sự phá vỡ đoàn kết; và vì vậy, bất cứ khi nào dẫn đến tình cảnh mà một người nói,
+“Ecce in Deserto,”[69] người khác lại nói, “Ecce in penetralibus;”[70] nghĩa là, khi một số
+người tìm Chúa Kitô trong những buổi họp kín của những kẻ dị giáo, và những người khác
+trong vẻ ngoài của một giáo hội, thì tiếng nói ấy cần phải liên tục vang lên trong tai con
+người, “nolite exire,” “đừng ra đi.” Vị tông đồ của những kẻ ngoại đạo (người
+mà thiên chức đã thúc đẩy ông phải đặc biệt quan tâm đến những kẻ ở ngoài) nói:
+“Nếu một kẻ ngoại đạo[71] bước vào, và nghe các anh nói với nhiều ngôn ngữ khác nhau,
+liệu anh ta có nói rằng các anh bị điên không?” và chắc chắn, điều đó chẳng tốt hơn
+là bao: khi những kẻ vô thần và những kẻ phàm phu nghe thấy quá nhiều ý kiến bất đồng
+và trái ngược trong tôn giáo, điều đó khiến họ xa rời giáo hội, và khiến họ “ngồi
+vào chiếc ghế của những kẻ nhạo báng.”[72] Thật là nhẹ nhàng khi bị coi là vậy trong
+một vấn đề nghiêm trọng, nhưng điều đó diễn đạt rõ sự biến dạng. Có một bậc thầy
+về sự chế nhạo, trong danh mục sách của một thư viện giả tưởng, đã ghi tiêu đề của
+một cuốn sách là, “Điệu múa Morris[73] của những kẻ dị giáo;” vì thực vậy, mỗi tông
+phái trong số họ đều có một tư thế hoặc kiểu dáng riêng biệt, điều không thể không
+gây ra sự chế nhạo cho những kẻ trần tục và những chính trị gia tha hóa, những kẻ dễ
+dàng xem nhẹ những điều thánh thiện.
 
-Còn về hoa trái dành cho những kẻ ở bên trong, đó là sự bình an, thứ chứa đựng vô vàn phước lành; nó thiết lập đức tin; nó thắp lên lòng bác ái; sự bình an bên ngoài của giáo hội kết tinh thành sự bình an trong lương tâm, và nó chuyển hóa những nỗ lực viết lách hay đọc về các cuộc tranh luận thành những tiểu luận về sự khắc kỷ và lòng sùng kính.
+Còn về thành quả đối với những kẻ ở trong, đó là sự bình an, điều mang lại vô số
+phước lành; nó củng cố đức tin; nó thắp lên lòng bác ái; sự bình an bên ngoài của giáo
+hội thấm vào sự bình an của lương tâm, và nó chuyển những nỗ lực viết và đọc về
+các cuộc tranh luận thành những chuyên luận về sự khổ chế và lòng sùng kính.
 
-Về giới hạn của sự đoàn kết, việc xác định đúng vị trí của chúng là vô cùng quan trọng. Có vẻ như tồn tại hai thái cực; vì đối với một số kẻ cuồng tín, mọi lời nói về sự hòa giải đều đáng ghét. “Có phải là bình an không, hỡi Giê-hu?”—“Ngươi can dự gì đến bình an? hãy lui ra sau ta.”[74] Bình an không phải là vấn đề, mà là sự tuân theo và phe phái. Ngược lại, một số kẻ Laô-đi-xê[75] và những kẻ hâm hấp nghĩ rằng họ có thể dàn xếp các điểm của tôn giáo bằng những con đường trung dung, chấp nhận một phần từ cả hai phía, và dùng những sự hòa giải khéo léo, như thể họ muốn đứng ra phân xử giữa Thiên Chúa và con người. Cả hai thái cực này đều phải tránh; điều đó sẽ đạt được nếu liên minh của các Kitô hữu, do chính Đấng Cứu Thế viết ra, được giải thích một cách vững chãi và rõ ràng trong hai mệnh đề trái ngược nhau: “He that is not with us is against us” [Ai không ở cùng chúng ta là chống lại chúng ta];[76] và lần nữa, “He that is not against us, is with us” [Ai không chống lại chúng ta là ở cùng chúng ta]; nghĩa là, nếu những điểm căn bản và cốt yếu trong tôn giáo được phân định và phân biệt một cách đúng đắn với những điểm không thuần túy thuộc về đức tin, mà chỉ là ý kiến, quy tắc, hoặc thiện chí. Đây là điều có vẻ tầm thường đối với nhiều người, và tưởng chừng đã được thực hiện xong; nhưng nếu nó được thực hiện một cách ít thiên kiến hơn, nó sẽ được chấp nhận rộng rãi hơn.
+Về ranh giới của sự đoàn kết, việc đặt chúng đúng chỗ là cực kỳ quan trọng. Có vẻ
+như có hai thái cực; vì với một số kẻ cuồng tín, mọi lời nói về sự hòa giải đều
+đáng ghét. “Có bình an không, Jehu?”—“Ngươi làm gì với bình an? Hãy lui ra sau ta.”[74]
+Bình an không phải là vấn đề, mà là sự theo đuổi và phe phái. Ngược lại, một số
+người Laodicea[75] và những kẻ hâm hấp cho rằng họ có thể dàn xếp các điểm của tôn
+giáo bằng những con đường trung dung, và lấy một phần của cả hai, cùng những cuộc hòa
+giải khéo léo, như thể họ muốn làm trọng tài giữa Thiên Chúa và con người. Cả hai thái
+cực này cần phải tránh; điều này sẽ được thực hiện nếu liên minh của các Kitô hữu,
+được soạn thảo bởi chính Đấng Cứu Thế của chúng ta, được giải thích một cách vững
+chãi và rõ ràng trong hai điều khoản chéo của nó: “Ai không ở cùng chúng ta là chống lại
+chúng ta;”[76] và một lần nữa, “Ai không chống lại chúng ta là ở cùng chúng ta;” nghĩa
+là, nếu những điểm cơ bản và thiết yếu trong tôn giáo được nhận diện và phân biệt
+một cách đúng đắn với những điểm không thuần túy thuộc về đức tin, mà thuộc về ý
+kiến, trật tự hoặc thiện chí. Đây là một điều có vẻ tầm thường với nhiều người,
+và đã được thực hiện; nhưng nếu nó được thực hiện ít thiên kiến hơn, nó sẽ được
+đón nhận rộng rãi hơn.
 
-Về điều này, tôi chỉ có thể đưa ra lời khuyên sau đây, theo mô hình khiêm tốn của mình. Con người nên cẩn trọng để không làm rách nát giáo hội của Thiên Chúa bằng hai loại tranh luận; thứ nhất là khi vấn đề bị tranh cãi quá nhỏ nhặt và hời hợt, không đáng để gây ra sự nóng nảy và xung đột, những điều vốn chỉ được khơi mào bởi sự mâu thuẫn; vì như một vị giáo phụ đã lưu ý, “Áo của Chúa Kitô quả thực không có đường khâu, nhưng y phục của giáo hội lại có nhiều màu sắc;” theo đó ông nói: “In veste varietas sit, scissura non sit” [Hãy để sự đa dạng ở y phục, nhưng đừng để có vết rách], [77] đoàn kết và đồng nhất là hai điều khác nhau; thứ hai là khi vấn đề bị tranh cãi là lớn, nhưng nó lại bị đẩy đến mức quá tinh vi và mơ hồ, khiến cho nó trở thành một điều mang tính khéo léo hơn là thực chất. Một người có sự phán đoán và hiểu biết đôi khi sẽ nghe thấy những kẻ ngu muội bất đồng, và tự mình biết rõ rằng những kẻ bất đồng đó thực ra đang muốn nói cùng một điều, vậy mà họ lại chẳng bao giờ chịu đồng thuận; và nếu điều đó xảy ra trong khoảng cách về phán đoán giữa con người với con người, thì lẽ nào ta không nghĩ rằng Thiên Chúa ở trên cao, Đấng thấu suốt mọi trái tim, chẳng nhận thấy rằng những con người yếu đuối, trong một số mâu thuẫn của họ, thực ra cùng hướng tới một điều, và Ngài chấp nhận cả hai? Bản chất của những cuộc tranh luận như vậy đã được Thánh Phaolô diễn đạt một cách xuất sắc trong lời cảnh báo và huấn thị mà ông đưa ra về vấn đề này: “Devita profanas vocum novitates, et oppositiones falsi nominis scientiæ” [Hãy tránh những sự mới mẻ phàm tục của ngôn từ, và những sự đối kháng dưới danh nghĩa giả tạo của khoa học]. [78] Con người tạo ra những sự đối kháng không hề tồn tại, và đặt chúng vào những thuật ngữ mới, cố định đến mức, trong khi lẽ ra ý nghĩa phải điều khiển thuật ngữ, thì thực tế thuật ngữ lại điều khiển ý nghĩa. Cũng có hai loại bình an hoặc đoàn kết giả tạo; thứ nhất là khi sự bình an chỉ dựa trên một sự ngu muội ngầm định; vì trong bóng tối thì mọi màu sắc đều trông như nhau; thứ hai là khi nó được chắp vá dựa trên sự thừa nhận trực tiếp những điều trái ngược trong các điểm căn bản; vì sự thật và giả dối, trong những vấn đề như vậy, giống như sắt và đất sét ở ngón chân bức tượng của Nebuchadnezzar; [79] chúng có thể dính vào nhau, nhưng không bao giờ hòa hợp.
+Về điều này, tôi chỉ có thể đưa ra lời khuyên này, theo mô hình nhỏ bé của tôi. Con
+người nên cẩn thận đừng làm rách giáo hội của Thiên Chúa bằng hai loại tranh luận; một
+là khi vấn đề của điểm bị tranh luận quá nhỏ và nhẹ, không đáng để gây ra sự nóng
+nảy và xung đột, vốn chỉ được khơi dậy bởi sự đối lập; vì như một giáo phụ đã
+ghi nhận, “Áo của Chúa Kitô thực sự không có đường may, nhưng y phục của giáo hội có
+nhiều màu sắc khác nhau;” theo đó ông nói, “In veste varietas sit, scissura non sit,”[77] đoàn
+kết và đồng nhất là hai điều khác nhau; điều thứ hai là khi vấn đề của điểm bị tranh
+luận là lớn, nhưng nó bị đẩy đến mức tinh vi và mơ hồ quá mức, khiến nó trở thành
+một thứ thiên về sự khéo léo hơn là thực chất. Một người có phán đoán và hiểu biết
+đôi khi nghe những kẻ ngu muội tranh luận, và biết rõ trong thâm tâm rằng những kẻ tranh
+luận như vậy thực ra muốn nói cùng một điều, vậy mà chính họ không bao giờ đồng ý;
+và nếu điều đó xảy ra trong khoảng cách phán đoán giữa con người với con người, chẳng
+lẽ ta không nghĩ rằng Thiên Chúa ở trên cao, Đấng thấu suốt trái tim, không nhận ra rằng
+những con người mong manh, trong một số sự mâu thuẫn của họ, thực ra có cùng ý định,
+và chấp nhận cả hai? Bản chất của những cuộc tranh luận như vậy được Thánh Phaolô
+diễn đạt xuất sắc trong lời cảnh báo và giáo huấn mà ông đưa ra: “Devita profanas vocum
+novitates, et oppositiones falsi nominis scientiæ.”[78] Con người tạo ra những sự đối lập không
+tồn tại, và đặt chúng vào những thuật ngữ mới, cố định đến mức, trong khi ý nghĩa
+đáng lẽ phải điều khiển thuật ngữ, thì thuật ngữ trên thực tế lại điều khiển ý
+nghĩa. Cũng có hai sự hòa bình hoặc đoàn kết giả tạo; một là khi sự hòa bình được xây
+dựng trên một sự thiếu hiểu biết ngầm; vì mọi màu sắc đều sẽ đồng nhất trong bóng
+tối; hai là khi nó được chắp vá trên sự thừa nhận trực tiếp những điều trái ngược
+trong các điểm cơ bản; vì sự thật và giả dối, trong những điều như vậy, giống như sắt
+và đất sét trong những ngón chân của bức tượng Nebuchadnezzar;[79] chúng có thể dính vào nhau,
+nhưng sẽ không hợp nhất.
 
-Về phương cách đạt được sự đoàn kết, con người phải cẩn thận rằng trong khi tìm kiếm hoặc củng cố sự đoàn kết tôn giáo, họ không làm tan rã và hủy hoại các luật lệ về bác ái và xã hội loài người. Có hai thanh gươm trong cộng đồng Kitô hữu, một tâm linh và một thế tục, và cả hai đều có chức năng và vị trí xứng đáng trong việc duy trì tôn giáo; nhưng chúng ta không được phép cầm lấy thanh gươm thứ ba, tức là thanh gươm của Mahomet [80] hoặc những gì tương tự; tức là truyền bá tôn giáo bằng chiến tranh, hoặc dùng những cuộc ngược đãi đẫm máu để cưỡng ép lương tâm; ngoại trừ trong những trường hợp gây gương xấu công khai, phỉ báng, hoặc có sự pha trộn của các hoạt động chống lại quốc gia; càng không được nuôi dưỡng sự phân rẽ, cấp phép cho những âm mưu và nổi loạn, trao gươm vào tay dân chúng, và những điều tương tự hướng tới việc lật đổ mọi chính quyền, vốn là mệnh lệnh của Thiên Chúa; vì làm vậy chẳng khác nào đập bảng luật thứ nhất vào bảng luật thứ hai, và coi con người như những Kitô hữu mà quên mất rằng họ cũng là con người. Thi sĩ Lucretius, khi chứng kiến hành động của Agamemnon, kẻ có thể cam lòng hiến tế chính con gái mình, đã thốt lên: — “Tantum religio potuit suadere malorum” [Tôn giáo có thể xúi giục những điều ác đến mức này]. [81] Ông sẽ nói gì nếu biết về cuộc thảm sát ở Pháp [82], hay vụ mưu phản bằng thuốc súng ở Anh? [83] Ông sẽ trở thành kẻ theo phái Epicurus và kẻ vô thần gấp bảy lần; vì cũng như thanh gươm thế tục phải được rút ra với sự thận trọng tột cùng trong các trường hợp tôn giáo, thì việc trao nó vào tay dân thường là một điều quái gở; hãy để điều đó cho những kẻ Anabaptist (phái Tái tẩy tội) và những nữ thần báo thù khác. Đó là sự phỉ báng lớn khi ác quỷ nói: “I will ascend and be like the Highest” [Ta sẽ lên cao và trở nên giống như Đấng Tối Cao]; [84] nhưng còn phỉ báng hơn khi mạo danh Thiên Chúa và nhân danh Ngài mà nói rằng: “I will descend, and be like the prince of darkness” [Ta sẽ xuống thấp và trở nên giống như hoàng tử bóng tối]; và điều gì tồi tệ hơn khi khiến cho chính nghĩa của tôn giáo sa xuống những hành động độc ác và đáng ghê tởm là sát hại các vương tôn, thảm sát dân chúng, và lật đổ các quốc gia cũng như chính quyền? Chắc chắn điều này là đưa Thần Khí Thánh xuống, nhưng thay vì hình dáng một con chim bồ câu, lại dưới hình dạng của một con kền kền hay một con quạ; và cắm trên con tàu của giáo hội Kitô giáo lá cờ của những con tàu hải tặc và sát thủ; do đó, điều cần thiết nhất là giáo hội thông qua giáo lý và sắc lệnh, các vương tôn bằng thanh gươm của họ, và mọi sự học, cả Kitô giáo lẫn đạo đức, như bằng quyền trượng Mercury [85], hãy kết án và gửi xuống địa ngục vĩnh viễn những hành động và quan điểm ủng hộ điều đó, như một phần lớn đã được thực hiện. Chắc chắn rằng trong các lời khuyên về tôn giáo, lời nhắn nhủ của vị sứ đồ phải được đặt lên hàng đầu: “Ira hominis non implet justitiam Dei” [Cơn giận của con người không thực hiện công lý của Thiên Chúa]; [86] và đó là một quan sát đáng chú ý của một vị giáo phụ khôn ngoan, và cũng được thú nhận một cách thành thật chẳng kém rằng những kẻ cổ xúy cho việc cưỡng ép lương tâm thường chính là những kẻ có lợi ích riêng trong đó.
+Về phương tiện để đạt được sự đoàn kết, con người phải cẩn thận rằng, trong việc
+tìm kiếm hoặc củng cố sự đoàn kết tôn giáo, họ không làm tan rã và hủy hoại luật bác
+ái và luật xã hội loài người. Có hai thanh gươm giữa các Kitô hữu, gươm tâm linh và gươm
+trần thế, và cả hai đều có chức năng và vị trí thích đáng trong việc duy trì tôn giáo;
+nhưng chúng ta không được cầm lấy thanh gươm thứ ba, đó là thanh gươm của Mahomet,[80] hoặc
+tương tự như vậy; nghĩa là truyền bá tôn giáo bằng chiến tranh, hoặc bằng những cuộc
+đàn áp đẫm máu để cưỡng bách lương tâm; trừ khi trong những trường hợp gây escándale
+công khai, phỉ báng, hoặc pha trộn với các hành vi chống lại nhà nước; càng không nên nuôi
+dưỡng những cuộc ly khai, cho phép các âm mưu và phản loạn, trao thanh gươm vào tay nhân dân,
+và những điều tương tự, dẫn đến sự lật đổ mọi chính quyền, vốn là sắc lệnh
+của Thiên Chúa; vì điều này chỉ là đem bàn thứ nhất va vào bàn thứ hai, và vì vậy coi
+con người là Kitô hữu mà quên rằng họ là con người. Thi sĩ Lucretius, khi chứng kiến hành
+động của Agamemnon, kẻ có thể chịu đựng việc tế lễ chính con gái mình, đã thốt lên;—
+
+  “Tantum religio potuit suadere malorum.”[81]
+
+Ông sẽ nói gì nếu biết về cuộc thảm sát ở Pháp,[82] hay âm mưu thuốc súng ở Anh?[83] Ông
+sẽ trở thành kẻ theo phái Epicurus và vô thần gấp bảy lần; vì cũng như thanh gươm trần
+thế phải được rút ra một cách hết sức thận trọng trong các trường hợp tôn giáo, thì
+việc giao nó vào tay dân thường là một điều quái dị; hãy để điều đó cho những người
+Anabaptist và những kẻ cuồng loạn khác. Thật là một sự phỉ báng lớn khi ác quỷ nói,
+“Ta sẽ lên cao và trở nên như Đấng Tối Cao;”[84] nhưng còn phỉ báng hơn khi đóng giả
+Thiên Chúa, và nhân danh Ngài nói rằng, “Ta sẽ xuống thấp, và trở nên như hoàng tử của
+bóng tối;” và điều gì tệ hơn, khi khiến lý do của tôn giáo xuống thấp đến mức trở
+thành những hành động tàn ác và ghê tởm của những vị quân chủ sát nhân, sự tàn sát
+nhân dân, và sự lật đổ các quốc gia và chính quyền? Chắc chắn, đây là đem Thần khí
+xuống, thay vì hình ảnh một con chim bồ câu, trong hình dạng một con kền kền hay một con
+quạ; và cắm trên con thuyền của một giáo hội Kitô giáo lá cờ của một con thuyền hải
+tặc và sát thủ; vì vậy, điều tối cần thiết là giáo hội bằng giáo lý và sắc lệnh,
+các quân chủ bằng thanh gươm của họ, và mọi sự học thức, cả Kitô giáo và đạo đức,
+như bằng cây trượng của Mercury,[85] hãy kết án và gửi xuống địa ngục mãi mãi những hành
+vi và ý kiến ủng hộ điều tương tự, như đã được thực hiện phần lớn. Chắc chắn,
+trong những lời khuyên về tôn giáo, lời khuyên của vị tông đồ nên được đặt lên hàng
+đầu: “Ira hominis non implet justitiam Dei;”[86] và đó là một quan sát đáng chú ý của một
+giáo phụ khôn ngoan, và được thú nhận một cách không kém phần chân thành, rằng những kẻ
+chủ trương và thuyết phục việc cưỡng bách lương tâm, thường là những kẻ có lợi ích
+riêng trong đó cho những mục đích của chính họ.
