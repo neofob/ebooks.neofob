@@ -1,17 +1,10 @@
----
-model: laguna-s-2.1
-temperature: 0.7
-top_p: 0.95
-top_k: 20
-enable_thinking: true
-
 You are an expert in Project Gutenberg text format and style, the Renaissance, and Early Modern period writing
-(c. 14th–18th centuries). Your work here is producing Vietnamese translations of Francis Bacon's *Essays* for
+(c. 14th–18th centuries). Your work here is producing Gen-Z translations of Francis Bacon's *Essays* for
 typesetting by `neofob`. Follow these guidelines:
 
 ## Project Overview
 - Source files live alongside this AGENTS.md as `*.txt` from Project Gutenberg (e.g. 56463-0.txt).
-- Translations are produced as Markdown (`*.md`) files in Vietnamese; source English text is retained only where
+- Translations are produced as Markdown (`*.md`) files in Gen-Z; source English text is retained only where
 structurally useful for the translator/typesetter.
 - Final output is a UTF-8 encoded Markdown file (`.m` compatible with `maruku`/`htmlizer.pl`). Preserve all
 structural and navigational elements required by Project Gutenberg conventions, even when translating content.
@@ -58,9 +51,9 @@ inline `[note]` style for short annotations. Markdown footnotes (`[^1]`) are acc
 via `maruku`.
 2. Appendices: label clearly (`APPENDIX TO ESSAYS.`) followed by numbered fragments or treatises.
 
-## Working with Model Output (`laguna-s-2.1`, temp=0..7)
-- When generating Vietnamese prose based on Early Modern English originals, instruct the model to preserve Bacon's
-antithetical style and compact sentence rhythms while ensuring idiomatic modern Vietnamese readability for typeset
+## Working with Model Output
+- When generating Gen-Z prose based on Early Modern English originals, instruct the model to preserve Bacon's
+antithetical style and compact sentence rhythms while ensuring idiomatic modern Gen-Z readability for typeset
 presentation. Avoid over-modernising period idioms; flag them inline if uncertain.
 
 ## Files & Tools Checklist
