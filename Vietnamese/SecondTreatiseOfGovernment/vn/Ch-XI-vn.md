@@ -1,7 +1,7 @@
-# CHAPTER XI
+# CHƯƠNG  XI
 ## VỀ PHẠM VI CỦA QUYỀN LẬP PHÁP
 
-Sect. 134. Mục đích lớn lao nhất của việc con người gia nhập xã hội là để hưởng thụ
+Khoản 134. Mục đích lớn lao nhất của việc con người gia nhập xã hội là để hưởng thụ
 tài sản của họ trong hòa bình và an toàn, và công cụ cũng như phương tiện lớn nhất để
 đạt được điều đó là những luật lệ được thiết lập trong xã hội đó; vì vậy,
 đạo luật thực định đầu tiên và cơ bản nhất của mọi cộng đồng chính trị là việc
@@ -42,7 +42,7 @@ phần trong đó, tại bất kỳ thời điểm nào trước đây, đã đ�
 sự đồng thuận đó sau này bằng một thỏa thuận phổ quát tương tự. Do đó, mọi luật
 lệ của con người, dù thuộc loại nào, đều có hiệu lực nhờ sự đồng thuận. Ibid.)
 
-Sect. 135. Mặc dù quyền lập pháp, dù được giao cho một hay nhiều người, dù luôn hiện hữu
+Khoản 135. Mặc dù quyền lập pháp, dù được giao cho một hay nhiều người, dù luôn hiện hữu
 hay chỉ theo định kỳ, dù là quyền lực tối cao trong mọi cộng đồng chính trị; nhưng:
 
 Thứ nhất, nó không, và không thể, tùy tiện tuyệt đối đối với tính mạng và tài sản
@@ -84,7 +84,7 @@ người, xét về tâm trí thoái hóa của mình, chẳng tốt hơn một 
 cản trở lợi ích chung, mục đích mà các xã hội được thành lập. Nếu không làm điều này,
 chúng không hoàn thiện. Hooker’s Eccl. Pol. l. i. sect. 10.)
 
-Sect. 136. Thứ hai, quyền lập pháp, hay quyền lực tối cao, không thể tự cho mình quyền cai
+Khoản 136. Thứ hai, quyền lập pháp, hay quyền lực tối cao, không thể tự cho mình quyền cai
 trị bằng các sắc lệnh tùy tiện nhất thời, mà bị ràng buộc phải thực thi công lý và
 quyết định quyền lợi của thần dân bằng các luật lệ hiện hành được công bố và thông
 qua các thẩm phán được ủy quyền và biết đến:* vì luật tự nhiên không được viết ra,
@@ -115,7 +115,7 @@ tồi. Hooker’s Eccl. Pol. l. iii. sect. 9.
 Việc cưỡng ép con người làm bất cứ điều gì bất tiện dường như là phi
 lý. Ibid. l. i. sect. 10.)
 
-Sect. 137. Quyền lực tùy tiện tuyệt đối, hoặc cai trị không có luật lệ cố định, đều
+Khoản 137. Quyền lực tùy tiện tuyệt đối, hoặc cai trị không có luật lệ cố định, đều
 không thể phù hợp với mục đích của xã hội và chính phủ, điều mà con người sẽ không
 từ bỏ tự do của trạng thái tự nhiên để gia nhập và tự ràng buộc mình dưới đó, nếu
 không phải để bảo tồn mạng sống, tự do và tài sản của họ, và thông qua các quy tắc
@@ -148,7 +148,7 @@ tâm trong giới hạn của pháp luật; và những người cai trị cũng
 của họ, không bị cám dỗ bởi quyền lực trong tay để sử dụng nó cho những mục đích
 và theo những cách thức mà họ không muốn cho người khác biết và không sẵn lòng thừa nhận.
 
-Sect. 138. Thứ ba, quyền tối cao không thể tước đoạt bất kỳ phần nào tài sản của bất
+Khoản 138. Thứ ba, quyền tối cao không thể tước đoạt bất kỳ phần nào tài sản của bất
 kỳ ai nếu không có sự đồng ý của chính họ: vì việc bảo tồn tài sản là mục đích
 của chính phủ và là điều mà con người gia nhập xã hội, điều này tất yếu giả định
 và yêu cầu rằng người dân phải có tài sản, nếu không họ sẽ bị coi là mất đi chính
@@ -173,7 +173,7 @@ có những luật lệ tốt và công bằng để phân định ranh giới g
 dân khác, nếu người chỉ huy những thần dân đó có quyền tước đoạt bất kỳ phần nào
 của tài sản từ bất kỳ cá nhân nào theo ý thích và sử dụng, định đoạt theo ý mình.
 
-Sect. 139. Nhưng chính phủ, dù được giao cho tay ai, như tôi đã trình bày trước đó, được
+Khoản 139. Nhưng chính phủ, dù được giao cho tay ai, như tôi đã trình bày trước đó, được
 ủy thác với điều kiện này và vì mục đích này, để con người có thể có và bảo đảm
 tài sản của họ; vì vậy vị quân vương hay thượng viện, dù có quyền ban hành luật để
 điều tiết tài sản giữa các thần dân với nhau, nhưng không bao giờ có quyền tự tước
@@ -197,7 +197,7 @@ bởi vì sự tuân thủ mù quáng như vậy là cần thiết cho mục đ�
 quyền lực, đó là bảo tồn những người còn lại; nhưng việc định đoạt tài sản của
 anh ta không liên quan gì đến điều đó.
 
-Sect. 140. Đúng là các chính phủ không thể duy trì nếu không có chi phí lớn, và là hợp lý
+Khoản 140. Đúng là các chính phủ không thể duy trì nếu không có chi phí lớn, và là hợp lý
 khi mỗi người được hưởng sự bảo vệ tương ứng nên đóng góp từ gia sản của mình một
 tỷ lệ để duy trì điều đó. Nhưng điều này vẫn phải được sự đồng ý của chính họ,
 tức là sự đồng ý của đa số, thông qua chính họ hoặc những đại diện do họ chọn: vì
@@ -206,7 +206,7 @@ chính mình mà không có sự đồng ý như vậy của nhân dân, thì ng
 cơ bản về tài sản và phá hủy mục đích của chính phủ: vì tôi có tài sản gì trong cái
 mà người khác có quyền tước đoạt cho chính mình khi họ muốn?
 
-Sect. 141. Thứ tư, quyền lập pháp không thể chuyển giao quyền ban hành luật cho bất kỳ tay
+Khoản 141. Thứ tư, quyền lập pháp không thể chuyển giao quyền ban hành luật cho bất kỳ tay
 nào khác: vì đó chỉ là quyền lực được ủy thác từ nhân dân, những người nắm giữ
 quyền đó không thể chuyển giao nó cho người khác. Chỉ nhân dân mới có thể quyết định
 hình thức của cộng đồng chính trị, bằng cách thiết lập quyền lập pháp và quyết định
@@ -221,7 +221,7 @@ mà chỉ là để ban hành luật chứ không phải để tạo ra các nh�
 lập pháp không có quyền chuyển giao thẩm quyền ban hành luật của họ và đặt nó vào tay
 người khác.
 
-Sect. 142. Đây là những ranh giới mà sự ủy thác được xã hội đặt vào họ, và luật của
+Khoản 142. Đây là những ranh giới mà sự ủy thác được xã hội đặt vào họ, và luật của
 Thiên Chúa và tự nhiên, đã đặt ra cho quyền lập pháp của mọi cộng đồng chính trị trong
 mọi hình thức chính phủ.
 

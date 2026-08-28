@@ -1,4 +1,5 @@
-# CHƯƠNG XVIII. VỀ SỰ BẠO CHÍNH.
+# CHƯƠNG XVIII
+## VỀ SỰ BẠO CHÍNH
 
 **Khoản 199.** Như việc chiếm quyền là việc thực thi quyền lực mà kẻ khác có quyền sở
 hữu; thì bạo chính là việc thực thi quyền lực vượt quá quyền hạn, điều mà không một ai

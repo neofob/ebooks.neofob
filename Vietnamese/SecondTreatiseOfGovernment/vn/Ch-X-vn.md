@@ -1,7 +1,7 @@
-# CHAPTER X
+# CHƯƠNG X
 ## VỀ CÁC HÌNH THỨC CỦA MỘT CỘNG ĐỒNG CHÍNH TRỊ
 
-Sect. 132. Vì đa số, như đã được trình bày, khi con người lần đầu hợp nhất thành xã
+**Khoản 132.** Vì đa số, như đã được trình bày, khi con người lần đầu hợp nhất thành xã
 hội, nắm giữ toàn bộ quyền lực của cộng đồng một cách tự nhiên, nên họ có thể sử
 dụng toàn bộ quyền lực đó để ban hành luật pháp cho cộng đồng theo thời gian, và thực
 thi những luật đó thông qua các viên chức do họ tự bổ nhiệm; khi đó hình thức chính phủ
@@ -22,7 +22,7 @@ cho một quyền lực cao hơn, hoặc bất kỳ ai ngoài quyền tối cao 
 nên tùy theo việc quyền lập pháp được đặt ở đâu mà hình thức của cộng đồng chính
 trị sẽ như vậy.
 
-Sect. 133. Bằng thuật ngữ cộng đồng chính trị (commonwealth), tôi muốn được hiểu xuyên
+**Khoản 133.** Bằng thuật ngữ cộng đồng chính trị (commonwealth), tôi muốn được hiểu xuyên
 suốt là không chỉ một nền dân chủ, hay bất kỳ hình thức chính phủ nào, mà là bất
 kỳ một cộng đồng độc lập nào, điều mà người La Mã biểu thị bằng từ civitas, và
 từ tương ứng nhất trong ngôn ngữ của chúng ta là commonwealth, và diễn đạt chính xác nhất
