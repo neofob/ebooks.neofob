@@ -1,5 +1,5 @@
 # Khảo luận về Chính quyền
-**Trích từ Wikipedia:**  
+**Trích từ Wikipedia:**
 _Hai khảo luận về Chính quyền là một tác phẩm triết học chính trị được xuất bản ẩn
 danh năm 1689 bởi John Locke. Khảo luận thứ nhất tấn công chủ nghĩa gia trưởng dưới hình
 thức bác bỏ từng câu trong tác phẩm Patriarcha của Robert Filmer, trong khi khảo luận thứ

@@ -1,30 +1,30 @@
 # CHƯƠNG XVII
-## VỀ VIỆC CHIẾM QUYỀN
+## VỀ TIẾM QUYỀN
 
-**Khoản 197.** Như việc chinh phục có thể gọi là sự chiếm quyền từ bên ngoài, thì sự
-chiếm quyền cũng là một loại chinh phục nội bộ, với điểm khác biệt là kẻ chiếm quyền
-không bao giờ có lý lẽ chính đáng về phía mình, vì chỉ khi một người nắm giữ những
-gì mà người khác có quyền mới gọi là chiếm quyền. Việc này, trong chừng mực nó là sự
-chiếm quyền, chỉ là sự thay đổi về nhân sự chứ không phải về hình thức và quy tắc
-của chính quyền: bởi nếu kẻ chiếm quyền mở rộng quyền lực của mình vượt quá những
-gì vốn thuộc về những vị quân chủ hoặc những nhà cai trị hợp pháp của cộng đồng
-chính trị, thì đó là sự chuyên chế cộng thêm vào sự chiếm quyền.
+**Khoản 197.** Như cuộc chinh phục có thể được gọi là một sự tiếm quyền từ bên ngoài,
+thì tiếm quyền là một loại chinh phục nội bộ, với sự khác biệt là kẻ tiếm quyền
+không bao giờ có lẽ phải ở phía mình, bởi vì không gọi là tiếm quyền trừ khi một
+người giành được quyền sở hữu đối với những gì người khác có quyền. Điều này,
+trong chừng mực là sự tiếm quyền, chỉ là sự thay đổi về con người, chứ không phải
+về hình thức và quy tắc của chính phủ: vì nếu kẻ tiếm quyền mở rộng quyền lực của
+mình vượt quá những gì thuộc về các vương tử hoặc những người cai trị hợp pháp của
+quốc gia, thì đó là bạo chính cộng thêm với sự tiếm quyền.
 
-**Khoản 198.** Trong mọi chính quyền hợp pháp, việc chỉ định những người nắm quyền cai
-trị là một phần tự nhiên và cần thiết như chính hình thức của chính quyền đó, và đó là
-điều vốn được thiết lập ban đầu từ nhân dân; bởi tình trạng vô chính phủ cũng tương
-tự như việc hoàn toàn không có hình thức chính quyền; hoặc đồng ý rằng chính quyền sẽ
-là quân chủ, nhưng lại không quy định cách thức chỉ định người sẽ nắm quyền và trở
-thành quân chủ. Do đó, mọi cộng đồng chính trị, khi đã thiết lập hình thức chính quyền,
-cũng có các quy tắc về việc bổ nhiệm những người sẽ tham gia vào quyền lực công cộng,
-và các phương pháp ổn định để chuyển giao quyền hạn cho họ: vì tình trạng vô chính
-phủ cũng tương tự như việc hoàn toàn không có hình thức chính quyền; hoặc đồng ý rằng
-chính quyền sẽ là quân chủ, nhưng lại không quy định cách thức để biết hoặc chỉ định
-người sẽ nắm quyền và trở thành quân chủ. Bất kỳ ai nắm giữ bất kỳ phần nào của
+**Khoản 198.** Trong tất cả các chính phủ hợp pháp, việc chỉ định những người sẽ nắm
+quyền cai trị là một phần tự nhiên và cần thiết như chính hình thức của chính phủ, và
+là điều vốn có sự thiết lập ban đầu từ nhân dân; tình trạng vô chính phủ cũng tương
+tự như việc không có hình thức chính phủ nào cả; hoặc đồng ý rằng chính phủ sẽ theo
+chế độ quân chủ, nhưng không chỉ định cách thức để chọn ra người sẽ có quyền lực
+và là quân chủ. Do đó, tất cả các quốc gia, với hình thức chính phủ đã được thiết
+lập, cũng có những quy tắc bổ nhiệm những người sẽ tham gia vào quyền lực công, và
+các phương pháp ổn định để chuyển giao quyền lợi cho họ: vì tình trạng vô chính phủ
+cũng tương tự như việc không có hình thức chính phủ nào cả; hoặc đồng ý rằng nó sẽ
+theo chế độ quân chủ, nhưng không chỉ định cách thức để biết hoặc chọn ra người
+sẽ có quyền lực và là quân chủ. Bất cứ ai nắm quyền thực thi bất kỳ phần nào của
 quyền lực bằng những cách khác với những gì luật pháp của cộng đồng đã quy định,
-thì người đó không có quyền được tuân theo, ngay cả khi hình thức của cộng đồng chính
-trị vẫn được bảo toàn; vì người đó không phải là người mà luật pháp đã bổ nhiệm,
-và do đó không phải là người mà nhân dân đã đồng thuận. Kẻ chiếm quyền như vậy, hay
-bất kỳ ai nhận quyền từ kẻ đó, không bao giờ có thể có danh nghĩa hợp pháp, cho đến
-khi nhân dân vừa có quyền tự do đồng thuận, vừa thực sự đồng thuận cho phép và xác
-nhận quyền lực mà người đó đã chiếm đoạt cho đến lúc đó.
+thì không có quyền được vâng lời, mặc dù hình thức của quốc gia vẫn được bảo tồn;
+vì anh ta không phải là người mà luật pháp đã bổ nhiệm, và do đó không phải là người
+mà nhân dân đã đồng thuận. Một kẻ tiếm quyền như vậy, hoặc bất kỳ ai thừa hưởng
+quyền từ hắn, không bao giờ có thể có danh nghĩa chính đáng, cho đến khi nhân dân vừa có
+tự do để đồng thuận, vừa thực sự đồng thuận cho phép và xác nhận quyền lực mà cho
+đến lúc đó hắn đã tiếm đoạt.

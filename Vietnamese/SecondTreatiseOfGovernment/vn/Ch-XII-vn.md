@@ -1,66 +1,66 @@
-# CHƯƠNG XII
-## VỀ QUYỀN LẬP PHÁP, HÀNH PHÁP, VÀ LIÊN MINH CỦA QUỐC GIA
+# CHAPTER XII
+## VỀ QUYỀN LẬP PHÁP, QUYỀN HÀNH PHÁP VÀ QUYỀN LIÊN MINH CỦA CỘNG ĐỒNG CHÍNH TRỊ
 
-**Khoản 143.** Quyền lập pháp là quyền được chỉ dẫn cách thức sử dụng vũ lực của
-quốc gia nhằm bảo tồn cộng đồng và các thành viên trong đó. Nhưng vì những điều luật
-vốn được thi hành liên tục và có hiệu lực vĩnh viễn có thể được soạn thảo trong một
-khoảng thời gian ngắn; do đó không cần thiết quyền lập pháp phải luôn tồn tại, vì không
-phải lúc nào cũng có việc cần xử lý. Và bởi vì sẽ là một sự cám dỗ quá lớn đối
-với sự yếu đuối của con người, vốn dễ ham muốn quyền lực, nếu chính những người có
-quyền làm luật lại nắm giữ quyền thực thi luật đó, khiến họ có thể miễn cho mình khỏi
-việc tuân thủ những điều luật họ tạo ra, và điều chỉnh luật pháp, cả trong lúc soạn
-thảo lẫn thực thi, theo lợi ích cá nhân của họ; từ đó khiến họ có lợi ích riêng biệt
-với phần còn lại của cộng đồng, trái với mục đích của xã hội và chính quyền: do đó,
-trong các quốc gia được tổ chức tốt, nơi lợi ích của toàn thể được xem xét đúng mức,
-quyền lập pháp được giao cho nhiều người, những người khi họp lại một cách chính đáng,
-sẽ có quyền tự mình hoặc cùng với những người khác ban hành luật, và khi đã hoàn tất,
-khi họ tách ra, chính họ cũng phải tuân thủ những điều luật mà họ đã ban hành; đây là
-một sợi dây ràng buộc mới và chặt chẽ buộc họ phải lưu tâm rằng họ ban hành luật
-vì lợi ích công cộng.
+Sect. 143. Quyền lập pháp là quyền được định hướng cách thức sử dụng sức mạnh của
+cộng đồng chính trị để bảo tồn cộng đồng và các thành viên của nó. Nhưng vì những
+luật lệ cần được thực thi thường xuyên và có hiệu lực lâu dài có thể được ban hành
+trong một thời gian ngắn; nên không cần thiết quyền lập pháp lúc nào cũng phải hiện hữu,
+vì không phải lúc nào họ cũng có việc để làm. Và vì sự yếu đuối của con người,
+vốn dễ thèm khát quyền lực, nên nếu cùng một nhóm người vừa có quyền ban hành luật,
+vừa nắm trong tay quyền thực thi luật, thì đó sẽ là một sự cám dỗ quá lớn; họ có thể
+tự miễn trừ việc tuân thủ những luật lệ do chính mình ban hành, và điều chỉnh luật,
+cả trong khâu ban hành lẫn thực thi, để phục vụ lợi ích riêng của mình, và từ đó tạo
+ra một lợi ích tách biệt với phần còn lại của cộng đồng, trái với mục đích của xã
+hội và chính phủ: do đó, trong các cộng đồng chính trị được tổ chức tốt, nơi lợi ích
+chung được xem xét đúng mực, quyền lập pháp được giao cho nhiều người khác nhau, những
+người khi họp lại sẽ có quyền ban hành luật cho chính họ hoặc cùng với những người
+khác, và sau khi hoàn thành, khi tách ra, họ chính là những người phải tuân theo những luật
+lệ họ đã ban hành; điều này tạo ra một sợi dây ràng buộc mới và chặt chẽ, buộc họ
+phải lưu tâm ban hành luật vì lợi ích công cộng.
 
-**Khoản 144.** Nhưng vì những điều luật được ban hành cùng lúc và trong thời gian ngắn
-lại có hiệu lực không ngừng và lâu dài, và cần sự thực thi vĩnh viễn, hoặc một sự
-giám sát chặt chẽ; do đó cần thiết phải có một quyền lực luôn tồn tại để giám sát
-việc thực thi những điều luật đã được ban hành và vẫn còn hiệu lực. Và như thế,
-quyền lập pháp và quyền hành pháp thường được tách biệt.
+Sect. 144. Nhưng vì những luật lệ được ban hành một lần trong thời gian ngắn lại có hiệu
+lực thường xuyên và lâu dài, và cần được thực thi vĩnh viễn, hoặc có sự theo dõi sát
+sao; nên cần thiết phải có một quyền lực luôn hiện hữu để giám sát việc thực thi các
+luật lệ đã ban hành và còn hiệu lực. Và như vậy, quyền lập pháp và quyền hành pháp
+thường được tách biệt.
 
-**Khoản 145.** Trong mọi quốc gia còn một quyền lực khác mà người ta có thể gọi là tự
-nhiên, vì đó là quyền tương ứng với quyền mà mỗi người tự nhiên có trước khi gia nhập
-xã hội: bởi lẽ dù trong một quốc gia, các thành viên vẫn là những cá nhân riêng biệt trong
-mối quan hệ với nhau, và với tư cách đó bị chi phối bởi luật pháp của xã hội; nhưng
-trong mối quan hệ với phần còn lại của nhân loại, họ tạo thành một thể thống nhất,
-vốn giống như mọi thành viên trước đó, vẫn ở trong trạng thái tự nhiên với phần còn
-lại của nhân loại. Vì vậy, những tranh chấp xảy ra giữa bất kỳ ai trong xã hội với những
-người ở bên ngoài xã hội đó, đều do công quyền xử lý; và một tổn thương gây ra cho một
-thành viên trong thể thống nhất của họ sẽ kéo theo toàn thể trong việc bồi thường tổn
-thương đó. Như vậy, dưới góc độ này, toàn thể cộng đồng là một thể thống nhất trong
-trạng thái tự nhiên, đối với tất cả các quốc gia hoặc cá nhân khác ngoài cộng đồng đó.
+Sect. 145. Có một quyền lực khác trong mọi cộng đồng chính trị mà người ta có thể gọi
+là quyền tự nhiên, bởi vì nó tương ứng với quyền lực mà mọi người vốn có theo tự
+nhiên trước khi gia nhập xã hội: vì mặc dù trong một cộng đồng chính trị, các thành viên
+vẫn là những cá nhân riêng biệt trong mối quan hệ với nhau và bị chi phối bởi luật pháp
+của xã hội; nhưng trong mối quan hệ với phần còn lại của nhân loại, họ tạo thành một
+thể duy nhất, mà giống như mỗi thành viên trước đây, vẫn ở trong trạng thái tự nhiên
+với phần còn lại của nhân loại. Do đó, những tranh chấp xảy ra giữa bất kỳ thành
+viên nào của xã hội với những người bên ngoài xã hội đó đều do công chúng quản lý;
+và một tổn thương gây ra cho một thành viên trong thể thống của họ sẽ kéo theo toàn bộ
+cộng đồng cùng tham gia bồi thường. Như vậy, xét theo khía cạnh này, toàn bộ cộng đồng
+là một thể trong trạng thái tự nhiên, đối với tất cả các quốc gia hoặc cá nhân bên
+ngoài cộng đồng của họ.
 
-**Khoản 146.** Do đó, quyền này bao gồm quyền chiến tranh và hòa bình, các hiệp ước và
-liên minh, và tất cả các giao dịch với mọi cá nhân và cộng đồng bên ngoài quốc gia, và
-có thể gọi là quyền liên minh, nếu ai đó muốn. Một khi điều này đã được hiểu rõ,
-tôi không quan tâm đến tên gọi.
+Sect. 146. Do đó, quyền này bao gồm quyền chiến tranh và hòa bình, các liên minh và hiệp ước,
+và tất cả các giao dịch với mọi cá nhân và cộng đồng bên ngoài cộng đồng chính trị,
+và có thể gọi là quyền liên minh (federative), nếu bất kỳ ai muốn. Một khi điều này đã
+được hiểu rõ, tôi không quá quan trọng về tên gọi.
 
-**Khoản 147.** Hai quyền này, quyền hành pháp và quyền liên minh, mặc dù bản chất là khác
-biệt, trong đó một quyền bao hàm việc thực thi các luật pháp nội bộ của xã hội đối
-với tất cả những ai là thành viên của xã hội đó; quyền kia là quản lý an ninh và lợi
-ích của công chúng ra bên ngoài, với tất cả những bên mà họ có thể nhận được lợi
-ích hoặc chịu tổn hại từ đó, tuy nhiên chúng luôn gần như hợp nhất. Và mặc dù quyền
-liên minh này, dù được quản lý tốt hay kém, đều có ý nghĩa vô cùng quan trọng đối với
-quốc gia, nhưng nó ít có khả năng được điều khiển bởi những điều luật định sẵn,
-cố định và hiển nhiên hơn là quyền hành pháp; và do đó, tất yếu phải được giao cho
-sự thận trọng và minh triết của những người nắm giữ quyền này, để được quản lý vì
-lợi ích công cộng: vì những điều luật liên quan đến các thần dân với nhau, nhằm điều
-hướng hành động của họ, hoàn toàn có thể được quy định trước. Nhưng những gì cần
-thực hiện đối với người nước ngoài, phụ thuộc nhiều vào hành động của họ, và sự
-thay đổi của các mưu đồ và lợi ích, phải được giao phần lớn cho sự thận trọng của
-những người được giao phó quyền này, để họ vận dụng hết khả năng tốt nhất của
-mình vì lợi ích của quốc gia.
+Sect. 147. Hai quyền năng này, quyền hành pháp và quyền liên minh, mặc dù thực sự khác biệt,
+một quyền bao quát việc thực thi các luật lệ nội bộ của xã hội đối với tất cả
+những ai là một phần của xã hội đó; quyền kia quản lý sự an ninh và lợi ích của công
+chúng với bên ngoài, với tất cả những bên mà xã hội có thể nhận được lợi ích hoặc
+tổn hại, nhưng chúng hầu như luôn hợp nhất. Và mặc dù quyền liên minh này, dù được quản
+lý tốt hay tồi, đều có tầm quan trọng lớn đối với cộng đồng chính trị, nhưng nó ít
+có khả năng được định hướng bởi các luật lệ thực định, cố định và có trước,
+hơn là quyền hành pháp; và do đó, nó nhất thiết phải được giao cho sự thận trọng và
+khôn ngoan của những người nắm giữ quyền này để điều hành vì lợi ích công cộng: vì
+những luật lệ liên quan đến thần dân với nhau, nhằm định hướng hành động của họ,
+có thể được đặt ra từ trước. Nhưng những gì cần làm đối với người nước ngoài,
+phụ thuộc nhiều vào hành động của họ cùng sự thay đổi của các thiết kế và lợi ích,
+phải được giao phần lớn cho sự thận trọng của những người được ủy thác quyền này,
+để họ điều hành bằng toàn bộ kỹ năng tốt nhất vì lợi ích của cộng đồng chính trị.
 
-**Khoản 148.** Mặc dù, như tôi đã nói, quyền hành pháp và quyền liên minh của mọi cộng
-đồng thực sự khác biệt về bản chất, nhưng họ khó có thể bị tách rời và cùng lúc
-được giao cho những nhóm người khác nhau: vì cả hai đều yêu cầu vũ lực của xã hội để
-thực hiện, nên gần như không thể đặt vũ lực của quốc gia vào những bàn tay riêng biệt
-và không phụ thuộc lẫn nhau; hoặc để quyền hành pháp và quyền liên minh được giao cho
-những người có thể hoạt động tách biệt, khiến cho vũ lực của công chúng bị đặt dưới
-những sự chỉ huy khác nhau: điều này sớm muộn gì cũng dễ gây ra hỗn loạn và sụp đổ.
+Sect. 148. Mặc dù, như tôi đã nói, quyền hành pháp và quyền liên minh của mọi cộng đồng
+thực sự khác biệt, nhưng họ khó có thể được tách rời và giao cho những người khác
+nhau cùng một lúc: vì cả hai đều yêu cầu sức mạnh của xã hội để thực thi, nên gần
+như không thể đặt sức mạnh của cộng đồng chính trị vào những bàn tay riêng biệt và
+không cấp bậc; hoặc quyền hành pháp và quyền liên minh được giao cho những người có thể
+hành động độc lập, khiến sức mạnh của công chúng nằm dưới các mệnh lệnh khác nhau:
+điều này sớm muộn gì cũng sẽ gây ra sự hỗn loạn và sụp đổ.
