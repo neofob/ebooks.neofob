@@ -1,138 +1,164 @@
-# ON ROYAL DELUSIONS AND NEPO BABY POWER.
+# ON MONARCHY AND THE L'S OF HEREDITARY SUCCESSION.
 
-We all started as equals when we were created. Any gaps between us happened later. The difference between rich and
-poor can be explained without calling it "oppression" or "greed"—though oppression is often the result of wealth,
-and being greedy usually makes you too scared to actually get rich.
+Humans were originally born equals in the grand design. Any gap between us only happened later. The difference
+between rich and poor can mostly be explained without using scary words like "oppression" or "greed." Oppression
+is usually what happens *after* someone gets rich, not how they get there; and while greed might keep you from
+being broke, it usually makes you too scared to actually build wealth.
 
-But there's a much bigger, weirder gap that has zero natural or religious justification: the divide between
-"kings" and "subjects." Male and female are natural; good and bad are spiritual. But how did one group of people
-just decide they were "main characters" and superior to everyone else? It's worth asking where this came from and
-if it actually helps humanity or just makes everything worse.
+But there's another, bigger gap that has zero natural or spiritual logic: the divide between kings and subjects. Male
+and female are nature's distinctions; good and bad are heaven's. But how did one group of people end up so "main
+character" compared to everyone else—like some weird new species—is a question we actually need to answer. And
+we need to know if they're actually a blessing or just a source of misery for the rest of us.
 
-In the early days (according to the OG blueprints), there were no kings. And guess what? There were no wars. It's
-the ego of kings that throws the whole world into a mess. Look at Holland—they've had more peace in the last
-century without a king than any monarchy in Europe. Even the earliest humans lived chill, rural lives that felt
-right until the history of Jewish royalty entered the chat and ruined the vibe.
+In the early days of the world, according to the texts, there were no kings. And guess what? No wars. It's the ego
+of kings that throws the world into chaos. Holland, without a king, has had more peace this last century than any
+monarchy in Europe. History says the same: the quiet, rural vibes of the first patriarchs had a certain peace that
+totally vanishes the moment you hit the history of Jewish royalty.
 
-The "King" thing was started by the Heathens, and the Israelites just copied their homework. It was basically
-the most successful scam the Devil ever pulled to get people into idolatry. The Heathens treated their dead kings
-like gods; the Christian world "upgraded" the plan by treating their *living* kings like gods. Imagine calling a
-"sacred majesty" a human being who is basically just a worm crumbling into dust while wearing a fancy crown. Cringe.
+Kings were first a "thing" with the Heathens, and then the children of Israel just copied the trend. It was the
+most successful scam the Devil ever pulled to push idolatry. The Heathens treated their dead kings like gods;
+the Christian world leveled up by doing it to their *living* ones. How delusional is it to call a "sacred majesty"
+someone who is basically a worm, crumbling into dust even while wearing a crown?
 
-Since giving one person total power over everyone else isn't based on natural rights, it can't be defended by scripture
-either. The Universe's actual will—as told by Gideon and Samuel—expressly says "no" to kings. Monarchies have
-spent centuries glossing over the anti-king parts of the Bible, but if you're starting a new government, you should
-definitely pay attention to them. The phrase "Render unto Caesar what is Caesar's" is the favorite quote of royal
-courts, but it's not a defense of monarchy—the Jews didn't even have a king then; they were just being bossed
-around by the Romans.
+Just as putting one man above everyone else can't be justified by natural rights, it can't be defended by scripture
+either. The Almighty—via Gideon and the prophet Samuel—explicitly said "no" to government by kings. Monarchies
+usually just gloss over the anti-king parts of the bible, but for any country still figuring out its government,
+those parts are a huge red flag. "Give to Caesar what is Caesar's" is the favorite line of the courts, but it
+doesn't support monarchy, because the Jews back then didn't have a king—they were just vassals to the Romans.
 
-For nearly three thousand years after the creation, the Jews didn't have kings. They had a kind of republic run
-by a judge and tribal elders. It was considered a sin to call anyone "King" except for God. When you look at the
-weird, cult-like worship people give to kings, it's no wonder the Universe hates a government that tries to steal
-God's thunder.
+Nearly three thousand years passed from the creation story before the Jews, caught in a national delusion, asked
+for a king. Until then, they had a kind of republic run by a judge and the tribal elders. They had no kings,
+and it was considered a sin to call anyone "King" except for the Lord of Hosts. When you really think about the
+idolatrous worship kings get, it's no wonder the Almighty, who is protective of His own honor, hates a system that
+so illegally steals the vibe of heaven.
 
-In the Bible, monarchy is listed as one of the Jews' biggest fails. Here's the tea:
+Monarchy is literally listed as one of the sins of the Jews, and it came with a curse. The story is wild.
 
-The Israelites were getting wrecked by the Midianites. Gideon led a small squad and won because of divine help. The
-Jews got hyped, credited Gideon's "generalship," and tried to make him king—and not just for him, but for his
-kids and grandkids too. Total nepo-baby setup. But Gideon was actually based and said, "I'm not ruling you, and
-neither are my kids. God is the only one who rules you." He didn't just say "no thanks"—he told them they were
-being disloyal to the real Sovereign in heaven.
+The children of Israel were being oppressed by the Midianites. Gideon marched against them with a tiny army and won
+because of divine intervention. The Jews, hyped by the win and thinking Gideon was a tactical genius, tried to make
+him king: "Rule over us, you, your son, and your grandson." This was the ultimate temptation—not just a kingdom,
+but a hereditary dynasty. But Gideon, being actually pious, replied, "I won't rule over you, and neither will my
+son. The Lord will rule over you." He wasn't just declining the honor; he was telling them they didn't even have
+the *right* to give it. He didn't give them a fake "thank you" speech; he straight-up called them out for being
+disloyal to their real Sovereign, the King of Heaven.
 
-About 130 years later, they tripped again. For some reason, the Jews were obsessed with the Heathens' customs. They
-saw that Samuel's sons were acting out and demanded, "You're old, your sons are mid, give us a king so we can be
-like all the other nations." Their motive was trash: they wanted to fit in with the Heathens instead of staying
-unique and based. Samuel was pressed, but God told him, "Listen to them. They aren't rejecting you; they're
-rejecting Me so that I don't have to rule them."
+About 130 years later, they fell for the same trap. The Jews' obsession with the "aesthetic" of Heathen customs is
+honestly baffling. They took the mistakes of Samuel's two sons (who were handling some business stuff) and stormed
+Samuel's place, saying, "Look, you're old, and your sons aren't following your lead. Give us a king so we can be
+judged like all the other nations." Their motives were trash: they wanted to fit in with the Heathens, when their
+real flex should have been being as *different* as possible. Samuel was annoyed. He prayed, and the Lord told him,
+"Listen to them. They haven't rejected you; they've rejected ME, so that I shouldn't reign over them." Basically,
+because they'd already ditched God for other idols, this was just the next step. The Lord told Samuel to go ahead
+and warn them about how kings actually operate—not a specific king, but the general "king energy" of the earth
+they were so desperate to copy.
 
-So Samuel gave them a reality check on what kings are *actually* like. He didn't talk about one specific king,
-but the general vibe of kings globally:
-He told them: "The king will draft your sons for his own chariots and horses (basically forced labor). He'll appoint
-captains to make you farm his land and build his weapons. He'll take your daughters to be his personal chefs and
-bakers (pure luxury on your dime). He'll seize your best fields and olive groves for his friends. He'll take a
-tenth of your crops and vineyards for his officers (hello, bribery and corruption). He'll take your servants,
-your best young men, and your livestock for his own work. You'll all just be his servants, and when you start
-crying about the king you chose, God won't even answer you."
+And even though a lot of time has passed, that energy is still the same. Samuel told them: "Here's the deal with the
+king who's going to rule you: he'll take your sons for his own chariots and horsemen; some will just run in front
+of them (pretty much like how people are drafted today). He'll appoint captains over thousands and fifties to make
+them work his land, harvest his crops, and build his weapons. He'll take your daughters as pastry chefs, cooks,
+and bakers (this is where the luxury and the oppression both live). He'll take your best fields and olive groves
+and give them to his inner circle. He'll take a tenth of your grain and vineyards for his officers (which shows
+that bribery, corruption, and favoritism are the standard king starter pack). He'll take a tenth of your servants,
+your best young men, and your animals for his own work. He'll take a tenth of your sheep. You'll be his servants,
+and you'll be crying out for the king you chose, but the Lord won't hear you that day."
 
-That's why monarchy keeps happening. Even a few "good" kings don't make the title holy or fix the toxic origin. Even
-the praise for David is about him being a good man, not a good "king." But the people ignored Samuel and insisted:
-"Nah, we want a king so we can be like everyone else and have someone fight our battles for us." Samuel tried to
-reason with them, but they were committed to the fail. He ended up calling down thunder and rain during the harvest
-to show them how messed up their request was. They got scared and realized they'd just added a huge sin to their tab.
+This is why monarchy persists. Even the few "good" kings didn't make the title holy or erase the sin of how it
+started. The praise for David was about him being a man after God's own heart, not about him being a king. But
+the people ignored Samuel. They said, "No, we want a king so we can be like everyone else, and so our king can
+lead us and fight our battles." Samuel tried to reason with them, but it was a waste of time. He reminded them
+how ungrateful they were, but it didn't work. Seeing they were fully committed to the fail, he called for thunder
+and rain during the wheat harvest as a sign that their request was a massive L in the eyes of the Lord. The people
+were terrified and begged Samuel to pray that they wouldn't die because they'd added this sin to their list.
 
-These stories are clear. No "deep interpretation" needed. Either God is against monarchy, or the Bible is
-lying. There's just as much "king-craft" as "priest-craft" when it comes to keeping the Bible away from the public
-in some countries. Monarchy is basically the "Popery" of government.
+These parts of the scripture are direct. No "maybe" or "perhaps." Either the Almighty protested against monarchy,
+or the scripture is a lie. There's probably just as much "king-craft" as "priest-craft" in how the bible is kept
+from the public in some countries. Because monarchy is basically the "Popery" of government.
 
-To make it worse, we added hereditary succession. While monarchy is a downgrade for us, hereditary power is a
-straight-up insult to future generations. Since we're all born equal, no one has the right to set up their family
-as "permanent bosses" forever. Even if the first guy deserved respect, his kids might be totally unfit. Nature
-herself mocks this idea by frequently giving us an ass when we expected a lion.
+To make the evil of monarchy worse, we added hereditary succession. If monarchy is us downgrading ourselves,
+hereditary right is a straight-up insult to every generation that comes after. Since we all start as equals, no
+one is born with the right to put their own family in a permanent VIP spot forever. Even if the first guy deserved
+some respect from his peers, his kids might be totally unworthy. One of the best natural proofs that hereditary
+right is a joke is that nature herself trolls it—she frequently gives us an ass when we're expecting a lion.
 
-Secondly, since no one starts with public honors they didn't earn, the people who gave those honors had no right to
-give away the rights of future generations. They can't say "We pick you as our leader" and then add "and your kids'
-kids get to rule our kids' kids forever." That's an unjust, unnatural contract that could easily put a fool or a
-criminal in charge. Most smart people privately think hereditary right is a joke, but once it's set up, it's hard
-to remove. People stay quiet out of fear, superstition, or because they're getting a cut of the loot.
+Secondly, since no one could start with a public honor that wasn't given to them, the people who gave the honor
+had no right to give away the rights of future generations. They could say "We choose you as our leader," but
+they couldn't say "your children and grandchildren will rule ours forever" without totally screwing over their
+own kids. Such an unnatural, unfair deal could easily leave the next generation stuck with a rogue or a fool. Most
+smart people, in private, think hereditary right is a joke; but once it's set up, it's hard to remove. Some submit
+out of fear, some out of superstition, and the powerful elites just split the loot with the king.
 
-And this is assuming kings had an honorable start. In reality, if we could peel back the curtain of history, we'd
-probably find the first "kings" were just the lead thugs of some violent gang. The biggest bully or the sneakiest
-liar became the "chief" of the plunderers and forced everyone else to pay "protection money" to stay safe. Their
-original followers would never have agreed to hereditary rule—that's not how a "free" gang works. But after a few
-generations, with no real records and a history full of fairy tales, it was easy to make up some superstitious story
-to force hereditary rule down the throats of the masses. Maybe they thought it would prevent chaos when a leader
-died (since elections among thugs are messy), so they tried it as a convenience—and then claimed it as a "right."
+And this is assuming the current kings even had an honorable start. If we could peel back the curtain of history,
+we'd probably find the first "kings" were just the head thugs of some restless gang—the most savage or the
+most cunning among the plunderers. By getting more power and raiding more places, they scared the quiet people
+into paying "protection money." But their "electors" couldn't have intended to give hereditary rights to their
+descendants, because that would be a total contradiction of the free-spirited principles they claimed to live
+by. So, hereditary succession didn't start as a legal claim, but as something random or a formality. Since there
+were no records back then and history was just a bunch of fables, it was easy a few generations later to make up
+some superstitious story—like Mahomet did—to force hereditary right down the throats of the masses. Maybe when
+a leader died, the chaos of picking a new one (since thugs aren't great at voting) made people favor the "family"
+option for convenience. And as always, what starts as a convenience eventually gets claimed as a "right."
 
-Since the conquest, England has had a few good kings, but way more bad ones. And basing the whole thing on William
-the Conqueror is a joke. A French bastard landing with a band of mercenaries and forcing himself on the locals
-isn't "divine"—it's just rascally. Honestly, if some people are too weak to see the flaw in hereditary right,
-they can worship the ass and the lion for all I care. I'm not joining that cult.
+England has had a few good kings since the conquest, but way more bad ones. And no one in their right mind can say
+that their claim under William the Conqueror is "honorable." A French bastard landing with a band of armed thugs
+and forcing himself as king against the will of the natives is, in plain terms, a trash origin story. There's zero
+divinity in that. But honestly, there's no point in spending too much time on how dumb hereditary right is. If people
+are that weak, let them worship the ass and the lion; I'm not going to stop their delusion, but I'm not joining in.
 
-But let's think: how did the first kings even happen? Only three options: lot, election, or theft (usurpation).
-If the first was picked by lot, the next one should be too. No hereditary rule there (see Saul).
-If the first was elected, that sets the precedent for the next. Saying one election locks in a family forever is
-insane. There's no parallel for that except the "original sin" doctrine—where everyone is punished for what
-Adam did. Hereditary rule is the same thing: we're all enslaved because of some choice made thousands of years
-ago. Absolute trash.
+I'd love to know how they think kings started in the first place. There are only three options: lot, election,
+or usurpation. If the first king was picked by lot, that sets a precedent for the next one, which kills hereditary
+succession. Saul was picked by lot, yet the succession wasn't hereditary. If the first king was elected, that also sets
+a precedent for the next. To say that the first electors took away the rights of all future generations—choosing
+not just a king, but a family of kings forever—has no parallel anywhere except the doctrine of "original sin,"
+which says we lost free will because of Adam. And honestly, that's the only comparison that works. Just as in Adam
+all sinned, in the first electors all obeyed. In one we were subjected to Satan, in the other to Sovereignty. Our
+innocence was lost in the first, our authority in the last. Both leave us unable to go back to how things
+were. Dishonorable rank! Trash connection! Even the best lawyer can't find a better comparison.
 
-As for theft (usurpation), nobody is going to defend that—and it's a fact that William the Conqueror was a
-thief. The "history" of the English monarchy doesn't hold up to a basic vibe check.
+As for usurpation, no one is brave enough to defend it; and the fact that William the Conqueror was a usurper is
+a fact. The truth is, the antiquity of the English monarchy can't stand up to a real look.
 
-The real problem isn't just that it's absurd, but that it's evil. If it guaranteed a lineage of geniuses, maybe it
-would work. But because it opens the door to the foolish, the wicked, and the unfit, it's just oppression. People
-born to "reign" grow up entitled and arrogant. They live in a bubble, totally disconnected from the real world,
-so by the time they actually take over, they're the most clueless people in the room.
+But the real problem isn't just that hereditary succession is absurd—it's that it's evil. If it guaranteed a
+line of good and wise leaders, it would have divine approval. But because it opens the door for the foolish,
+the wicked, and the unfit, it's just oppression. People who believe they're born to rule and others are born
+to obey get arrogant fast. Their minds are poisoned by "importance" from day one. They live in a bubble that's
+so different from the real world that they have no clue what people actually need. When they finally take over,
+they're often the most ignorant and unfit people in the whole country.
 
-Plus, hereditary rule means you can end up with a child on the throne. While that kid is growing up, the "regents"
-(the adults in charge) have every reason to betray the public for their own gain. The same thing happens when a
-king gets old and senile. In both cases, the country becomes an all-you-can-eat buffet for every scammer who can
-manipulate a child or an old man.
+Another L with hereditary succession is that the throne can be taken by a child. During that time, the regents—acting
+in the king's name—have every reason to betray their trust. The same thing happens when a king is too old and
+frail. In both cases, the country becomes a playground for any scammer who can manipulate a child or an old person.
 
-The biggest lie used to defend hereditary rule is that it prevents civil wars. Total cap. England's history proves
-it's the opposite. Since the conquest, England has had 30 kings and 2 minors, and in that time, they've had at
-least 8 civil wars and 19 rebellions. Instead of bringing peace, it destroys the very foundation of it.
+The most "logical" argument for hereditary succession is that it prevents civil wars. If that were true, it'd
+be a huge point. But it's the most blatant lie ever told to humanity. The history of England proves it. Thirty
+kings and two minors have ruled since the conquest, and in that time, there have been at least eight civil wars
+and nineteen rebellions. So instead of creating peace, it actively destroys it.
 
-The fight between the houses of York and Lancaster turned England into a bloodbath for years. 12 major battles,
-plus endless skirmishes. Henry was prisoner to Edward, then Edward was prisoner to Henry. When the fight is just
-about "who's the rightful heir," everything is unstable. One day you're in a palace, the next you're fleeing to
-another country. The Parliament just follows whoever is currently winning.
+The fight for the throne between the houses of York and Lancaster turned England into a bloodbath for years. Twelve
+huge battles, plus tons of skirmishes and sieges, between Henry and Edward. Henry was Edward's prisoner twice;
+Edward was Henry's prisoner. War and national mood are so unpredictable that Henry was taken from a prison to
+a palace in triumph, while Edward had to flee the palace for a foreign land. But vibes shift fast; Henry was
+eventually kicked off the throne, and Edward came back. The parliament always just sided with whoever was winning.
 
-This mess lasted 67 years (1422 to 1489) until the families finally merged.
+This chaos started with Henry VI and didn't stop until Henry VII, when the families finally merged. That's a
+67-year period from 1422 to 1489.
 
-Basically, monarchy and succession have left the entire world in blood and ashes. It's a system that God hates,
-and it always leads to violence.
+In short, monarchy and succession haven't just ruined a few kingdoms—they've left the world in blood and
+ashes. It's a system that God's word warns against, and血 (blood) always follows it.
 
-If you look at what a king actually *does*, you'll see some countries don't even have them. They just live their
-lives and the "king" spot stays empty. In absolute monarchies, the king does everything. But in places like England,
-where he's not the judge or the general, you have to wonder: what is his actual job?
+If you look at what a king actually *does*, you'll find some countries don't even have them. They just vibe
+through life without helping themselves or the nation, then leave and let the next person do the same idle loop. In
+absolute monarchies, the king handles everything—civil and military. The children of Israel used this as a reason:
+"so he can judge us and fight our battles." But in places where he's not the judge or the general, like England,
+you have to wonder what his actual job is.
 
-The more a government looks like a republic, the less a king is needed. It's hard to even name England's
-government. Some call it a republic, but it's a fake one. The Crown's corrupt influence—handing out jobs and
-favors—has basically eaten the soul of the House of Commons (the republican part). England is almost as monarchical
-as France or Spain. People use the word "republic" without knowing what it means. Englishmen are proud of "choosing"
-their Commons, but when that virtue fails, you get slavery. The English Constitution is sick because the monarchy
-poisoned the republic.
+The closer a government gets to being a republic, the less there is for a king to do. It's hard to even name
+England's system. Sir William Meredith calls it a republic, but it's not worthy of the name right now. The corrupt
+influence of the crown—because it controls all the jobs—has basically swallowed the power and eaten the virtue
+of the House of Commons (the republican part). England is now almost as monarchical as France or Spain. People
+argue about names without understanding them. It's the republican part of the system that Englishmen are actually
+proud of—the freedom to pick the House of Commons from their own people. When that republican virtue fails, you
+get slavery. Why is England's system so sick? Because monarchy poisoned the republic. The crown devoured the commons.
 
-In England, a king basically just starts wars and hands out jobs. In plain terms: he drains the country's money
-and keeps everyone fighting. And he gets 800,000 pounds a year and is worshipped for it! One honest man is worth
-more to society and to God than every crowned ruffian who ever lived.
+In England, a king's job is basically just starting wars and handing out jobs. In plain terms: bankrupting the
+nation and pitting people against each other. And he gets 800,000 pounds a year and is worshipped for it! One
+honest man is worth more to society and to God than all the crowned thugs who ever lived.

@@ -1,26 +1,21 @@
 # COMMON SENSE
+(A wake-up call for the inhabitants of AMERICA)
 
-Yo, to everyone in
-**AMERICA**,
+Talking 'bout:
+- The blueprint of power and the glitch in the English Constitution.
+- The delusion of Monarchy and the hereditary scam.
+- Real talk on the current state of American affairs.
+- America's main character energy and some miscellaneous reflections.
 
-Let's talk about some wild
-**TOPICS**:
+A new edition, leveled up with more heat in the main text, an appendix, and a word to the Quakers.
 
-- Where government actually comes from and why it exists, plus a quick vibe check on the English Constitution.
-- Why Monarchy and hereditary power are a total L.
-- My thoughts on the absolute mess that is American affairs right now.
-- Whether America actually has what it takes, plus some random reflections.
-
-New drop! Added some extra sauce to the main text, a bonus appendix, and a shoutout to the Quakers.
-
-*Nobody has a boss except the creators of the universe,*
-*or people we actually chose for the common good.*
-
+*No crown can claim the soul, only the stars above*
+*Or the voices we trust to lead us to the light.*
 — Thomson
 
-**PHILLY**
-Dropped by W. & T. Bradford, Feb 14, 1776.
-1776
+PHILLY
+Shipped by W. & T. Bradford, February 14, 1776.
+MDCCLXXVI
 
 **Common Sense**
-By Thomas Paine
+by Thomas Paine

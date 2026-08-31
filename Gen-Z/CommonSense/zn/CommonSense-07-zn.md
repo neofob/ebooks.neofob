@@ -1,36 +1,40 @@
-# On Common Sense
+# ON COMMON SENSE
 
-"No writer has beaten Paine when it comes to a chill, relatable vibe, expressions that are clear as hell, perfect
-breakdowns, and just simple, low-key language."
+"No one has topped Paine when it comes to a chill, easy-going style, crystal-clear vibes, and a way of explaining
+things that's just... effortless."
+
 — Thomas Jefferson
 
-"This pamphlet 'Common Sense' is making a huge scene. It's one of the trashiest things ever published. Full of fake
-news, lies, slander, and straight-up treason. Its whole goal is to cancel all the kings and set up an Independent
-Republic."
+"This 'Common Sense' pamphlet is making way too much noise. It's one of the most toxic things ever published. Pure
+cap, lies, and straight-up treason, designed to crash every monarchy and set up some 'Independent Republic'."
+
 — Nicholas Cresswell
 
-"I was terrified of the impact such a viral pamphlet could have on people, and I decided to do everything in my
-power to stop the spread."
+"I was low-key terrified of the impact such a viral pamphlet could have on the people, and I decided I'd do
+everything in my power to shut it down."
+
 — John Adams
 
-"It hit different and went viral across the American mind. All the big shots were reading it."
+"The impact on the American mind was instant and massive. All the big players were reading it."
+
 — Dr. Benjamin Rush
 
-"Have you read 'Common Sense'? I've never seen such an absolute masterpiece... In short, the arguments totally
-sold me on the necessity of the split."
+"You read Common Sense yet? Absolute masterclass. Honestly, the arguments just proved to me that we have to split."
+
 — General Charles Lee
 
 ***
 
-# Editor's Notes
+## Transcriber's Notes
 
-This version, based on the Bradford edition of *Common Sense*, keeps the original vibes—including the author's
-random capitalization, spelling, and italics.
+This version of the Bradford edition keeps the original energy—the random caps, the old-school spelling, and
+the italics.
 
-The page numbers are my own thing to make the HTML easier to read. They're more like paragraph numbers and match
-the edited text from the National Humanities Center.
+The page numbers here are just my own invention to make the HTML easier to read. Think of them more as paragraph
+numbers; they align with the edited text of 'Common Sense' from the National Humanities Center.
 
-In one spot, the text mentions "page forty" (see our Page 130). I added a link to the right part but kept Paine's
-original page number. These page numbers aren't in the Kindle, E-PUB, or Project Gutenberg text files.
+In one spot, the text mentions 'page forty' (see our Page 130). We provided a link to the right section but kept
+the page number Paine used. These numbers aren't carried over to the Kindle, E-PUB, or text versions from Project
+Gutenberg.
 
-The "On Common Sense" section with the quotes was added by me.
+The 'On Common Sense' section, featuring the quotes, was added by the transcriber.
