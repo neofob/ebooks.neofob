@@ -1,79 +1,515 @@
 # CHƯƠNG I
 # VÀO BIỂN WEDDELL
 
-Tôi quyết định rời Nam Georgia vào khoảng ngày 5 tháng 12, và trong những khoảng nghỉ của công tác chuẩn bị cuối cùng, tôi xem lại các kế hoạch cho chuyến hải trình tới nơi trú đông. Biển Weddell đang chuẩn bị sự đón tiếp thế nào cho chúng tôi? Các thuyền trưởng tàu săn cá voi tại Nam Georgia đã sẵn lòng chia sẻ với tôi những kiến thức của họ về vùng biển nơi họ hành nghề, và trong khi xác nhận những thông tin trước đó về sự khắc nghiệt tột độ của tình trạng băng giá ở khu vực này của Nam Cực, họ cũng đưa ra những lời khuyên đáng lưu tâm.
+Tôi quyết định rời Nam Georgia vào khoảng ngày 5 tháng 12, và trong những khoảng nghỉ của
+công tác chuẩn bị cuối cùng, tôi xem lại các kế hoạch cho chuyến hải trình tới nơi trú
+đông. Biển Weddell đang chuẩn bị sự đón tiếp thế nào cho chúng tôi? Các thuyền trưởng
+tàu săn cá voi tại Nam Georgia đã sẵn lòng chia sẻ với tôi những kiến thức của họ về
+vùng biển nơi họ hành nghề, và trong khi xác nhận những thông tin trước đó về sự khắc
+nghiệt tột độ của tình trạng băng giá ở khu vực này của Nam Cực, họ cũng đưa ra những
+lời khuyên đáng lưu tâm.
 
-Sẽ thuận tiện nếu tôi trình bày ngắn gọn ở đây một số cân nhắc khiến tôi trăn trở vào thời điểm đó và trong những tuần tiếp theo. Tôi biết rằng mùa này băng đã tràn xa về phía bắc và sau khi lắng nghe gợi ý của các thuyền trưởng tàu săn cá voi, tôi quyết định hướng về quần đảo Nam Sandwich, vòng qua Ultima Thule, và đi xa về phía đông tới kinh tuyến 15 độ tây trước khi tiến về phía nam. Những người săn cá voi nhấn mạnh sự khó khăn khi vượt qua băng ở vùng lân cận quần đảo Nam Sandwich. Họ kể rằng họ thường thấy những tảng băng trôi dạt sát quần đảo vào mùa hè, và họ cho rằng Đội Thám hiểm sẽ phải vượt qua những dải băng đóng dày để tiến vào biển Weddell. Có lẽ thời điểm tốt nhất để vào biển Weddell sẽ là cuối tháng 2 hoặc đầu tháng 3. Những người săn cá voi đã đi vòng quanh quần đảo Nam Sandwich nên họ rất am hiểu điều kiện ở đó. Những dự báo đó đã khiến tôi quyết định chất thêm một lượng than đầy trên boong, vì nếu chúng tôi phải chiến đấu để mở đường tới vùng Coats’ Land, chúng tôi sẽ cần mọi tấn nhiên liệu mà con tàu có thể chở.
+Sẽ thuận tiện nếu tôi trình bày ngắn gọn ở đây một số cân nhắc khiến tôi trăn trở
+vào thời điểm đó và trong những tuần tiếp theo. Tôi biết rằng mùa này băng đã tràn xa
+về phía bắc và sau khi lắng nghe gợi ý của các thuyền trưởng tàu săn cá voi, tôi quyết
+định hướng về quần đảo Nam Sandwich, vòng qua Ultima Thule, và đi xa về phía đông tới
+kinh tuyến 15 độ tây trước khi tiến về phía nam. Những người săn cá voi nhấn mạnh sự
+khó khăn khi vượt qua băng ở vùng lân cận quần đảo Nam Sandwich. Họ kể rằng họ thường
+thấy những tảng băng trôi dạt sát quần đảo vào mùa hè, và họ cho rằng Đội Thám hiểm
+sẽ phải vượt qua những dải băng đóng dày để tiến vào biển Weddell. Có lẽ thời điểm
+tốt nhất để vào biển Weddell sẽ là cuối tháng 2 hoặc đầu tháng 3. Những người săn cá
+voi đã đi vòng quanh quần đảo Nam Sandwich nên họ rất am hiểu điều kiện ở đó. Những
+dự báo đó đã khiến tôi quyết định chất thêm một lượng than đầy trên boong, vì nếu
+chúng tôi phải chiến đấu để mở đường tới vùng Coats’ Land, chúng tôi sẽ cần mọi
+tấn nhiên liệu mà con tàu có thể chở.
 
-Tôi hy vọng rằng bằng cách di chuyển về phía đông trước tới kinh tuyến 15 độ tây, chúng tôi sẽ có thể tiến về phía nam qua những vùng băng thưa hơn, ghé qua vùng Coats’ Land và cuối cùng đến vịnh Vahsel, nơi Filchner đã nỗ lực đổ bộ vào năm 1912. Hai điều đang chiếm lấy tâm trí tôi lúc này. Vì một số lý do, tôi rất nóng lòng muốn cho tàu *Endurance* trú đông tại biển Weddell, nhưng khó khăn trong việc tìm kiếm một cảng an toàn có thể sẽ rất lớn. Nếu không tìm thấy cảng an toàn, tàu phải trú đông tại Nam Georgia. Lúc này, việc nghĩ đến một hành trình băng qua lục địa ngay trong mùa hè đầu tiên dường như là vô vọng, vì mùa vụ đã trôi qua quá xa và tình trạng băng giá có khả năng sẽ không thuận lợi. Trước khả năng phải cho tàu trú đông trong băng, chúng tôi đã lấy thêm quần áo dự phòng từ các kho tại nhiều trạm khác nhau ở Nam Georgia.
+Tôi hy vọng rằng bằng cách di chuyển về phía đông trước tới kinh tuyến 15 độ tây,
+chúng tôi sẽ có thể tiến về phía nam qua những vùng băng thưa hơn, ghé qua vùng Coats’ Land
+và cuối cùng đến vịnh Vahsel, nơi Filchner đã nỗ lực đổ bộ vào năm 1912. Hai điều đang
+chiếm lấy tâm trí tôi lúc này. Vì một số lý do, tôi rất nóng lòng muốn cho tàu *Endurance*
+trú đông tại biển Weddell, nhưng khó khăn trong việc tìm kiếm một cảng an toàn có thể
+sẽ rất lớn. Nếu không tìm thấy cảng an toàn, tàu phải trú đông tại Nam Georgia. Lúc này,
+việc nghĩ đến một hành trình băng qua lục địa ngay trong mùa hè đầu tiên dường như là
+vô vọng, vì mùa vụ đã trôi qua quá xa và tình trạng băng giá có khả năng sẽ không thuận
+lợi. Trước khả năng phải cho tàu trú đông trong băng, chúng tôi đã lấy thêm quần áo dự
+phòng từ các kho tại nhiều trạm khác nhau ở Nam Georgia.
 
-Câu hỏi khác khiến tôi lo âu là quy mô của nhóm lên bờ. Nếu tàu phải ra khơi trong mùa đông, hoặc nếu tàu bị tách khỏi nơi trú đông, sẽ tốt hơn nếu chỉ có một nhóm nhỏ, được tuyển chọn kỹ lưỡng, lên bờ sau khi nhà trú ẩn được xây xong và hàng hóa được vận chuyển lên. Những người này có thể tiến hành lập các kho tiếp tế bằng cách kéo xe bằng sức người và thực hiện những chuyến đi ngắn với chó, huấn luyện chúng cho cuộc hành quân dài ngày vào mùa xuân năm sau. Đa số các nhà khoa học sẽ sống trên tàu, nơi họ có thể làm việc trong điều kiện tốt. Họ sẽ có thể thực hiện những chuyến đi ngắn nếu cần, sử dụng tàu *Endurance* làm căn cứ. Tất cả những kế hoạch này đều dựa trên dự kiến rằng việc tìm nơi trú đông có khả năng sẽ khó khăn. Nếu một căn cứ thực sự an toàn có thể được thiết lập trên lục địa, tôi sẽ tuân theo chương trình ban đầu là cử một nhóm đi về phía nam, một nhóm về phía tây vòng qua đầu biển Weddell hướng tới vùng Graham Land, và một nhóm về phía đông hướng tới vùng Enderby Land.
+Câu hỏi khác khiến tôi lo âu là quy mô của nhóm lên bờ. Nếu tàu phải ra khơi trong mùa
+đông, hoặc nếu tàu bị tách khỏi nơi trú đông, sẽ tốt hơn nếu chỉ có một nhóm nhỏ,
+được tuyển chọn kỹ lưỡng, lên bờ sau khi nhà trú ẩn được xây xong và hàng hóa được
+vận chuyển lên. Những người này có thể tiến hành lập các kho tiếp tế bằng cách kéo xe
+bằng sức người và thực hiện những chuyến đi ngắn với chó, huấn luyện chúng cho cuộc
+hành quân dài ngày vào mùa xuân năm sau. Đa số các nhà khoa học sẽ sống trên tàu, nơi họ
+có thể làm việc trong điều kiện tốt. Họ sẽ có thể thực hiện những chuyến đi ngắn
+nếu cần, sử dụng tàu *Endurance* làm căn cứ. Tất cả những kế hoạch này đều dựa trên
+dự kiến rằng việc tìm nơi trú đông có khả năng sẽ khó khăn. Nếu một căn cứ thực sự
+an toàn có thể được thiết lập trên lục địa, tôi sẽ tuân theo chương trình ban đầu là
+cử một nhóm đi về phía nam, một nhóm về phía tây vòng qua đầu biển Weddell hướng tới
+vùng Graham Land, và một nhóm về phía đông hướng tới vùng Enderby Land.
 
-Chúng tôi đã tính toán chi tiết về khoảng cách, hải trình, các nhu yếu phẩm cần thiết, và vân vân. Khẩu phần kéo xe của chúng tôi, kết quả của cả trải nghiệm lẫn nghiên cứu kỹ lưỡng, là hoàn hảo. Những con chó, sau khi huấn luyện, hứa hẹn có thể đi từ 15 đến 20 dặm một ngày với xe kéo đầy tải. Với tốc độ này, hành trình xuyên lục địa sẽ hoàn thành trong 120 ngày trừ khi có trở ngại không lường trước xảy ra. Chúng tôi khát khao ngày có thể bắt đầu cuộc hành quân này, cuộc phiêu lưu vĩ đại cuối cùng trong lịch sử thám hiểm Cực Nam, nhưng hiểu biết về những trở ngại nằm giữa chúng tôi và điểm khởi hành đã kìm hãm sự nôn nóng. Mọi thứ phụ thuộc vào việc đổ bộ. Nếu chúng tôi có thể đổ bộ tại căn cứ của Filchner, không có lý do gì một nhóm những người dày dạn kinh nghiệm lại không thể trú đông ở đó một cách an toàn. Nhưng biển Weddell nổi tiếng là khắc nghiệt và chúng tôi đã biết rằng diện mạo nghiệt ngã nhất của nó đang xoay về phía chúng tôi. Mọi điều kiện ở biển Weddell đều không thuận lợi từ góc nhìn của người định hướng. Gió tương đối nhẹ, và do đó băng mới có thể hình thành ngay cả trong mùa hè. Việc thiếu những luồng gió mạnh còn gây ra tác dụng phụ là cho phép băng tích tụ thành từng khối mà không bị xao động. Sau đó, những lượng băng khổng lồ quét dọc theo bờ biển từ phía đông dưới ảnh hưởng của dòng hải lưu chủ đạo, và lấp đầy vịnh của biển Weddell khi chúng di chuyển về phía bắc theo một hình bán nguyệt lớn. Một số khối băng này chắc chắn mô tả một vòng tròn gần như hoàn chỉnh, và cuối cùng, trong những mùa xấu, bị chặn lại tại quần đảo Nam Sandwich. Những dòng hải lưu mạnh, ép các khối băng vào bờ biển, tạo ra áp lực nặng nề hơn bất kỳ nơi nào khác ở Nam Cực. Áp lực này ít nhất phải nghiêm trọng như áp lực gặp phải trong lưu vực Bắc Cực đông đúc, và tôi thiên về ý nghĩ rằng một sự so sánh sẽ có lợi cho Bắc Cực. Tất cả những cân nhắc này đương nhiên có ảnh hưởng đến vấn đề trước mắt của chúng tôi: việc xuyên qua dải băng đóng và tìm kiếm một cảng an toàn trên bờ biển lục địa.
+Chúng tôi đã tính toán chi tiết về khoảng cách, hải trình, các nhu yếu phẩm cần thiết,
+và vân vân. Khẩu phần kéo xe của chúng tôi, kết quả của cả trải nghiệm lẫn nghiên
+cứu kỹ lưỡng, là hoàn hảo. Những con chó, sau khi huấn luyện, hứa hẹn có thể đi từ 15
+đến 20 dặm một ngày với xe kéo đầy tải. Với tốc độ này, hành trình xuyên lục địa
+sẽ hoàn thành trong 120 ngày trừ khi có trở ngại không lường trước xảy ra. Chúng tôi khát
+khao ngày có thể bắt đầu cuộc hành quân này, cuộc phiêu lưu vĩ đại cuối cùng trong lịch
+sử thám hiểm Cực Nam, nhưng hiểu biết về những trở ngại nằm giữa chúng tôi và điểm
+khởi hành đã kìm hãm sự nôn nóng. Mọi thứ phụ thuộc vào việc đổ bộ. Nếu chúng tôi
+có thể đổ bộ tại căn cứ của Filchner, không có lý do gì một nhóm những người dày dạn
+kinh nghiệm lại không thể trú đông ở đó một cách an toàn. Nhưng biển Weddell nổi tiếng
+là khắc nghiệt và chúng tôi đã biết rằng diện mạo nghiệt ngã nhất của nó đang xoay
+về phía chúng tôi. Mọi điều kiện ở biển Weddell đều không thuận lợi từ góc nhìn của
+người định hướng. Gió tương đối nhẹ, và do đó băng mới có thể hình thành ngay cả
+trong mùa hè. Việc thiếu những luồng gió mạnh còn gây ra tác dụng phụ là cho phép băng tích
+tụ thành từng khối mà không bị xao động. Sau đó, những lượng băng khổng lồ quét dọc
+theo bờ biển từ phía đông dưới ảnh hưởng của dòng hải lưu chủ đạo, và lấp đầy
+vịnh của biển Weddell khi chúng di chuyển về phía bắc theo một hình bán nguyệt lớn. Một
+số khối băng này chắc chắn mô tả một vòng tròn gần như hoàn chỉnh, và cuối cùng,
+trong những mùa xấu, bị chặn lại tại quần đảo Nam Sandwich. Những dòng hải lưu mạnh,
+ép các khối băng vào bờ biển, tạo ra áp lực nặng nề hơn bất kỳ nơi nào khác ở Nam
+Cực. Áp lực này ít nhất phải nghiêm trọng như áp lực gặp phải trong lưu vực Bắc Cực
+đông đúc, và tôi thiên về ý nghĩ rằng một sự so sánh sẽ có lợi cho Bắc Cực. Tất cả
+những cân nhắc này đương nhiên có ảnh hưởng đến vấn đề trước mắt của chúng tôi:
+việc xuyên qua dải băng đóng và tìm kiếm một cảng an toàn trên bờ biển lục địa.
 
-Ngày khởi hành đã đến. Tôi ra lệnh kéo neo lúc 8 giờ 45 phút sáng ngày 5 tháng 12 năm 1914, và tiếng lạch cạch của tời kéo neo đã chặt đứt sợi dây liên kết cuối cùng của chúng tôi với nền văn minh. Buổi sáng âm u và u ám, thỉnh thoảng có những luồng tuyết và mưa đá, nhưng tâm hồn mọi người trên tàu *Endurance* đều nhẹ nhõm. Những ngày chuẩn bị dài đằng đẵng đã kết thúc và cuộc phiêu lưu đang nằm ở phía trước.
+Ngày khởi hành đã đến. Tôi ra lệnh kéo neo lúc 8 giờ 45 phút sáng ngày 5 tháng 12 năm 1914,
+và tiếng lạch cạch của tời kéo neo đã chặt đứt sợi dây liên kết cuối cùng của chúng
+tôi với nền văn minh. Buổi sáng âm u và u ám, thỉnh thoảng có những luồng tuyết và mưa
+đá, nhưng tâm hồn mọi người trên tàu *Endurance* đều nhẹ nhõm. Những ngày chuẩn bị dài
+đằng đẵng đã kết thúc và cuộc phiêu lưu đang nằm ở phía trước.
 
-Chúng tôi đã hy vọng rằng một con tàu hơi nước nào đó từ phương bắc sẽ mang theo tin tức về chiến tranh và có lẽ là những lá thư từ quê nhà trước khi chúng tôi khởi hành. Một con tàu đã cập bến vào tối ngày 4, nhưng nó không mang theo lá thư nào, và không thể thu thập được thông tin hữu ích nào từ đó. Thuyền trưởng và thủy thủ đoàn đều rất thân Đức, và những "tin tức" họ đưa ra dưới hình thức không thỏa đáng là những báo cáo về các thất bại của Anh và Pháp. Chúng tôi sẽ rất vui nếu có được những tin tức mới nhất từ một nguồn thân thiện hơn. Một năm rưỡi sau, chúng tôi mới biết rằng tàu *Harpoon*, con tàu hơi nước phục vụ trạm Grytviken, đã cập bến với thư cho chúng tôi không quá hai giờ sau khi tàu *Endurance* khởi hành dọc theo bờ biển.
+Chúng tôi đã hy vọng rằng một con tàu hơi nước nào đó từ phương bắc sẽ mang theo tin tức
+về chiến tranh và có lẽ là những lá thư từ quê nhà trước khi chúng tôi khởi hành. Một
+con tàu đã cập bến vào tối ngày 4, nhưng nó không mang theo lá thư nào, và không thể thu thập
+được thông tin hữu ích nào từ đó. Thuyền trưởng và thủy thủ đoàn đều rất thân Đức,
+và những "tin tức" họ đưa ra dưới hình thức không thỏa đáng là những báo cáo về các
+thất bại của Anh và Pháp. Chúng tôi sẽ rất vui nếu có được những tin tức mới nhất
+từ một nguồn thân thiện hơn. Một năm rưỡi sau, chúng tôi mới biết rằng tàu *Harpoon*,
+con tàu hơi nước phục vụ trạm Grytviken, đã cập bến với thư cho chúng tôi không quá hai
+giờ sau khi tàu *Endurance* khởi hành dọc theo bờ biển.
 
-Mũi tàu *Endurance* hướng về phía nam, và con tàu tốt bụng dập dềnh theo những đợt sóng lừng hướng tây nam. Mưa phùn rơi suốt buổi sáng, nhưng thời tiết tạnh dần vào cuối ngày, và chúng tôi có thể nhìn rõ bờ biển Nam Georgia khi di chuyển vừa chạy bằng hơi nước vừa căng buồm về phía đông nam. Hải trình được vạch ra để đưa chúng tôi rời khỏi hòn đảo và sau đó đi về phía nam của Nam Thule, quần đảo Nam Sandwich. Gió mạnh dần trong ngày, và tất cả buồm vuông đều được căng, với buồm mũi được thu nhỏ để người canh gác có tầm nhìn rõ ràng phía trước; vì chúng tôi không muốn mạo hiểm va chạm với một "growler", một trong những tảng băng trôi nhỏ nguy hiểm nổi lềnh bềnh với bề mặt xấp xỉ mặt nước. Con tàu rất ổn định trong vùng biển theo mùa, nhưng chắc chắn trông không gọn gàng và chỉn chu như lúc rời bờ biển Anh bốn tháng trước. Chúng tôi đã nạp đầy than tại Grytviken, và lượng nhiên liệu bổ sung này được lưu trữ trên boong, nơi nó gây cản trở đáng kể cho việc di chuyển. Người thợ mộc đã đóng một boong giả, kéo dài từ boong đuôi đến phòng hải đồ. Chúng tôi cũng mang theo một tấn thịt cá voi cho chó. Những khối thịt lớn được treo trên dây buồm, ngoài tầm với nhưng không ngoài tầm mắt của lũ chó, và khi tàu *Endurance* lắc lư và nhấp nhô, chúng dõi theo với ánh mắt tham lam chờ đợi một món hời từ trên trời rơi xuống.
+Mũi tàu *Endurance* hướng về phía nam, và con tàu tốt bụng dập dềnh theo những đợt sóng
+lừng hướng tây nam. Mưa phùn rơi suốt buổi sáng, nhưng thời tiết tạnh dần vào cuối ngày,
+và chúng tôi có thể nhìn rõ bờ biển Nam Georgia khi di chuyển vừa chạy bằng hơi nước
+vừa căng buồm về phía đông nam. Hải trình được vạch ra để đưa chúng tôi rời khỏi
+hòn đảo và sau đó đi về phía nam của Nam Thule, quần đảo Nam Sandwich. Gió mạnh dần trong
+ngày, và tất cả buồm vuông đều được căng, với buồm mũi được thu nhỏ để người canh
+gác có tầm nhìn rõ ràng phía trước; vì chúng tôi không muốn mạo hiểm va chạm với một
+"growler", một trong những tảng băng trôi nhỏ nguy hiểm nổi lềnh bềnh với bề mặt xấp xỉ
+mặt nước. Con tàu rất ổn định trong vùng biển theo mùa, nhưng chắc chắn trông không gọn
+gàng và chỉn chu như lúc rời bờ biển Anh bốn tháng trước. Chúng tôi đã nạp đầy than
+tại Grytviken, và lượng nhiên liệu bổ sung này được lưu trữ trên boong, nơi nó gây cản
+trở đáng kể cho việc di chuyển. Người thợ mộc đã đóng một boong giả, kéo dài từ boong
+đuôi đến phòng hải đồ. Chúng tôi cũng mang theo một tấn thịt cá voi cho chó. Những khối
+thịt lớn được treo trên dây buồm, ngoài tầm với nhưng không ngoài tầm mắt của lũ chó,
+và khi tàu *Endurance* lắc lư và nhấp nhô, chúng dõi theo với ánh mắt tham lam chờ đợi một
+món hời từ trên trời rơi xuống.
 
-Tôi rất hài lòng với những con chó, chúng được xích quanh tàu ở những vị trí thoải mái nhất mà chúng tôi có thể tìm thấy. Chúng đang ở trong điều kiện tuyệt vời, và tôi cảm thấy Đội Thám hiểm đã có sức kéo đúng mức. Chúng là những con vật to lớn, khỏe mạnh, được chọn vì khả năng chịu đựng và sức mạnh, và nếu chúng hăng hái kéo xe như cách chúng đang hăng hái đánh nhau thì mọi chuyện sẽ ổn thôi. Những người phụ trách lũ chó đang làm việc đầy nhiệt huyết, và sự hăng hái của họ trong việc nghiên cứu bản tính và thói quen của các "đối tượng" chăm sóc hứa hẹn việc điều khiển hiệu quả và làm việc tốt về sau.
+Tôi rất hài lòng với những con chó, chúng được xích quanh tàu ở những vị trí thoải mái
+nhất mà chúng tôi có thể tìm thấy. Chúng đang ở trong điều kiện tuyệt vời, và tôi cảm
+thấy Đội Thám hiểm đã có sức kéo đúng mức. Chúng là những con vật to lớn, khỏe mạnh,
+được chọn vì khả năng chịu đựng và sức mạnh, và nếu chúng hăng hái kéo xe như cách
+chúng đang hăng hái đánh nhau thì mọi chuyện sẽ ổn thôi. Những người phụ trách lũ chó
+đang làm việc đầy nhiệt huyết, và sự hăng hái của họ trong việc nghiên cứu bản tính
+và thói quen của các "đối tượng" chăm sóc hứa hẹn việc điều khiển hiệu quả và làm
+việc tốt về sau.
 
 [Hình: Người dẫn đầu]
 
 [Hình: Nhóm biển Weddell]
 
-Trong ngày 6 tháng 12, tàu *Endurance* tiến triển tốt trên hải trình hướng đông nam. Gió phương bắc đã mạnh dần trong đêm và mang theo những đợt sóng lớn đuổi theo sau. Thời tiết mù mịt, và chúng tôi đi qua hai tảng băng lớn, vài tảng growler và vô số khối băng. Ban cán sự và thủy thủ đoàn đang dần quen với nề nếp sinh hoạt. Chim chóc rất phong phú, và chúng tôi nhận thấy chim bồ câu Cape, chim whale-bird, chim nhàn, chim mollymauk, chim nellie, hải âu đen và hải âu lang thang ở vùng lân cận con tàu. Hải trình được vạch ra để đi qua đoạn giữa đảo Sanders và núi lửa Candlemas. Ngày 7 tháng 12 mang đến trở ngại đầu tiên. Lúc sáu giờ sáng hôm đó, vùng biển vốn có màu xanh lục suốt ngày hôm trước bỗng nhiên chuyển sang màu chàm đậm. Con tàu vận hành tốt trong vùng biển động, và một số thành viên của ban khoa học đang chuyển số than chúng tôi chất trên boong vào kho chứa. Đảo Sanders và núi lửa Candlemas được nhìn thấy vào đầu buổi chiều, và tàu *Endurance* đi qua giữa hai nơi này lúc 6 giờ tối. Các quan sát của Worsley chỉ ra rằng đảo Sanders, về cơ bản, nằm cách vị trí trên hải đồ ba dặm về phía đông và năm dặm về phía bắc. Một số lượng lớn tảng băng, chủ yếu là hình phiến, nằm ở phía tây các hòn đảo, và chúng tôi nhận thấy nhiều tảng trong số đó có màu vàng vì *tảo silic*. Một tảng băng có những mảng đất nâu đỏ lớn chạy dọc hai bên. Sự hiện diện của quá nhiều tảng băng là điềm chẳng lành, và ngay sau khi đi qua giữa các hòn đảo, chúng tôi gặp phải băng trôi. Tất cả buồm được thu lại và chúng tôi tiến chậm rãi bằng hơi nước. Hai giờ sau, cách đảo Sanders mười lăm dặm về phía đông bắc, tàu *Endurance* đối mặt với một dải băng đóng dày, rộng nửa dặm và kéo dài từ bắc chí nam. Phía sau đó là vùng nước trong, nhưng những đợt sóng lừng hướng tây nam mạnh mẽ khiến dải băng trở nên bất khả xâm phạm ở vùng lân cận chúng tôi. Điều này thật đáng lo ngại. Vĩ độ lúc chính ngọ là 57° 26´ Nam, và tôi không ngờ lại thấy băng đóng ở tận phía bắc như vậy, mặc dù những người săn cá voi đã báo cáo rằng băng đóng kéo dài tới tận Nam Thule.
+Trong ngày 6 tháng 12, tàu *Endurance* tiến triển tốt trên hải trình hướng đông nam. Gió
+phương bắc đã mạnh dần trong đêm và mang theo những đợt sóng lớn đuổi theo sau. Thời
+tiết mù mịt, và chúng tôi đi qua hai tảng băng lớn, vài tảng growler và vô số khối băng. Ban
+cán sự và thủy thủ đoàn đang dần quen với nề nếp sinh hoạt. Chim chóc rất phong phú, và
+chúng tôi nhận thấy chim bồ câu Cape, chim whale-bird, chim nhàn, chim mollymauk, chim nellie, hải âu
+đen và hải âu lang thang ở vùng lân cận con tàu. Hải trình được vạch ra để đi qua đoạn
+giữa đảo Sanders và núi lửa Candlemas. Ngày 7 tháng 12 mang đến trở ngại đầu tiên. Lúc sáu
+giờ sáng hôm đó, vùng biển vốn có màu xanh lục suốt ngày hôm trước bỗng nhiên chuyển
+sang màu chàm đậm. Con tàu vận hành tốt trong vùng biển động, và một số thành viên của
+ban khoa học đang chuyển số than chúng tôi chất trên boong vào kho chứa. Đảo Sanders và núi
+lửa Candlemas được nhìn thấy vào đầu buổi chiều, và tàu *Endurance* đi qua giữa hai nơi
+này lúc 6 giờ tối. Các quan sát của Worsley chỉ ra rằng đảo Sanders, về cơ bản, nằm cách
+vị trí trên hải đồ ba dặm về phía đông và năm dặm về phía bắc. Một số lượng lớn
+tảng băng, chủ yếu là hình phiến, nằm ở phía tây các hòn đảo, và chúng tôi nhận thấy
+nhiều tảng trong số đó có màu vàng vì *tảo silic*. Một tảng băng có những mảng đất
+nâu đỏ lớn chạy dọc hai bên. Sự hiện diện của quá nhiều tảng băng là điềm chẳng
+lành, và ngay sau khi đi qua giữa các hòn đảo, chúng tôi gặp phải băng trôi. Tất cả buồm
+được thu lại và chúng tôi tiến chậm rãi bằng hơi nước. Hai giờ sau, cách đảo Sanders
+mười lăm dặm về phía đông bắc, tàu *Endurance* đối mặt với một dải băng đóng dày,
+rộng nửa dặm và kéo dài từ bắc chí nam. Phía sau đó là vùng nước trong, nhưng những đợt
+sóng lừng hướng tây nam mạnh mẽ khiến dải băng trở nên bất khả xâm phạm ở vùng lân
+cận chúng tôi. Điều này thật đáng lo ngại. Vĩ độ lúc chính ngọ là 57° 26´ Nam, và tôi
+không ngờ lại thấy băng đóng ở tận phía bắc như vậy, mặc dù những người săn cá voi
+đã báo cáo rằng băng đóng kéo dài tới tận Nam Thule.
 
-Tình hình trở nên nguy hiểm vào đêm đó. Chúng tôi đâm vào dải băng với hy vọng chạm tới vùng nước hở phía sau, và sau khi trời tối, chúng tôi thấy mình nằm trong một vùng nước ngày càng thu hẹp. Băng nghiền quanh thân tàu trong những đợt sóng lừng mạnh, và tôi lo lắng theo dõi bất kỳ dấu hiệu nào của sự thay đổi gió sang hướng đông, vì một luồng gió từ hướng đó sẽ đẩy chúng tôi về phía đất liền. Worsley và tôi ở trên boong suốt đêm, né tránh dải băng. Lúc 3 giờ sáng, chúng tôi chạy về phía nam, tận dụng một số kẽ hở vừa xuất hiện, nhưng lại gặp phải băng đóng xếp chồng dày đặc, rõ ràng là băng cũ; một số mảng đã chịu áp lực nặng nề. Sau đó, chúng tôi chạy hơi nước về phía tây bắc và thấy vùng nước hở ở phía đông bắc. Tôi hướng mũi tàu *Endurance* về phía kẽ hở, và chạy hết tốc lực, chúng tôi đã thoát ra được. Sau đó, chúng tôi đi về phía đông với hy vọng gặp băng thuận lợi hơn, và năm giờ sau, sau một hồi né tránh, chúng tôi đã vòng qua dải băng và có thể căng buồm một lần nữa. Cuộc vật lộn ban đầu với dải băng đôi khi rất kịch tính. Những mảnh băng và tảng băng đủ mọi kích cỡ dâng lên và xô đẩy nhau trong những đợt sóng lừng hướng tây nam mạnh mẽ. Bất chấp mọi sự cẩn trọng, tàu *Endurance* đã đâm trực diện vào những khối băng lớn, nhưng động cơ đã được dừng kịp lúc và không có thiệt hại nào xảy ra. Cảnh tượng và âm thanh trong suốt ngày hôm đó thật tuyệt vời. Sóng lừng vỗ vào sườn những tảng băng khổng lồ và nhảy vọt lên tận đỉnh những vách băng của chúng. Đảo Sanders nằm ở phía nam, với một vài vách đá lấp ló qua những đám mây mờ ảo cuộn xoáy bao phủ hòn đảo hầu hết thời gian, tiếng gầm rú của biển tràn vào các hang băng, tiếng rì rào của sóng lừng vỡ trên dải băng thưa, và sự uốn cong và nhấp nhô duyên dáng của dải băng bên trong theo những đợt sóng lừng dập dềnh, mà ở đây, tiếng vỡ của sóng bị triệt tiêu bởi những khối băng ở phía đón gió.
+Tình hình trở nên nguy hiểm vào đêm đó. Chúng tôi đâm vào dải băng với hy vọng chạm tới
+vùng nước hở phía sau, và sau khi trời tối, chúng tôi thấy mình nằm trong một vùng nước
+ngày càng thu hẹp. Băng nghiền quanh thân tàu trong những đợt sóng lừng mạnh, và tôi lo lắng
+theo dõi bất kỳ dấu hiệu nào của sự thay đổi gió sang hướng đông, vì một luồng gió
+từ hướng đó sẽ đẩy chúng tôi về phía đất liền. Worsley và tôi ở trên boong suốt đêm,
+né tránh dải băng. Lúc 3 giờ sáng, chúng tôi chạy về phía nam, tận dụng một số kẽ hở
+vừa xuất hiện, nhưng lại gặp phải băng đóng xếp chồng dày đặc, rõ ràng là băng cũ;
+một số mảng đã chịu áp lực nặng nề. Sau đó, chúng tôi chạy hơi nước về phía tây
+bắc và thấy vùng nước hở ở phía đông bắc. Tôi hướng mũi tàu *Endurance* về phía kẽ
+hở, và chạy hết tốc lực, chúng tôi đã thoát ra được. Sau đó, chúng tôi đi về phía
+đông với hy vọng gặp băng thuận lợi hơn, và năm giờ sau, sau một hồi né tránh, chúng tôi
+đã vòng qua dải băng và có thể căng buồm một lần nữa. Cuộc vật lộn ban đầu với dải
+băng đôi khi rất kịch tính. Những mảnh băng và tảng băng đủ mọi kích cỡ dâng lên và xô
+đẩy nhau trong những đợt sóng lừng hướng tây nam mạnh mẽ. Bất chấp mọi sự cẩn trọng,
+tàu *Endurance* đã đâm trực diện vào những khối băng lớn, nhưng động cơ đã được dừng
+kịp lúc và không có thiệt hại nào xảy ra. Cảnh tượng và âm thanh trong suốt ngày hôm đó
+thật tuyệt vời. Sóng lừng vỗ vào sườn những tảng băng khổng lồ và nhảy vọt lên tận
+đỉnh những vách băng của chúng. Đảo Sanders nằm ở phía nam, với một vài vách đá lấp
+ló qua những đám mây mờ ảo cuộn xoáy bao phủ hòn đảo hầu hết thời gian, tiếng gầm rú
+của biển tràn vào các hang băng, tiếng rì rào của sóng lừng vỡ trên dải băng thưa, và sự
+uốn cong và nhấp nhô duyên dáng của dải băng bên trong theo những đợt sóng lừng dập dềnh,
+mà ở đây, tiếng vỡ của sóng bị triệt tiêu bởi những khối băng ở phía đón gió.
 
-Chúng tôi đi men theo rìa phía bắc của dải băng trong thời tiết trong xanh với gió tây nam nhẹ và bầu trời u ám. Những tảng băng xuất hiện nhiều. Trong buổi sáng ngày 9 tháng 12, một luồng gió đông mang theo thời tiết mù mịt với tuyết, và lúc 4 giờ 30 phút chiều, chúng tôi gặp rìa của dải băng đóng ở vĩ độ 58° 27´ Nam, kinh độ 22° 08´ Tây. Đó là băng một năm tuổi xen kẽ với băng đóng cũ hơn, tất cả đều bị tuyết phủ dày và nằm theo hướng tây tây nam đến đông đông bắc. Chúng tôi tiến vào dải băng lúc 5 giờ chiều, nhưng không thể tiến lên, và thoát ra lần nữa lúc 7 giờ 40 phút tối. Sau đó, chúng tôi lái về hướng đông đông bắc và dành suốt đêm để vòng qua dải băng. Trong ngày, chúng tôi đã thấy chim cánh cụt Adelie và cánh cụt vòng, cùng một vài con cá voi lưng gù và cá voi vây. Một ánh sáng phản chiếu từ băng ở phía tây cho thấy sự hiện diện của dải băng theo hướng đó. Sau khi vòng qua dải băng, chúng tôi lái theo hướng Nam 40° Đông, và vào chính ngọ ngày 10 đã đến vĩ độ 58° 28´ Nam, kinh độ 20° 28´ Tây. Các quan sát cho thấy độ lệch la bàn ít hơn 1½° so với ghi chép trên hải đồ. Tôi giữ tàu *Endurance* trên hải trình cho đến nửa đêm, khi chúng tôi tiến vào vùng băng hở thưa cách vị trí lúc chính ngọ khoảng chín mươi dặm về phía đông nam. Loại băng này bao quanh dải băng, và tiến độ trở nên chậm chạp. Có một đợt sóng lừng kéo dài từ phía đông với gió phương bắc nhẹ, thời tiết trong xanh và đẹp. Nhiều tảng băng nằm ngoài dải băng.
+Chúng tôi đi men theo rìa phía bắc của dải băng trong thời tiết trong xanh với gió tây nam
+nhẹ và bầu trời u ám. Những tảng băng xuất hiện nhiều. Trong buổi sáng ngày 9 tháng 12,
+một luồng gió đông mang theo thời tiết mù mịt với tuyết, và lúc 4 giờ 30 phút chiều,
+chúng tôi gặp rìa của dải băng đóng ở vĩ độ 58° 27´ Nam, kinh độ 22° 08´ Tây. Đó là
+băng một năm tuổi xen kẽ với băng đóng cũ hơn, tất cả đều bị tuyết phủ dày và nằm
+theo hướng tây tây nam đến đông đông bắc. Chúng tôi tiến vào dải băng lúc 5 giờ chiều,
+nhưng không thể tiến lên, và thoát ra lần nữa lúc 7 giờ 40 phút tối. Sau đó, chúng tôi lái
+về hướng đông đông bắc và dành suốt đêm để vòng qua dải băng. Trong ngày, chúng tôi đã
+thấy chim cánh cụt Adelie và cánh cụt vòng, cùng một vài con cá voi lưng gù và cá voi vây. Một
+ánh sáng phản chiếu từ băng ở phía tây cho thấy sự hiện diện của dải băng theo hướng
+đó. Sau khi vòng qua dải băng, chúng tôi lái theo hướng Nam 40° Đông, và vào chính ngọ ngày
+10 đã đến vĩ độ 58° 28´ Nam, kinh độ 20° 28´ Tây. Các quan sát cho thấy độ lệch la bàn
+ít hơn 1½° so với ghi chép trên hải đồ. Tôi giữ tàu *Endurance* trên hải trình cho đến
+nửa đêm, khi chúng tôi tiến vào vùng băng hở thưa cách vị trí lúc chính ngọ khoảng chín
+mươi dặm về phía đông nam. Loại băng này bao quanh dải băng, và tiến độ trở nên chậm
+chạp. Có một đợt sóng lừng kéo dài từ phía đông với gió phương bắc nhẹ, thời tiết
+trong xanh và đẹp. Nhiều tảng băng nằm ngoài dải băng.
 
-Tàu *Endurance* chạy hơi nước qua vùng băng hở thưa cho đến 8 giờ sáng ngày 11, khi chúng tôi tiến vào dải băng ở vĩ độ 59° 46´ Nam, kinh độ 18° 22´ Tây. Chúng tôi lẽ ra có thể đi xa hơn về phía đông, nhưng dải băng kéo dài rất xa theo hướng đó, và nỗ lực đi vòng quanh nó có thể khiến chúng tôi phải di chuyển về phía bắc nhiều. Tôi không muốn mất đi lợi ích của việc di chuyển về phía nam ban đầu. Những dặm đường tăng thêm sẽ không thành vấn đề với một con tàu có dung tích chứa than lớn hơn tàu *Endurance*, nhưng chúng tôi không thể chấp nhận hy sinh những dặm đường một cách không cần thiết. Dải băng lúc này thưa và không gây ra nhiều khó khăn. Buồm mũi được căng để tận dụng gió phương bắc. Con tàu thỉnh thoảng va chạm với băng và chịu một vài cú va chạm mạnh. Một hoặc hai lần tàu bị dừng khựng lại trước những mảng băng cứng, nhưng không có thiệt hại nào xảy ra. Mối quan tâm chính là bảo vệ chân vịt và bánh lái. Nếu một vụ va chạm có vẻ không thể tránh khỏi, sĩ quan phụ trách sẽ ra lệnh "chậm" hoặc "nửa tốc độ" cho động cơ, và bẻ lái để cú va chạm vào tảng băng chỉ là một cú sượt qua. Sau đó, bánh lái sẽ được bẻ về phía băng với mục đích đẩy chân vịt ra khỏi đó, và con tàu lại tiến lên. Worsley, Wild, và tôi, cùng với ba sĩ quan, chia làm ba ca trực trong khi chúng tôi xuyên qua dải băng, vì vậy luôn có hai sĩ quan trên boong. Người thợ mộc đã lắp một cột tín hiệu bằng gỗ cao 6 feet trên cầu tàu để sĩ quan định hướng có thể báo cho thủy thủ hoặc nhà khoa học tại bánh lái về hướng và mức độ bẻ lái chính xác cần thiết. Thiết bị này giúp tiết kiệm thời gian cũng như công sức hò hét. Chúng tôi đã xuyên qua dải băng thưa này suốt cả ngày, và tầm nhìn từ đài quan sát không cho thấy dấu hiệu cải thiện điều kiện phía trước. Một con hải cẩu Weddell và một con hải cẩu ăn cua được nhìn thấy trên các tảng băng, nhưng chúng tôi không dừng lại để kiếm thịt tươi. Điều quan trọng là chúng tôi phải tiến tới mục tiêu nhanh nhất có thể, và có lý do để lo ngại rằng chúng tôi sẽ có thừa thời gian về sau nếu tình trạng băng giá tiếp tục trở nên khắc nghiệt hơn.
+Tàu *Endurance* chạy hơi nước qua vùng băng hở thưa cho đến 8 giờ sáng ngày 11, khi chúng tôi
+tiến vào dải băng ở vĩ độ 59° 46´ Nam, kinh độ 18° 22´ Tây. Chúng tôi lẽ ra có thể đi
+xa hơn về phía đông, nhưng dải băng kéo dài rất xa theo hướng đó, và nỗ lực đi vòng quanh
+nó có thể khiến chúng tôi phải di chuyển về phía bắc nhiều. Tôi không muốn mất đi lợi
+ích của việc di chuyển về phía nam ban đầu. Những dặm đường tăng thêm sẽ không thành
+vấn đề với một con tàu có dung tích chứa than lớn hơn tàu *Endurance*, nhưng chúng tôi không
+thể chấp nhận hy sinh những dặm đường một cách không cần thiết. Dải băng lúc này thưa
+và không gây ra nhiều khó khăn. Buồm mũi được căng để tận dụng gió phương bắc. Con
+tàu thỉnh thoảng va chạm với băng và chịu một vài cú va chạm mạnh. Một hoặc hai lần
+tàu bị dừng khựng lại trước những mảng băng cứng, nhưng không có thiệt hại nào xảy
+ra. Mối quan tâm chính là bảo vệ chân vịt và bánh lái. Nếu một vụ va chạm có vẻ không
+thể tránh khỏi, sĩ quan phụ trách sẽ ra lệnh "chậm" hoặc "nửa tốc độ" cho động cơ,
+và bẻ lái để cú va chạm vào tảng băng chỉ là một cú sượt qua. Sau đó, bánh lái sẽ
+được bẻ về phía băng với mục đích đẩy chân vịt ra khỏi đó, và con tàu lại tiến
+lên. Worsley, Wild, và tôi, cùng với ba sĩ quan, chia làm ba ca trực trong khi chúng tôi xuyên qua
+dải băng, vì vậy luôn có hai sĩ quan trên boong. Người thợ mộc đã lắp một cột tín hiệu
+bằng gỗ cao 6 feet trên cầu tàu để sĩ quan định hướng có thể báo cho thủy thủ hoặc
+nhà khoa học tại bánh lái về hướng và mức độ bẻ lái chính xác cần thiết. Thiết bị
+này giúp tiết kiệm thời gian cũng như công sức hò hét. Chúng tôi đã xuyên qua dải băng thưa
+này suốt cả ngày, và tầm nhìn từ đài quan sát không cho thấy dấu hiệu cải thiện điều
+kiện phía trước. Một con hải cẩu Weddell và một con hải cẩu ăn cua được nhìn thấy trên
+các tảng băng, nhưng chúng tôi không dừng lại để kiếm thịt tươi. Điều quan trọng là
+chúng tôi phải tiến tới mục tiêu nhanh nhất có thể, và có lý do để lo ngại rằng chúng
+tôi sẽ có thừa thời gian về sau nếu tình trạng băng giá tiếp tục trở nên khắc nghiệt hơn.
 
-Vào sáng ngày 12 tháng 12, chúng tôi xuyên qua dải băng thưa, sau đó trở nên dày đặc ở vài nơi. Bầu trời u ám và tuyết rơi nhẹ. Tôi cho căng tất cả buồm vuông lúc 7 giờ sáng để tận dụng gió phương bắc, nhưng phải thu lại sau năm giờ khi gió chuyển sang hướng tây. Vị trí lúc chính ngọ là vĩ độ 60° 26´ Nam, kinh độ 17° 58´ Tây, và quãng đường đi được trong hai mươi bốn giờ qua chỉ là 33 dặm. Băng vẫn bị tắc nghẽn nặng nề, và chúng tôi phải len lỏi qua những rãnh nước hẹp và những kẽ hở thỉnh thoảng xuất hiện với những tảng băng thường xuyên nằm sát hai bên mạn tàu. Chim hải âu Nam Cực, chim hải âu tuyết, chim hải âu bão, chim fulmar, chim nhàn lưng trắng và chim cánh cụt Adelie bao quanh chúng tôi. Những con chim cánh cụt nhỏ bé kỳ lạ thấy con tàu là nguồn gây ra sự phấn khích rõ rệt và mang lại nhiều niềm vui cho mọi người trên tàu. Một trong những trò đùa quen thuộc là tất cả chim cánh cụt Adelie trên tảng băng dường như đều quen biết Clark, và khi anh ấy ở bánh lái, chúng lao tới nhanh nhất có thể, kêu lên "Clark! Clark!" và tỏ vẻ rất phẫn nộ và bối rối vì anh không bao giờ chờ chúng hay thậm chí là trả lời chúng.
+Vào sáng ngày 12 tháng 12, chúng tôi xuyên qua dải băng thưa, sau đó trở nên dày đặc ở
+vài nơi. Bầu trời u ám và tuyết rơi nhẹ. Tôi cho căng tất cả buồm vuông lúc 7 giờ sáng
+để tận dụng gió phương bắc, nhưng phải thu lại sau năm giờ khi gió chuyển sang hướng
+tây. Vị trí lúc chính ngọ là vĩ độ 60° 26´ Nam, kinh độ 17° 58´ Tây, và quãng đường
+đi được trong hai mươi bốn giờ qua chỉ là 33 dặm. Băng vẫn bị tắc nghẽn nặng nề, và
+chúng tôi phải len lỏi qua những rãnh nước hẹp và những kẽ hở thỉnh thoảng xuất hiện
+với những tảng băng thường xuyên nằm sát hai bên mạn tàu. Chim hải âu Nam Cực, chim hải
+âu tuyết, chim hải âu bão, chim fulmar, chim nhàn lưng trắng và chim cánh cụt Adelie bao quanh
+chúng tôi. Những con chim cánh cụt nhỏ bé kỳ lạ thấy con tàu là nguồn gây ra sự phấn
+khích rõ rệt và mang lại nhiều niềm vui cho mọi người trên tàu. Một trong những trò đùa
+quen thuộc là tất cả chim cánh cụt Adelie trên tảng băng dường như đều quen biết Clark,
+và khi anh ấy ở bánh lái, chúng lao tới nhanh nhất có thể, kêu lên "Clark! Clark!" và tỏ vẻ
+rất phẫn nộ và bối rối vì anh không bao giờ chờ chúng hay thậm chí là trả lời chúng.
 
-Chúng tôi tìm thấy vài rãnh nước tốt hướng về phía nam vào buổi tối, và tiếp tục tiến về phía nam suốt đêm và ngày hôm sau. Dải băng kéo dài khắp mọi hướng cho đến tận chân trời. Quan sát lúc chính ngọ cho thấy quãng đường đi được trong hai mươi bốn giờ là 54 dặm, một kết quả thỏa đáng trong điều kiện này. Wild bắn hạ một con hải cẩu Ross non trên tảng băng, và chúng tôi điều khiển tàu áp sát. Hudson nhảy xuống, buộc dây vào con hải cẩu, và cả hai kéo nó lên. Con hải cẩu dài 4 bộ 9 inch và nặng khoảng chín mươi bảng. Nó là một con đực non và là nguồn thực phẩm rất tốt, nhưng sau khi làm sạch và bỏ mỡ thì chỉ vừa đủ cho một bữa ăn đầy đủ cho hai mươi tám người chúng tôi, cùng một ít mẩu vụn cho bữa sáng và trà. Dạ dày của nó chỉ chứa những *động vật chân khớp* dài khoảng một inch, cùng loại với những con tìm thấy trong cá voi tại Grytviken.
+Chúng tôi tìm thấy vài rãnh nước tốt hướng về phía nam vào buổi tối, và tiếp tục tiến
+về phía nam suốt đêm và ngày hôm sau. Dải băng kéo dài khắp mọi hướng cho đến tận
+chân trời. Quan sát lúc chính ngọ cho thấy quãng đường đi được trong hai mươi bốn giờ
+là 54 dặm, một kết quả thỏa đáng trong điều kiện này. Wild bắn hạ một con hải cẩu
+Ross non trên tảng băng, và chúng tôi điều khiển tàu áp sát. Hudson nhảy xuống, buộc dây
+vào con hải cẩu, và cả hai kéo nó lên. Con hải cẩu dài 4 bộ 9 inch và nặng khoảng chín
+mươi bảng. Nó là một con đực non và là nguồn thực phẩm rất tốt, nhưng sau khi làm sạch
+và bỏ mỡ thì chỉ vừa đủ cho một bữa ăn đầy đủ cho hai mươi tám người chúng tôi,
+cùng một ít mẩu vụn cho bữa sáng và trà. Dạ dày của nó chỉ chứa những *động vật
+chân khớp* dài khoảng một inch, cùng loại với những con tìm thấy trong cá voi tại Grytviken.
 
 [Hình: Chim cánh cụt Hoàng đế con]
 
 [Hình: Một tảng băng đóng khổng lồ]
 
-Điều kiện trở nên khó khăn hơn vào ngày 14 tháng 12. Có một màn sương mờ và thỉnh thoảng tuyết rơi. Một vài tảng băng lớn nằm trong tầm mắt. Dải băng dày đặc hơn những ngày trước. Băng cũ xen kẽ với băng non, và tiến độ của chúng tôi chậm lại. Chân vịt chịu vài cú va chạm vào sáng sớm, nhưng không có thiệt hại nào xảy ra. Một sàn tạm được lắp dưới cần buồm mũi để Hurley có thể quay một số thước phim điện ảnh cảnh con tàu phá băng. Băng non không gây khó khăn cho tàu *Endurance*, con tàu có thể đập tan đường đi, nhưng những khối băng cũ hơn là những trở ngại đáng gờm, và việc điều khiển tàu là một công việc đòi hỏi sự chú ý cao độ. Việc điều hướng cẩn thận nhất cũng không thể ngăn được những cú va chạm thỉnh thoảng với lớp băng quá dày không thể bị phá vỡ hoặc đẩy sang bên. Gió nam mạnh dần thành một cơn gió Tây Nam mạnh vừa phải vào buổi chiều, và lúc 8 giờ tối, chúng tôi dừng tàu, mũi hướng vào một tảng băng, vì không thể tiếp tục mà không gặp rủi ro nghiêm trọng gây hư hỏng bánh lái hoặc chân vịt. Tôi thấy thú vị khi nhận ra rằng, mặc dù chúng tôi đã chạy hơi nước xuyên qua dải băng trong ba ngày, sóng lừng hướng tây bắc vẫn tiếp diễn. Nó làm tăng thêm khó khăn cho việc điều hướng trong các rãnh nước, vì băng liên tục di chuyển.
+Điều kiện trở nên khó khăn hơn vào ngày 14 tháng 12. Có một màn sương mờ và thỉnh thoảng
+tuyết rơi. Một vài tảng băng lớn nằm trong tầm mắt. Dải băng dày đặc hơn những ngày
+trước. Băng cũ xen kẽ với băng non, và tiến độ của chúng tôi chậm lại. Chân vịt chịu
+vài cú va chạm vào sáng sớm, nhưng không có thiệt hại nào xảy ra. Một sàn tạm được lắp
+dưới cần buồm mũi để Hurley có thể quay một số thước phim điện ảnh cảnh con tàu phá
+băng. Băng non không gây khó khăn cho tàu *Endurance*, con tàu có thể đập tan đường đi, nhưng
+những khối băng cũ hơn là những trở ngại đáng gờm, và việc điều khiển tàu là một công
+việc đòi hỏi sự chú ý cao độ. Việc điều hướng cẩn thận nhất cũng không thể ngăn
+được những cú va chạm thỉnh thoảng với lớp băng quá dày không thể bị phá vỡ hoặc
+đẩy sang bên. Gió nam mạnh dần thành một cơn gió Tây Nam mạnh vừa phải vào buổi chiều,
+và lúc 8 giờ tối, chúng tôi dừng tàu, mũi hướng vào một tảng băng, vì không thể tiếp
+tục mà không gặp rủi ro nghiêm trọng gây hư hỏng bánh lái hoặc chân vịt. Tôi thấy thú
+vị khi nhận ra rằng, mặc dù chúng tôi đã chạy hơi nước xuyên qua dải băng trong ba ngày,
+sóng lừng hướng tây bắc vẫn tiếp diễn. Nó làm tăng thêm khó khăn cho việc điều hướng
+trong các rãnh nước, vì băng liên tục di chuyển.
 
-Tàu *Endurance* nằm áp sát tảng băng trong hai mươi bốn giờ tiếp theo, cho đến khi cơn gió dịu đi. Dải băng kéo dài tới tận chân trời về mọi hướng và bị chia cắt bởi vô số những rãnh nước hẹp. Nhiều tảng băng lớn xuất hiện, và chúng dường như đang di chuyển xuyên qua dải băng theo hướng tây nam dưới ảnh hưởng của dòng hải lưu. Có lẽ bản thân dải băng đang di chuyển về phía đông bắc theo cơn gió. Clark thả lưới tìm mẫu vật, và ở độ sâu hai sải, tấm lưới bị dòng hải lưu cuốn về phía tây nam và làm kẹt chân vịt. Anh ấy mất tấm lưới, hai quả dọi và một sợi dây. Mười tảng băng lớn trôi về phía nam xuyên qua dải băng trong vòng hai mươi bốn giờ. Vị trí lúc chính ngọ là 61° 31´ Nam, kinh độ 18° 12´ Tây. Cơn gió dịu đi lúc 8 giờ tối, và chúng tôi đi được năm dặm về phía nam trước nửa đêm rồi dừng lại ở cuối một rãnh nước dài, chờ cho đến khi thời tiết quang hơn. Chính trong đợt chạy ngắn này, thuyền trưởng, với tín hiệu bẻ lái hết sang trái, đã hét lên với nhà khoa học ở bánh lái: "Vì lòng Chúa thương, sao anh không bẻ lái sang trái đi!" Câu trả lời vang lên với giọng phẫn nộ: "Tôi đang xì mũi."
+Tàu *Endurance* nằm áp sát tảng băng trong hai mươi bốn giờ tiếp theo, cho đến khi cơn gió
+dịu đi. Dải băng kéo dài tới tận chân trời về mọi hướng và bị chia cắt bởi vô số
+những rãnh nước hẹp. Nhiều tảng băng lớn xuất hiện, và chúng dường như đang di chuyển
+xuyên qua dải băng theo hướng tây nam dưới ảnh hưởng của dòng hải lưu. Có lẽ bản thân
+dải băng đang di chuyển về phía đông bắc theo cơn gió. Clark thả lưới tìm mẫu vật, và
+ở độ sâu hai sải, tấm lưới bị dòng hải lưu cuốn về phía tây nam và làm kẹt chân
+vịt. Anh ấy mất tấm lưới, hai quả dọi và một sợi dây. Mười tảng băng lớn trôi về
+phía nam xuyên qua dải băng trong vòng hai mươi bốn giờ. Vị trí lúc chính ngọ là 61° 31´
+Nam, kinh độ 18° 12´ Tây. Cơn gió dịu đi lúc 8 giờ tối, và chúng tôi đi được năm dặm
+về phía nam trước nửa đêm rồi dừng lại ở cuối một rãnh nước dài, chờ cho đến khi
+thời tiết quang hơn. Chính trong đợt chạy ngắn này, thuyền trưởng, với tín hiệu bẻ lái
+hết sang trái, đã hét lên với nhà khoa học ở bánh lái: "Vì lòng Chúa thương, sao anh không
+bẻ lái sang trái đi!" Câu trả lời vang lên với giọng phẫn nộ: "Tôi đang xì mũi."
 
-Tàu *Endurance* đạt được một số tiến triển vào ngày hôm sau. Những rãnh nước hở dài chạy về hướng tây nam, và con tàu đâm hết tốc lực qua những vùng băng non thỉnh thoảng xuất hiện cho đến khi dừng khựng lại với một tiếng rầm nặng nề trước một phần của tảng băng cũ. Worsley đứng ở đầu cần buồm mũi trong vài phút trong khi Wild điều khiển tàu, và anh trở về với một mô tả hào hứng về một cảm giác mới lạ. Cần buồm vung cao thấp và từ bên này sang bên kia, trong khi mũi tàu đồ sộ đập tan băng, xé toang nó ra, chồng chất từng khối băng rồi hất chúng sang một bên. Nhiệt độ không khí là 37° Fahr., ấm áp dễ chịu, và nhiệt độ nước là 29° Fahr. Chúng tôi tiếp tục tiến lên qua những rãnh nước dài và đẹp cho đến 4 giờ sáng ngày 17 tháng 12, khi băng trở nên khó khăn một lần nữa. Những tảng băng khổng lồ sáu tháng tuổi nằm sát nhau. Một số tảng băng này có bề mặt không vết nứt rộng một dặm vuông, và giữa chúng là những mảng băng mỏng và vài tảng băng cũ dày đặc. Nhiều tảng băng lớn nằm trong tầm mắt, và hải trình trở nên vòng vèo. Con tàu bị chặn lại tại một điểm bởi một mảnh băng hình nêm, nhưng chúng tôi thả neo băng xuyên qua nó, kéo nó ra phía sau và tiến qua khe hở. Lái tàu trong điều kiện này đòi hỏi cả sức mạnh lẫn tinh thần. Có tiếng loảng xoảng ở phía đuôi vào buổi chiều, và Hussey, người đang ở bánh lái, giải thích rằng "Bánh lái xoay vòng và hất tôi bay qua nó!" Vị trí lúc chính ngọ là vĩ độ 62° 13´ Nam, kinh độ 18° 53´ Tây, và quãng đường đi được trong hai mươi bốn giờ trước đó là 32 dặm theo hướng tây nam. Chúng tôi thấy ba con cá voi xanh trong ngày và một con chim cánh cụt Hoàng đế, một con chim nặng 58 bảng, được đưa vào kho lương thực.
+Tàu *Endurance* đạt được một số tiến triển vào ngày hôm sau. Những rãnh nước hở dài
+chạy về hướng tây nam, và con tàu đâm hết tốc lực qua những vùng băng non thỉnh thoảng
+xuất hiện cho đến khi dừng khựng lại với một tiếng rầm nặng nề trước một phần của
+tảng băng cũ. Worsley đứng ở đầu cần buồm mũi trong vài phút trong khi Wild điều khiển
+tàu, và anh trở về với một mô tả hào hứng về một cảm giác mới lạ. Cần buồm vung
+cao thấp và từ bên này sang bên kia, trong khi mũi tàu đồ sộ đập tan băng, xé toang nó ra,
+chồng chất từng khối băng rồi hất chúng sang một bên. Nhiệt độ không khí là 37° Fahr.,
+ấm áp dễ chịu, và nhiệt độ nước là 29° Fahr. Chúng tôi tiếp tục tiến lên qua những
+rãnh nước dài và đẹp cho đến 4 giờ sáng ngày 17 tháng 12, khi băng trở nên khó khăn một
+lần nữa. Những tảng băng khổng lồ sáu tháng tuổi nằm sát nhau. Một số tảng băng này
+có bề mặt không vết nứt rộng một dặm vuông, và giữa chúng là những mảng băng mỏng và
+vài tảng băng cũ dày đặc. Nhiều tảng băng lớn nằm trong tầm mắt, và hải trình trở nên
+vòng vèo. Con tàu bị chặn lại tại một điểm bởi một mảnh băng hình nêm, nhưng chúng tôi
+thả neo băng xuyên qua nó, kéo nó ra phía sau và tiến qua khe hở. Lái tàu trong điều kiện này
+đòi hỏi cả sức mạnh lẫn tinh thần. Có tiếng loảng xoảng ở phía đuôi vào buổi chiều,
+và Hussey, người đang ở bánh lái, giải thích rằng "Bánh lái xoay vòng và hất tôi bay qua
+nó!" Vị trí lúc chính ngọ là vĩ độ 62° 13´ Nam, kinh độ 18° 53´ Tây, và quãng đường
+đi được trong hai mươi bốn giờ trước đó là 32 dặm theo hướng tây nam. Chúng tôi thấy
+ba con cá voi xanh trong ngày và một con chim cánh cụt Hoàng đế, một con chim nặng 58 bảng,
+được đưa vào kho lương thực.
 
-Sáng ngày 18 tháng 12, tàu *Endurance* di chuyển giữa những tảng băng lớn với lớp băng mỏng ở giữa. Các rãnh nước rất ít. Có gió phương bắc với thỉnh thoảng những trận tuyết rơi. Chúng tôi bắt được ba con hải cẩu ăn cua—hai con cái và một con đực. Con đực là một mẫu vật tuyệt vời, gần như trắng toàn thân và dài 9 bộ 3 inch; nó nặng 600 bảng. Ngay trước chính ngọ, tiến độ bị chặn bởi dải băng dày, và chúng tôi thả một chiếc neo băng lên tảng băng rồi dập lửa lò hơi. Tôi đã chuẩn bị cho những điều kiện tồi tệ ở biển Weddell, nhưng đã hy vọng rằng trong tháng 12 và tháng 1, ít nhất dải băng sẽ thưa, ngay cả khi không tìm thấy vùng nước hở. Những gì chúng tôi thực sự đối mặt là dải băng khá dày với đặc tính rất ngoan cố. Băng đóng có thể được mô tả như một trò chơi ghép hình khổng lồ và vô tận do thiên nhiên thiết kế. Các mảnh của trò chơi trong dải băng thưa trôi hơi xa nhau và trở nên xáo trộn; ở nhiều nơi chúng lại ép sát vào nhau; khi dải băng khép lại, những vùng tắc nghẽn ngày càng lớn và các mảnh bị chèn chặt hơn cho đến khi cuối cùng trở thành "băng đóng dày đặc", khi mà toàn bộ trò chơi ghép hình bị chèn chặt đến mức với sự cẩn thận và nỗ lực, người ta có thể đi bộ theo mọi hướng. Nơi các mảnh không khít nhau, dĩ nhiên là có nước hở, vốn sẽ đóng băng trong vài giờ sau khi tỏa ra những luồng "khói băng". Theo áp lực mới, lớp băng non này "xếp chồng", tạo thành độ dày gấp đôi với độ dẻo như kẹo mạch nha. Một lần nữa, các cạnh đối lập của những tảng băng lớn dựng đứng lên trong một cuộc xung đột chậm chạp và gần như im lặng, cho đến khi những "hàng rào băng" cao được hình thành quanh mỗi mảnh ghép. Tại nơi giao nhau của nhiều tảng băng, những vùng hỗn loạn của các khối băng và mảng băng xếp chồng được hình thành. Đôi khi những chồng khối băng hình vuông vức cao 5 đến 6 feet được xếp gọn gàng đến mức dường như không thể là tác phẩm của Thiên nhiên. Một lần nữa, một hẻm núi uốn lượn có thể được băng qua giữa những vách băng cao 6 đến 10 feet, hoặc một mái vòm có thể hình thành và dưới áp lực mới, nó nổ tung lên trên như một ngọn núi lửa. Suốt mùa đông, dải băng trôi thay đổi—lớn lên nhờ đóng băng, dày lên nhờ xếp chồng, và bị nén thành nếp do áp lực. Nếu cuối cùng, trong quá trình trôi, nó va vào một bờ biển, chẳng hạn như bờ tây của biển Weddell, một áp lực khủng khiếp sẽ được thiết lập và một địa ngục của những khối băng, gờ băng và hàng rào băng sẽ kết quả, kéo dài có thể tới 150 hoặc 200 dặm ngoài khơi. Những phần băng áp lực có thể trôi đi sau đó và bị nhúng vào băng mới.
+Sáng ngày 18 tháng 12, tàu *Endurance* di chuyển giữa những tảng băng lớn với lớp băng mỏng
+ở giữa. Các rãnh nước rất ít. Có gió phương bắc với thỉnh thoảng những trận tuyết
+rơi. Chúng tôi bắt được ba con hải cẩu ăn cua—hai con cái và một con đực. Con đực là
+một mẫu vật tuyệt vời, gần như trắng toàn thân và dài 9 bộ 3 inch; nó nặng 600 bảng. Ngay
+trước chính ngọ, tiến độ bị chặn bởi dải băng dày, và chúng tôi thả một chiếc neo
+băng lên tảng băng rồi dập lửa lò hơi. Tôi đã chuẩn bị cho những điều kiện tồi tệ
+ở biển Weddell, nhưng đã hy vọng rằng trong tháng 12 và tháng 1, ít nhất dải băng sẽ thưa,
+ngay cả khi không tìm thấy vùng nước hở. Những gì chúng tôi thực sự đối mặt là dải
+băng khá dày với đặc tính rất ngoan cố. Băng đóng có thể được mô tả như một trò
+chơi ghép hình khổng lồ và vô tận do thiên nhiên thiết kế. Các mảnh của trò chơi trong
+dải băng thưa trôi hơi xa nhau và trở nên xáo trộn; ở nhiều nơi chúng lại ép sát vào nhau;
+khi dải băng khép lại, những vùng tắc nghẽn ngày càng lớn và các mảnh bị chèn chặt hơn
+cho đến khi cuối cùng trở thành "băng đóng dày đặc", khi mà toàn bộ trò chơi ghép hình
+bị chèn chặt đến mức với sự cẩn thận và nỗ lực, người ta có thể đi bộ theo mọi
+hướng. Nơi các mảnh không khít nhau, dĩ nhiên là có nước hở, vốn sẽ đóng băng trong vài
+giờ sau khi tỏa ra những luồng "khói băng". Theo áp lực mới, lớp băng non này "xếp chồng",
+tạo thành độ dày gấp đôi với độ dẻo như kẹo mạch nha. Một lần nữa, các cạnh đối
+lập của những tảng băng lớn dựng đứng lên trong một cuộc xung đột chậm chạp và gần
+như im lặng, cho đến khi những "hàng rào băng" cao được hình thành quanh mỗi mảnh ghép. Tại
+nơi giao nhau của nhiều tảng băng, những vùng hỗn loạn của các khối băng và mảng băng
+xếp chồng được hình thành. Đôi khi những chồng khối băng hình vuông vức cao 5 đến 6
+feet được xếp gọn gàng đến mức dường như không thể là tác phẩm của Thiên nhiên. Một
+lần nữa, một hẻm núi uốn lượn có thể được băng qua giữa những vách băng cao 6 đến
+10 feet, hoặc một mái vòm có thể hình thành và dưới áp lực mới, nó nổ tung lên trên như
+một ngọn núi lửa. Suốt mùa đông, dải băng trôi thay đổi—lớn lên nhờ đóng băng, dày
+lên nhờ xếp chồng, và bị nén thành nếp do áp lực. Nếu cuối cùng, trong quá trình trôi,
+nó va vào một bờ biển, chẳng hạn như bờ tây của biển Weddell, một áp lực khủng khiếp
+sẽ được thiết lập và một địa ngục của những khối băng, gờ băng và hàng rào băng
+sẽ kết quả, kéo dài có thể tới 150 hoặc 200 dặm ngoài khơi. Những phần băng áp lực có
+thể trôi đi sau đó và bị nhúng vào băng mới.
 
-Tôi đưa ra lời giải thích ngắn gọn này ở đây để người đọc có thể hiểu bản chất của lớp băng mà chúng tôi đã xuyên qua trong hàng trăm dặm. Một điểm khác cần giải thích là sự chậm trễ do gió khi chúng tôi ở trong dải băng. Khi có gió mạnh hoặc cơn gió mạnh vừa phải, con tàu không thể vận hành an toàn qua bất kỳ loại băng nào trừ băng non, dày khoảng hai feet. Vì loại băng đó không bao giờ kéo dài quá một dặm hoặc hơn, nên hệ quả là trong một cơn gió ở dải băng, chúng tôi luôn phải dừng tàu chờ. Đuôi tàu chìm sâu hơn 3 bộ 3 inch, và trong khi điều này giúp bảo vệ chân vịt và bánh lái đáng kể, nó khiến tàu *Endurance* thực tế không thể điều khiển được trong băng đóng dày đặc khi gió đạt tốc độ sáu dặm một giờ từ phía trước, vì luồng không khí có bề mặt phía trước quá lớn để tác động lên. Áp lực của gió lên mũi tàu và các xà ngang của cột buồm mũi sẽ khiến mũi tàu bị lệch, và trong điều kiện này, tàu không thể được điều khiển vào những rãnh nước hẹp mà chúng tôi phải len lỏi đi qua. Hơn nữa, việc mũi tàu bị lệch sẽ có xu hướng đưa đuôi tàu áp sát băng, buộc chúng tôi phải dừng động cơ để cứu chân vịt. Khi đó con tàu trở nên mất kiểm soát và trôi dạt, với khả năng bị lực đẩy ngược về phía đuôi quá lớn và do đó làm hỏng bánh lái hoặc chân vịt, điểm yếu chết người của một con tàu trong băng đóng.
+Tôi đưa ra lời giải thích ngắn gọn này ở đây để người đọc có thể hiểu bản chất
+của lớp băng mà chúng tôi đã xuyên qua trong hàng trăm dặm. Một điểm khác cần giải
+thích là sự chậm trễ do gió khi chúng tôi ở trong dải băng. Khi có gió mạnh hoặc cơn gió
+mạnh vừa phải, con tàu không thể vận hành an toàn qua bất kỳ loại băng nào trừ băng non,
+dày khoảng hai feet. Vì loại băng đó không bao giờ kéo dài quá một dặm hoặc hơn, nên hệ
+quả là trong một cơn gió ở dải băng, chúng tôi luôn phải dừng tàu chờ. Đuôi tàu chìm
+sâu hơn 3 bộ 3 inch, và trong khi điều này giúp bảo vệ chân vịt và bánh lái đáng kể,
+nó khiến tàu *Endurance* thực tế không thể điều khiển được trong băng đóng dày đặc khi
+gió đạt tốc độ sáu dặm một giờ từ phía trước, vì luồng không khí có bề mặt phía
+trước quá lớn để tác động lên. Áp lực của gió lên mũi tàu và các xà ngang của cột
+buồm mũi sẽ khiến mũi tàu bị lệch, và trong điều kiện này, tàu không thể được điều
+khiển vào những rãnh nước hẹp mà chúng tôi phải len lỏi đi qua. Hơn nữa, việc mũi tàu
+bị lệch sẽ có xu hướng đưa đuôi tàu áp sát băng, buộc chúng tôi phải dừng động cơ
+để cứu chân vịt. Khi đó con tàu trở nên mất kiểm soát và trôi dạt, với khả năng bị
+lực đẩy ngược về phía đuôi quá lớn và do đó làm hỏng bánh lái hoặc chân vịt, điểm
+yếu chết người của một con tàu trong băng đóng.
 
-Trong khi chờ thời tiết dịu đi và băng mở ra, tôi đã lắp máy đo độ sâu Lucas phía trên trục bánh lái và thấy độ sâu là 2810 sải. Mẫu đáy biển bị mất do dây bị đứt cách cuối dây 60 sải. Trong buổi chiều, ba con chim cánh cụt Adelie tiếp cận tàu băng qua tảng băng trong khi Hussey gảy những giai điệu ngọt ngào trên cây đàn banjo. Những con chim nhỏ với vẻ mặt nghiêm trang dường như đánh giá cao bài "Đường đến Tipperary thật xa", nhưng chúng chạy trốn trong kinh hãi khi Hussey chiêu đãi chúng một chút âm nhạc đến từ Scotland. Những tiếng cười lớn từ con tàu càng làm chúng hoảng sợ, và chúng chạy đi nhanh nhất có thể với những đôi chân ngắn tũn. Dải băng mở ra một chút lúc 6 giờ 15 phút tối, và chúng tôi tiến qua những rãnh nước trong ba giờ trước khi buộc phải neo vào một tảng băng cho đêm nay. Chúng tôi đã bắn một chiếc lao săn cá voi hiệu Hjort, số 171, vào một con cá voi xanh trong ngày hôm nay.
+Trong khi chờ thời tiết dịu đi và băng mở ra, tôi đã lắp máy đo độ sâu Lucas phía trên
+trục bánh lái và thấy độ sâu là 2810 sải. Mẫu đáy biển bị mất do dây bị đứt cách
+cuối dây 60 sải. Trong buổi chiều, ba con chim cánh cụt Adelie tiếp cận tàu băng qua tảng
+băng trong khi Hussey gảy những giai điệu ngọt ngào trên cây đàn banjo. Những con chim nhỏ với
+vẻ mặt nghiêm trang dường như đánh giá cao bài "Đường đến Tipperary thật xa", nhưng chúng
+chạy trốn trong kinh hãi khi Hussey chiêu đãi chúng một chút âm nhạc đến từ Scotland. Những
+tiếng cười lớn từ con tàu càng làm chúng hoảng sợ, và chúng chạy đi nhanh nhất có thể
+với những đôi chân ngắn tũn. Dải băng mở ra một chút lúc 6 giờ 15 phút tối, và chúng
+tôi tiến qua những rãnh nước trong ba giờ trước khi buộc phải neo vào một tảng băng cho
+đêm nay. Chúng tôi đã bắn một chiếc lao săn cá voi hiệu Hjort, số 171, vào một con cá voi
+xanh trong ngày hôm nay.
 
-Điều kiện không cải thiện trong ngày 19 tháng 12. Gió phương bắc tươi mới đến mạnh mang theo sương mù và tuyết, và sau khi tiến lên trong hai giờ, tàu *Endurance* lại bị chặn bởi những tảng băng lớn. Không thể điều khiển tàu trong băng do gió mạnh, khiến các tảng băng liên tục di chuyển và làm các rãnh nước mở ra và đóng lại với tốc độ nguy hiểm. Quan sát lúc chính ngọ cho thấy chúng tôi đã đi được sáu dặm về phía đông nam trong hai mươi bốn giờ trước. Mọi người trong ngày đều bận rộn ngắt mầm khoai tây đang nảy mầm tự do. Chúng tôi tiếp tục neo vào một tảng băng trong ngày tiếp theo, do gió không giảm; quả thực, nó mạnh lên thành một cơn gió mạnh vào buổi chiều, và các thành viên của ban cán sự cùng thủy thủ đoàn đã tận dụng lúc tạm nghỉ để tận hưởng một trận bóng đá tranh chấp quyết liệt trên bề mặt bằng phẳng của tảng băng sát mạn tàu. Mười hai tảng băng lớn xuất hiện vào lúc này. Vị trí lúc chính ngọ là vĩ độ 62° 42´ Nam, kinh độ 17° 54´ Tây, cho thấy chúng tôi đã trôi dạt khoảng sáu dặm theo hướng đông bắc.
+Điều kiện không cải thiện trong ngày 19 tháng 12. Gió phương bắc tươi mới đến mạnh mang
+theo sương mù và tuyết, và sau khi tiến lên trong hai giờ, tàu *Endurance* lại bị chặn bởi
+những tảng băng lớn. Không thể điều khiển tàu trong băng do gió mạnh, khiến các tảng băng
+liên tục di chuyển và làm các rãnh nước mở ra và đóng lại với tốc độ nguy hiểm. Quan
+sát lúc chính ngọ cho thấy chúng tôi đã đi được sáu dặm về phía đông nam trong hai mươi
+bốn giờ trước. Mọi người trong ngày đều bận rộn ngắt mầm khoai tây đang nảy mầm
+tự do. Chúng tôi tiếp tục neo vào một tảng băng trong ngày tiếp theo, do gió không giảm;
+quả thực, nó mạnh lên thành một cơn gió mạnh vào buổi chiều, và các thành viên của ban
+cán sự cùng thủy thủ đoàn đã tận dụng lúc tạm nghỉ để tận hưởng một trận bóng
+đá tranh chấp quyết liệt trên bề mặt bằng phẳng của tảng băng sát mạn tàu. Mười hai
+tảng băng lớn xuất hiện vào lúc này. Vị trí lúc chính ngọ là vĩ độ 62° 42´ Nam, kinh
+độ 17° 54´ Tây, cho thấy chúng tôi đã trôi dạt khoảng sáu dặm theo hướng đông bắc.
 
 [Hình: Samson]
 
 [Hình: Hoa băng]
 
-Thứ Hai, ngày 21 tháng 12, thời tiết đẹp tuyệt vời, với gió tây tây bắc nhẹ. Chúng tôi khởi hành lúc 3 giờ sáng và tiến qua dải băng theo hướng tây nam. Lúc chính ngọ, chúng tôi đạt được bảy dặm gần như chính đông, do sự trôi dạt về phía bắc của dải băng vẫn tiếp tục trong khi con tàu dường như di chuyển về phía nam. Chim hải âu nhiều loài, chim cánh cụt và hải cẩu xuất hiện phong phú, và chúng tôi thấy bốn con cá voi xanh nhỏ. Lúc chính ngọ, chúng tôi tiến vào một rãnh nước dài về phía nam và đi vòng qua cũng như len lỏi giữa chín tảng băng tuyệt đẹp. Một mẫu vật khổng lồ có hình dáng giống như đá Gibraltar nhưng với những vách đá dốc hơn, và một tảng khác có một bến cảng tự nhiên có thể chứa được tàu *Aquitania*. Một mỏm băng chặn lối vào hồ nước xanh khổng lồ. Hurley mang máy quay phim ra để ghi lại hình ảnh những tảng băng này. Những rãnh nước dài và đẹp chạy về hướng đông và đông nam giữa các tảng băng được tìm thấy trong buổi chiều, nhưng đến nửa đêm, con tàu bị chặn bởi những tảng băng nhỏ, nặng, nén chặt vào một vùng băng phẳng không vết nứt. Tầm nhìn từ đỉnh cột buồm không mấy khích lệ. Tảng băng lớn dài ít nhất 15 dặm và rộng 10 dặm. Cạnh của nó không thể nhìn thấy ở phần rộng nhất, và diện tích của tảng băng chắc chắn không dưới 150 dặm vuông. Nó có vẻ được hình thành từ băng một năm tuổi, không quá dày và có rất ít gò băng hay gờ băng. Chúng tôi nghĩ nó phải được hình thành trên biển trong thời tiết rất lặng và trôi dạt lên từ phía đông nam. Tôi chưa bao giờ thấy một vùng băng không vết nứt lớn như vậy ở biển Ross.
+Thứ Hai, ngày 21 tháng 12, thời tiết đẹp tuyệt vời, với gió tây tây bắc nhẹ. Chúng tôi
+khởi hành lúc 3 giờ sáng và tiến qua dải băng theo hướng tây nam. Lúc chính ngọ, chúng
+tôi đạt được bảy dặm gần như chính đông, do sự trôi dạt về phía bắc của dải băng
+vẫn tiếp tục trong khi con tàu dường như di chuyển về phía nam. Chim hải âu nhiều loài, chim
+cánh cụt và hải cẩu xuất hiện phong phú, và chúng tôi thấy bốn con cá voi xanh nhỏ. Lúc
+chính ngọ, chúng tôi tiến vào một rãnh nước dài về phía nam và đi vòng qua cũng như len
+lỏi giữa chín tảng băng tuyệt đẹp. Một mẫu vật khổng lồ có hình dáng giống như đá
+Gibraltar nhưng với những vách đá dốc hơn, và một tảng khác có một bến cảng tự nhiên có
+thể chứa được tàu *Aquitania*. Một mỏm băng chặn lối vào hồ nước xanh khổng lồ. Hurley
+mang máy quay phim ra để ghi lại hình ảnh những tảng băng này. Những rãnh nước dài và đẹp
+chạy về hướng đông và đông nam giữa các tảng băng được tìm thấy trong buổi chiều,
+nhưng đến nửa đêm, con tàu bị chặn bởi những tảng băng nhỏ, nặng, nén chặt vào một
+vùng băng phẳng không vết nứt. Tầm nhìn từ đỉnh cột buồm không mấy khích lệ. Tảng băng
+lớn dài ít nhất 15 dặm và rộng 10 dặm. Cạnh của nó không thể nhìn thấy ở phần rộng
+nhất, và diện tích của tảng băng chắc chắn không dưới 150 dặm vuông. Nó có vẻ được
+hình thành từ băng một năm tuổi, không quá dày và có rất ít gò băng hay gờ băng. Chúng
+tôi nghĩ nó phải được hình thành trên biển trong thời tiết rất lặng và trôi dạt lên từ
+phía đông nam. Tôi chưa bao giờ thấy một vùng băng không vết nứt lớn như vậy ở biển Ross.
 
-Chúng tôi chờ với lò hơi dập lửa để cơn gió đông mạnh dịu đi hoặc dải băng mở ra. Lúc 6 giờ 30 phút tối ngày 22 tháng 12, một số rãnh nước mở ra và chúng tôi có thể di chuyển về phía nam một lần nữa. Sáng hôm sau thấy chúng tôi tiến chậm chạp qua dải băng, và quan sát lúc chính ngọ cho thấy chúng tôi tiến được 19 dặm hướng Nam 41° Tây trong mười bảy giờ rưỡi chạy hơi nước. Nhiều chim cánh cụt Adelie một năm tuổi, ba con hải cẩu ăn cua, sáu con hải cẩu báo, một con hải cẩu Weddell và hai con cá voi xanh được nhìn thấy. Nhiệt độ không khí, vốn đã xuống 25° Fahr. vào ngày 21 tháng 12, đã tăng lên 34° Fahr. Trong khi chúng tôi đi dọc theo các rãnh nước về phía nam vào buổi chiều, chúng tôi đếm được mười lăm tảng băng. Ba trong số đó có hình bàn, và một tảng cao khoảng 70 feet và dài 5 dặm. Rõ ràng nó đến từ một rìa rào chắn. Băng trở nên nặng hơn nhưng hơi hở hơn, và chúng tôi có một đêm lặng với những rãnh nước hở dài và đẹp. Nước lặng đến mức băng mới hình thành trên các rãnh nước. Chúng tôi đạt được quãng đường 70 dặm vào chính ngọ ngày 24 tháng 12, vị trí là vĩ độ 64° 32´ Nam, kinh độ 17° 17´ Tây. Tất cả những con chó trừ tám con đã được đặt tên. Tôi không biết ai là người chịu trách nhiệm cho một số cái tên, những cái tên dường như thể hiện nhiều sở thích khác nhau. Chúng là: Rugby, Upton Bristol, Millhill, Songster, Sandy, Mack, Mercury, Wolf, Amundsen, Hercules, Hackenschmidt, Samson, Sammy, Skipper, Caruso, Sub, Ulysses, Spotty, Bosun, Slobbers, Sadie, Sue, Sally, Jasper, Tim, Sweep, Martin, Splitlip, Luke, Saint, Satan, Chips, Stumps, Snapper, Painful, Bob, Snowball, Jerry, Judge, Sooty, Rufus, Sidelights, Simeon, Swanker, Chirgwin, Steamer, Peter, Fluffy, Steward, Slippery, Elliott, Roy, Noel, Shakespeare, Jamie, Bummer, Smuts, Lupoid, Spider, và Sailor. Có thể thấy một số cái tên mang tính mô tả.
+Chúng tôi chờ với lò hơi dập lửa để cơn gió đông mạnh dịu đi hoặc dải băng mở ra. Lúc
+6 giờ 30 phút tối ngày 22 tháng 12, một số rãnh nước mở ra và chúng tôi có thể di chuyển
+về phía nam một lần nữa. Sáng hôm sau thấy chúng tôi tiến chậm chạp qua dải băng, và quan
+sát lúc chính ngọ cho thấy chúng tôi tiến được 19 dặm hướng Nam 41° Tây trong mười bảy
+giờ rưỡi chạy hơi nước. Nhiều chim cánh cụt Adelie một năm tuổi, ba con hải cẩu ăn cua,
+sáu con hải cẩu báo, một con hải cẩu Weddell và hai con cá voi xanh được nhìn thấy. Nhiệt
+độ không khí, vốn đã xuống 25° Fahr. vào ngày 21 tháng 12, đã tăng lên 34° Fahr. Trong khi chúng
+tôi đi dọc theo các rãnh nước về phía nam vào buổi chiều, chúng tôi đếm được mười lăm
+tảng băng. Ba trong số đó có hình bàn, và một tảng cao khoảng 70 feet và dài 5 dặm. Rõ ràng
+nó đến từ một rìa rào chắn. Băng trở nên nặng hơn nhưng hơi hở hơn, và chúng tôi có
+một đêm lặng với những rãnh nước hở dài và đẹp. Nước lặng đến mức băng mới hình
+thành trên các rãnh nước. Chúng tôi đạt được quãng đường 70 dặm vào chính ngọ ngày 24
+tháng 12, vị trí là vĩ độ 64° 32´ Nam, kinh độ 17° 17´ Tây. Tất cả những con chó trừ tám
+con đã được đặt tên. Tôi không biết ai là người chịu trách nhiệm cho một số cái tên,
+những cái tên dường như thể hiện nhiều sở thích khác nhau. Chúng là: Rugby, Upton Bristol,
+Millhill, Songster, Sandy, Mack, Mercury, Wolf, Amundsen, Hercules, Hackenschmidt, Samson, Sammy, Skipper, Caruso,
+Sub, Ulysses, Spotty, Bosun, Slobbers, Sadie, Sue, Sally, Jasper, Tim, Sweep, Martin, Splitlip, Luke, Saint, Satan,
+Chips, Stumps, Snapper, Painful, Bob, Snowball, Jerry, Judge, Sooty, Rufus, Sidelights, Simeon, Swanker, Chirgwin,
+Steamer, Peter, Fluffy, Steward, Slippery, Elliott, Roy, Noel, Shakespeare, Jamie, Bummer, Smuts, Lupoid, Spider,
+và Sailor. Có thể thấy một số cái tên mang tính mô tả.
 
-Những tảng băng lớn giữ chân con tàu từ nửa đêm đến 6 giờ sáng ngày 25 tháng 12, Ngày Giáng sinh. Sau đó chúng mở ra một chút và chúng tôi tiến triển cho đến 11 giờ 30 phút sáng, khi các rãnh nước lại đóng lại. Chúng tôi đã gặp những rãnh nước tốt và băng dễ đi trong phần đầu đêm, và quan sát lúc chính ngọ cho thấy quãng đường đi được trong hai mươi bốn giờ là tốt nhất kể từ khi chúng tôi tiến vào dải băng hai tuần trước. Chúng tôi đã đi được 71 dặm hướng Nam 4° Tây. Băng giữ chân chúng tôi cho đến buổi tối, và sau đó chúng tôi có thể đi theo một số rãnh nước trong vài giờ trước khi những tảng băng nén chặt và gió tăng mạnh buộc phải dừng lại. Việc kỷ niệm Giáng sinh không bị lãng quên. Rượu Grog được phục vụ lúc nửa đêm cho tất cả mọi người trên boong. Có rượu Grog một lần nữa vào bữa sáng, dành cho những ai còn trong giường lúc nửa đêm. Lees đã trang trí phòng họp bằng cờ và có một món quà Giáng sinh nhỏ cho mỗi người. Một số trong chúng tôi có quà từ quê nhà để mở. Sau đó là một bữa tối thực sự lộng lẫy, bao gồm súp rùa, cá trắng, thịt thỏ hầm, bánh pudding Giáng sinh, bánh mince-pie, chà là, sung và trái cây ngâm đường, cùng rượu rum và bia stout. Vào buổi tối, mọi người cùng tham gia một "buổi hát hò". Hussey đã chế một chiếc vĩ cầm một dây, mà theo lời Worsley, anh "diễn tấu một cách không gây đau đớn chút nào". Gió mạnh dần thành một cơn gió đông nam mạnh vừa phải và không thể tiến thêm, vì vậy chúng tôi có thể an tâm tận hưởng những niềm vui của buổi tối.
+Những tảng băng lớn giữ chân con tàu từ nửa đêm đến 6 giờ sáng ngày 25 tháng 12, Ngày
+Giáng sinh. Sau đó chúng mở ra một chút và chúng tôi tiến triển cho đến 11 giờ 30 phút sáng,
+khi các rãnh nước lại đóng lại. Chúng tôi đã gặp những rãnh nước tốt và băng dễ đi
+trong phần đầu đêm, và quan sát lúc chính ngọ cho thấy quãng đường đi được trong hai
+mươi bốn giờ là tốt nhất kể từ khi chúng tôi tiến vào dải băng hai tuần trước. Chúng
+tôi đã đi được 71 dặm hướng Nam 4° Tây. Băng giữ chân chúng tôi cho đến buổi tối,
+và sau đó chúng tôi có thể đi theo một số rãnh nước trong vài giờ trước khi những tảng
+băng nén chặt và gió tăng mạnh buộc phải dừng lại. Việc kỷ niệm Giáng sinh không bị
+lãng quên. Rượu Grog được phục vụ lúc nửa đêm cho tất cả mọi người trên boong. Có
+rượu Grog một lần nữa vào bữa sáng, dành cho những ai còn trong giường lúc nửa đêm. Lees
+đã trang trí phòng họp bằng cờ và có một món quà Giáng sinh nhỏ cho mỗi người. Một số
+trong chúng tôi có quà từ quê nhà để mở. Sau đó là một bữa tối thực sự lộng lẫy,
+bao gồm súp rùa, cá trắng, thịt thỏ hầm, bánh pudding Giáng sinh, bánh mince-pie, chà là, sung
+và trái cây ngâm đường, cùng rượu rum và bia stout. Vào buổi tối, mọi người cùng tham gia
+một "buổi hát hò". Hussey đã chế một chiếc vĩ cầm một dây, mà theo lời Worsley, anh "diễn
+tấu một cách không gây đau đớn chút nào". Gió mạnh dần thành một cơn gió đông nam mạnh
+vừa phải và không thể tiến thêm, vì vậy chúng tôi có thể an tâm tận hưởng những niềm
+vui của buổi tối.
 
-Thời tiết vẫn xấu vào ngày 26 và 27 tháng 12, và tàu *Endurance* tiếp tục neo vào một tảng băng. Vị trí lúc chính ngọ ngày 26 là vĩ độ 65° 43´ Nam, kinh độ 17° 36´ Tây. Chúng tôi thực hiện một phép đo độ sâu khác vào ngày này bằng máy Lucas và thấy đáy ở 2819 sải. Mẫu thu được là bùn xanh lục địa (trầm tích băng hà) với một số *phù du*. Mọi người thay phiên nhau làm việc kéo dây, hai người làm cùng nhau trong những đợt mười phút.
+Thời tiết vẫn xấu vào ngày 26 và 27 tháng 12, và tàu *Endurance* tiếp tục neo vào một
+tảng băng. Vị trí lúc chính ngọ ngày 26 là vĩ độ 65° 43´ Nam, kinh độ 17° 36´ Tây. Chúng
+tôi thực hiện một phép đo độ sâu khác vào ngày này bằng máy Lucas và thấy đáy ở 2819
+sải. Mẫu thu được là bùn xanh lục địa (trầm tích băng hà) với một số *phù du*. Mọi
+người thay phiên nhau làm việc kéo dây, hai người làm cùng nhau trong những đợt mười phút.
 
-Chủ Nhật, ngày 27 tháng 12, là một ngày yên tĩnh trên tàu. Cơn gió nam thổi tuyết thành từng đám khỏi tảng băng và nhiệt độ đã giảm xuống 23° Fahr. Lũ chó có một khoảng thời gian không thoải mái trong khu vực trên boong. Gió dịu đi vào sáng hôm sau, nhưng có gió giật với tuyết rơi, và tôi không ra lệnh khởi hành cho đến 11 giờ đêm. Dải băng vẫn dày, nhưng băng mềm hơn và dễ bị phá vỡ hơn. Trong lúc tạm nghỉ, người thợ mộc đã lắp một sàn nhỏ phía trên đuôi tàu. Một người được bố trí ở đó để theo dõi chân vịt và ngăn nó va vào băng dày, và sự sắp xếp này tỏ ra rất giá trị. Nó cứu bánh lái cũng như chân vịt khỏi nhiều cú va chạm.
+Chủ Nhật, ngày 27 tháng 12, là một ngày yên tĩnh trên tàu. Cơn gió nam thổi tuyết thành
+từng đám khỏi tảng băng và nhiệt độ đã giảm xuống 23° Fahr. Lũ chó có một khoảng
+thời gian không thoải mái trong khu vực trên boong. Gió dịu đi vào sáng hôm sau, nhưng có gió
+giật với tuyết rơi, và tôi không ra lệnh khởi hành cho đến 11 giờ đêm. Dải băng vẫn
+dày, nhưng băng mềm hơn và dễ bị phá vỡ hơn. Trong lúc tạm nghỉ, người thợ mộc đã
+lắp một sàn nhỏ phía trên đuôi tàu. Một người được bố trí ở đó để theo dõi chân
+vịt và ngăn nó va vào băng dày, và sự sắp xếp này tỏ ra rất giá trị. Nó cứu bánh lái
+cũng như chân vịt khỏi nhiều cú va chạm.
 
-Những luồng gió mạnh đã kéo dài trong bốn ngày rưỡi nhường chỗ cho gió nam nhẹ vào buổi tối ngày 29 tháng 12. Do trôi dạt, chúng tôi thực tế nằm xa hơn mười một dặm về phía bắc so với ngày 25 tháng 12. Nhưng chúng tôi đạt tiến độ khá tốt vào ngày 30 trong thời tiết trong xanh, quang đãng. Con tàu đi theo một rãnh nước dài về phía đông nam trong buổi chiều và buổi tối, và lúc 11 giờ đêm, chúng tôi vượt qua Vòng Nam Cực. Việc quan sát đường chân trời cho thấy những vết nứt đáng kể trong vòng tròn băng đóng khổng lồ, xen kẽ với những tảng băng đủ mọi kích cỡ. Có thể thấy những rãnh nước theo nhiều hướng khác nhau, nhưng tôi tìm kiếm vô vọng một dấu hiệu của vùng nước hở. Mặt trời không lặn đêm đó, và vì bị che khuất sau một dải mây nên chúng tôi thấy một ánh sáng đỏ thẫm và vàng kim về phía nam, với những hình phản chiếu xanh lục nhạt tinh tế trong làn nước của những rãnh nước về phía đông nam.
+Những luồng gió mạnh đã kéo dài trong bốn ngày rưỡi nhường chỗ cho gió nam nhẹ vào buổi
+tối ngày 29 tháng 12. Do trôi dạt, chúng tôi thực tế nằm xa hơn mười một dặm về phía
+bắc so với ngày 25 tháng 12. Nhưng chúng tôi đạt tiến độ khá tốt vào ngày 30 trong thời
+tiết trong xanh, quang đãng. Con tàu đi theo một rãnh nước dài về phía đông nam trong buổi
+chiều và buổi tối, và lúc 11 giờ đêm, chúng tôi vượt qua Vòng Nam Cực. Việc quan sát
+đường chân trời cho thấy những vết nứt đáng kể trong vòng tròn băng đóng khổng lồ,
+xen kẽ với những tảng băng đủ mọi kích cỡ. Có thể thấy những rãnh nước theo nhiều
+hướng khác nhau, nhưng tôi tìm kiếm vô vọng một dấu hiệu của vùng nước hở. Mặt trời
+không lặn đêm đó, và vì bị che khuất sau một dải mây nên chúng tôi thấy một ánh sáng
+đỏ thẫm và vàng kim về phía nam, với những hình phản chiếu xanh lục nhạt tinh tế trong
+làn nước của những rãnh nước về phía đông nam.
 
-Con tàu có một cuộc chạm trán nghiêm trọng với băng vào sáng ngày 31 tháng 12. Đầu tiên chúng tôi bị chặn bởi những tảng băng khép lại xung quanh, và sau đó vào khoảng chính ngọ, tàu *Endurance* bị kẹp giữa hai tảng băng hướng đông đông bắc. Áp lực làm tàu nghiêng sáu độ trong khi chúng tôi đang thả một chiếc neo băng lên tảng băng để kéo lùi về phía sau và từ đó hỗ trợ động cơ đang chạy hết tốc lực. Nỗ lực này đã thành công. Ngay sau đó, tại vị trí mà tàu *Endurance* từng bị giữ, những phiến băng rộng 50 feet, dài 15 feet và dày 4 feet bị đẩy cao mười hoặc mười hai feet lên tảng băng khuất gió ở một góc 45°. Áp lực rất nghiêm trọng, và chúng tôi không hề tiếc khi đưa con tàu thoát khỏi tầm với của nó. Vị trí lúc chính ngọ là vĩ độ 66° 47´ Nam, kinh độ 15° 52´ Tây, và quãng đường đi được trong hai mươi bốn giờ trước đó là 51 dặm hướng Nam 29° Đông.
+Con tàu có một cuộc chạm trán nghiêm trọng với băng vào sáng ngày 31 tháng 12. Đầu tiên
+chúng tôi bị chặn bởi những tảng băng khép lại xung quanh, và sau đó vào khoảng chính ngọ,
+tàu *Endurance* bị kẹp giữa hai tảng băng hướng đông đông bắc. Áp lực làm tàu nghiêng
+sáu độ trong khi chúng tôi đang thả một chiếc neo băng lên tảng băng để kéo lùi về phía
+sau và từ đó hỗ trợ động cơ đang chạy hết tốc lực. Nỗ lực này đã thành công. Ngay
+sau đó, tại vị trí mà tàu *Endurance* từng bị giữ, những phiến băng rộng 50 feet, dài 15
+feet và dày 4 feet bị đẩy cao mười hoặc mười hai feet lên tảng băng khuất gió ở một góc
+45°. Áp lực rất nghiêm trọng, và chúng tôi không hề tiếc khi đưa con tàu thoát khỏi tầm
+với của nó. Vị trí lúc chính ngọ là vĩ độ 66° 47´ Nam, kinh độ 15° 52´ Tây, và quãng
+đường đi được trong hai mươi bốn giờ trước đó là 51 dặm hướng Nam 29° Đông.
 
-"Từ chính ngọ, đặc điểm của dải băng đã cải thiện," Worsley viết vào ngày này. "Mặc dù các rãnh nước ngắn, các tảng băng đã mủn và dễ dàng bị phá vỡ nếu chọn được một vị trí tốt với sự cẩn thận và phán đoán. Trong nhiều trường hợp, chúng tôi tìm thấy những mảng băng non lớn mà tàu có thể cắt qua một hoặc hai dặm một mạch. Tôi đã điều khiển và vận hành tàu từ đài quan sát trên cột buồm và thấy đó là vị trí tốt nhất, vì từ đó người ta có thể nhìn về phía trước và vạch ra hải trình trước, đồng thời cũng có thể bảo vệ bánh lái và chân vịt, những bộ phận dễ tổn thương nhất của một con tàu trong băng. Lúc nửa đêm, khi tôi đang ngồi trong 'phòng quan sát', tôi nghe thấy một tiếng ồn náo nhiệt dưới boong, cùng tiếng chuông reo, và nhận ra đó là năm mới." Worsley bước xuống từ vị trí cao chót vót và gặp Wild, Hudson, và tôi trên cầu tàu, nơi chúng tôi bắt tay và chúc nhau một năm mới hạnh phúc và thành công. Kể từ khi tiến vào dải băng ngày 11 tháng 12, chúng tôi đã đi được 480 dặm, qua cả băng thưa và băng đóng dày đặc. Chúng tôi đã đẩy và chiến đấu cùng con tàu nhỏ bé, và nó đã vượt qua thử thách một cách tốt đẹp, mặc dù chân vịt đã chịu một vài cú va chạm mạnh với băng cứng và con tàu đã bị đẩy áp sát tảng băng cho đến khi nó gần như leo lên trên và trượt trở lại, lắc lư mạnh từ bên này sang bên kia. Việc lắc lư thường xuyên hơn là do hoạt động xuyên qua lớp băng non hơi dày, nơi vết nứt chạy theo đường uốn khúc. Con tàu, khi cố gắng đi theo vết nứt, đâm trước vào mạn này rồi đến mạn kia, khiến nó nghiêng sáu hoặc bảy độ. Sự tiến lên của chúng tôi xuyên qua dải băng theo hướng Nam 10° Đông, và tôi ước tính tổng quãng đường chạy hơi nước đã vượt quá 700 dặm. 100 dặm đầu tiên là băng thưa, nhưng trở ngại lớn nhất là ba cơn gió Tây Nam mạnh vừa phải, hai cơn kéo dài ba ngày mỗi cơn và một cơn kéo dài bốn ngày rưỡi. 250 dặm cuối cùng là băng đóng dày đặc xen kẽ với những rãnh nước dài và đẹp cùng những dải nước hở.
+"Từ chính ngọ, đặc điểm của dải băng đã cải thiện," Worsley viết vào ngày này. "Mặc
+dù các rãnh nước ngắn, các tảng băng đã mủn và dễ dàng bị phá vỡ nếu chọn được
+một vị trí tốt với sự cẩn thận và phán đoán. Trong nhiều trường hợp, chúng tôi tìm
+thấy những mảng băng non lớn mà tàu có thể cắt qua một hoặc hai dặm một mạch. Tôi
+đã điều khiển và vận hành tàu từ đài quan sát trên cột buồm và thấy đó là vị trí
+tốt nhất, vì từ đó người ta có thể nhìn về phía trước và vạch ra hải trình trước,
+đồng thời cũng có thể bảo vệ bánh lái và chân vịt, những bộ phận dễ tổn thương
+nhất của một con tàu trong băng. Lúc nửa đêm, khi tôi đang ngồi trong 'phòng quan sát', tôi
+nghe thấy một tiếng ồn náo nhiệt dưới boong, cùng tiếng chuông reo, và nhận ra đó là năm
+mới." Worsley bước xuống từ vị trí cao chót vót và gặp Wild, Hudson, và tôi trên cầu tàu,
+nơi chúng tôi bắt tay và chúc nhau một năm mới hạnh phúc và thành công. Kể từ khi tiến
+vào dải băng ngày 11 tháng 12, chúng tôi đã đi được 480 dặm, qua cả băng thưa và băng
+đóng dày đặc. Chúng tôi đã đẩy và chiến đấu cùng con tàu nhỏ bé, và nó đã vượt qua
+thử thách một cách tốt đẹp, mặc dù chân vịt đã chịu một vài cú va chạm mạnh với
+băng cứng và con tàu đã bị đẩy áp sát tảng băng cho đến khi nó gần như leo lên trên và
+trượt trở lại, lắc lư mạnh từ bên này sang bên kia. Việc lắc lư thường xuyên hơn là do
+hoạt động xuyên qua lớp băng non hơi dày, nơi vết nứt chạy theo đường uốn khúc. Con tàu,
+khi cố gắng đi theo vết nứt, đâm trước vào mạn này rồi đến mạn kia, khiến nó nghiêng
+sáu hoặc bảy độ. Sự tiến lên của chúng tôi xuyên qua dải băng theo hướng Nam 10° Đông,
+và tôi ước tính tổng quãng đường chạy hơi nước đã vượt quá 700 dặm. 100 dặm đầu
+tiên là băng thưa, nhưng trở ngại lớn nhất là ba cơn gió Tây Nam mạnh vừa phải, hai cơn
+kéo dài ba ngày mỗi cơn và một cơn kéo dài bốn ngày rưỡi. 250 dặm cuối cùng là băng đóng
+dày đặc xen kẽ với những rãnh nước dài và đẹp cùng những dải nước hở.
 
-Trong những tuần chúng tôi điều khiển tàu về phía nam xuyên qua những mê cung uốn lượn của dải băng, việc xé toạc những tảng băng bằng cách cho tàu đâm sầm vào chúng thường là cần thiết. Hình thức tấn công này hiệu quả với băng dày tới ba feet, và quy trình này đủ thú vị để mô tả ngắn gọn. Khi đường đi bị chặn bởi một tảng băng có độ dày vừa phải, chúng tôi sẽ cho tàu chạy với nửa tốc độ đâm vào nó, dừng động cơ ngay trước khi va chạm. Ở cú đâm đầu tiên, tàu *Endurance* sẽ cắt một rãnh hình chữ V vào mặt tảng băng, độ dốc của mũi tàu thường khiến mũi tàu nâng lên gần như khỏi mặt nước, sau đó tàu trượt lùi lại, lắc lư nhẹ. Theo dõi cẩn thận để những khối băng rời rạc không làm hỏng chân vịt, chúng tôi sẽ cho động cơ chạy lùi và lùi tàu ra 200 đến 300 yard. Sau đó, tàu sẽ được cho chạy hết tốc lực đâm vào chữ V, lưu ý đâm chính xác vào tâm. Thao tác này được lặp lại cho đến khi một rãnh ngắn được cắt ra, trong đó con tàu, đóng vai trò như một chiếc nêm lớn, được đẩy vào. Đến khoảng lần thử thứ tư, nếu thành công, tảng băng sẽ bị khuất phục. Một đường màu đen uốn khúc, như thể được vẽ bằng bút trên giấy trắng, sẽ xuất hiện phía trước, rộng dần khi mắt nhìn ngược lại về phía con tàu. Chẳng bao lâu sau, nó sẽ đủ rộng để chứa con tàu, và chúng tôi sẽ tiến lên. Dưới mũi tàu và dọc hai bên, những phiến băng lớn bị lật úp và trượt ngược lại trên tảng băng, hoặc bị đẩy xuống dưới băng hoặc dưới tàu. Bằng cách này, tàu *Endurance* có thể xé toạc một tảng băng dày 2 đến 3 feet rộng một dặm vuông. Thỉnh thoảng, tảng băng, mặc dù bị nứt ngang, lại bị các tảng băng khác giữ chặt đến mức từ chối mở rộng, và do đó dần dần khiến con tàu dừng lại. Khi đó chúng tôi sẽ lùi lại một khoảng và một lần nữa cho tàu chạy hết tốc lực đâm vào vết nứt, cho đến khi cuối cùng tảng băng khuất phục trước những cuộc tấn công dồn dập.
+Trong những tuần chúng tôi điều khiển tàu về phía nam xuyên qua những mê cung uốn lượn
+của dải băng, việc xé toạc những tảng băng bằng cách cho tàu đâm sầm vào chúng thường
+là cần thiết. Hình thức tấn công này hiệu quả với băng dày tới ba feet, và quy trình này
+đủ thú vị để mô tả ngắn gọn. Khi đường đi bị chặn bởi một tảng băng có độ
+dày vừa phải, chúng tôi sẽ cho tàu chạy với nửa tốc độ đâm vào nó, dừng động cơ
+ngay trước khi va chạm. Ở cú đâm đầu tiên, tàu *Endurance* sẽ cắt một rãnh hình chữ V
+vào mặt tảng băng, độ dốc của mũi tàu thường khiến mũi tàu nâng lên gần như khỏi
+mặt nước, sau đó tàu trượt lùi lại, lắc lư nhẹ. Theo dõi cẩn thận để những khối
+băng rời rạc không làm hỏng chân vịt, chúng tôi sẽ cho động cơ chạy lùi và lùi tàu ra
+200 đến 300 yard. Sau đó, tàu sẽ được cho chạy hết tốc lực đâm vào chữ V, lưu ý đâm
+chính xác vào tâm. Thao tác này được lặp lại cho đến khi một rãnh ngắn được cắt ra,
+trong đó con tàu, đóng vai trò như một chiếc nêm lớn, được đẩy vào. Đến khoảng lần
+thử thứ tư, nếu thành công, tảng băng sẽ bị khuất phục. Một đường màu đen uốn khúc,
+như thể được vẽ bằng bút trên giấy trắng, sẽ xuất hiện phía trước, rộng dần khi
+mắt nhìn ngược lại về phía con tàu. Chẳng bao lâu sau, nó sẽ đủ rộng để chứa con
+tàu, và chúng tôi sẽ tiến lên. Dưới mũi tàu và dọc hai bên, những phiến băng lớn bị
+lật úp và trượt ngược lại trên tảng băng, hoặc bị đẩy xuống dưới băng hoặc dưới
+tàu. Bằng cách này, tàu *Endurance* có thể xé toạc một tảng băng dày 2 đến 3 feet rộng một
+dặm vuông. Thỉnh thoảng, tảng băng, mặc dù bị nứt ngang, lại bị các tảng băng khác giữ
+chặt đến mức từ chối mở rộng, và do đó dần dần khiến con tàu dừng lại. Khi đó chúng
+tôi sẽ lùi lại một khoảng và một lần nữa cho tàu chạy hết tốc lực đâm vào vết nứt,
+cho đến khi cuối cùng tảng băng khuất phục trước những cuộc tấn công dồn dập.
 
 
-[`Trước - Lời nói đầu`](Preface-vn.md) | [`Mục lục`](INDEX.md) | [`Tiếp theo - Chương II`](Ch-II-vn.md)
+[`Trước - Lời nói đầu`](Preface-vn.md) | [`Mục lục`](INDEX.md) | [`Tiếp theo - Chương
+II`](Ch-II-vn.md)
