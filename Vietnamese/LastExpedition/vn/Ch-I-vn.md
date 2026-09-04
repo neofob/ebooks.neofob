@@ -114,9 +114,13 @@ chúng đang hăng hái đánh nhau thì mọi chuyện sẽ ổn thôi. Những
 và thói quen của các "đối tượng" chăm sóc hứa hẹn việc điều khiển hiệu quả và làm
 việc tốt về sau.
 
-[Hình: Người dẫn đầu]
+![Hình: Người dẫn đầu][2]
 
-[Hình: Nhóm biển Weddell]
+<p align="left">Người dẫn đầu - Sir Ernest Henry Shackleton</p>
+
+![Hình: Nhóm biển Weddell][3]
+
+<p align="left">Nhóm biển Weddell</p>
 
 Trong ngày 6 tháng 12, tàu *Endurance* tiến triển tốt trên hải trình hướng đông nam. Gió
 phương bắc đã mạnh dần trong đêm và mang theo những đợt sóng lớn đuổi theo sau. Thời
@@ -234,9 +238,13 @@ và bỏ mỡ thì chỉ vừa đủ cho một bữa ăn đầy đủ cho hai m�
 cùng một ít mẩu vụn cho bữa sáng và trà. Dạ dày của nó chỉ chứa những *động vật
 chân khớp* dài khoảng một inch, cùng loại với những con tìm thấy trong cá voi tại Grytviken.
 
-[Hình: Chim cánh cụt Hoàng đế con]
+![Hình: Chim cánh cụt Hoàng đế con][4]
 
-[Hình: Một tảng băng đóng khổng lồ]
+<p align="left">Chim cánh cụt Hoàng đế con</p>
+
+![Hình: Một tảng băng đóng khổng lồ][5]
+
+<p align="left">Một tảng băng đóng khổng lồ</p>
 
 Điều kiện trở nên khó khăn hơn vào ngày 14 tháng 12. Có một màn sương mờ và thỉnh thoảng
 tuyết rơi. Một vài tảng băng lớn nằm trong tầm mắt. Dải băng dày đặc hơn những ngày
@@ -362,9 +370,13 @@ cán sự cùng thủy thủ đoàn đã tận dụng lúc tạm nghỉ để t�
 tảng băng lớn xuất hiện vào lúc này. Vị trí lúc chính ngọ là vĩ độ 62° 42´ Nam, kinh
 độ 17° 54´ Tây, cho thấy chúng tôi đã trôi dạt khoảng sáu dặm theo hướng đông bắc.
 
-[Hình: Samson]
+![Hình: Samson][6]
 
-[Hình: Hoa băng]
+[`Hình: Samson`][6]
+
+![Hình: Hoa băng][7]
+
+[`Hình: Hoa băng`][7]
 
 Thứ Hai, ngày 21 tháng 12, thời tiết đẹp tuyệt vời, với gió tây tây bắc nhẹ. Chúng tôi
 khởi hành lúc 3 giờ sáng và tiến qua dải băng theo hướng tây nam. Lúc chính ngọ, chúng
@@ -513,3 +525,10 @@ cho đến khi cuối cùng tảng băng khuất phục trước những cuộc 
 
 [`Trước - Lời nói đầu`](Preface-vn.md) | [`Mục lục`](INDEX.md) | [`Tiếp theo - Chương
 II`](Ch-II-vn.md)
+
+[2]: ../en/images/002.jpg
+[3]: ../en/images/003.jpg
+[4]: ../en/images/004.jpg
+[5]: ../en/images/005.jpg
+[6]: ../en/images/006.jpg
+[7]: ../en/images/007.jpg
