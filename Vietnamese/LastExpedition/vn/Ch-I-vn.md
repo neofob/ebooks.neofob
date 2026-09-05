@@ -372,11 +372,11 @@ tảng băng lớn xuất hiện vào lúc này. Vị trí lúc chính ngọ là
 
 ![Hình: Samson][6]
 
-[`Hình: Samson`][6]
+<p align="left">Samson</p>
 
 ![Hình: Hoa băng][7]
 
-[`Hình: Hoa băng`][7]
+<p align="left">Hoa băng</p>
 
 Thứ Hai, ngày 21 tháng 12, thời tiết đẹp tuyệt vời, với gió tây tây bắc nhẹ. Chúng tôi
 khởi hành lúc 3 giờ sáng và tiến qua dải băng theo hướng tây nam. Lúc chính ngọ, chúng
