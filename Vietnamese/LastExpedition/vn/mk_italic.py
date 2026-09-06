@@ -2,7 +2,7 @@
 import re
 import sys
 
-QUOTED = re.compile(r'(?<![*_])"[^"\n]*"(?![*_])')
+QUOTED = re.compile(r'(?<![*_])["“][^“”"\n]*["”](?![*_])')
 
 
 def main():
