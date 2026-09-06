@@ -82,7 +82,7 @@ Chúng tôi đã hy vọng rằng một con tàu hơi nước nào đó từ ph�
 về chiến tranh và có lẽ là những lá thư từ quê nhà trước khi chúng tôi khởi hành. Một
 con tàu đã cập bến vào tối ngày 4, nhưng nó không mang theo lá thư nào, và không thể thu thập
 được thông tin hữu ích nào từ đó. Thuyền trưởng và thủy thủ đoàn đều rất thân Đức,
-và những "tin tức" họ đưa ra dưới hình thức không thỏa đáng là những báo cáo về các
+và những _"tin tức"_ họ đưa ra dưới hình thức không thỏa đáng là những báo cáo về các
 thất bại của Anh và Pháp. Chúng tôi sẽ rất vui nếu có được những tin tức mới nhất
 từ một nguồn thân thiện hơn. Một năm rưỡi sau, chúng tôi mới biết rằng tàu *Harpoon*,
 con tàu hơi nước phục vụ trạm Grytviken, đã cập bến với thư cho chúng tôi không quá hai
@@ -95,7 +95,7 @@ vừa căng buồm về phía đông nam. Hải trình được vạch ra để 
 hòn đảo và sau đó đi về phía nam của Nam Thule, quần đảo Nam Sandwich. Gió mạnh dần trong
 ngày, và tất cả buồm vuông đều được căng, với buồm mũi được thu nhỏ để người canh
 gác có tầm nhìn rõ ràng phía trước; vì chúng tôi không muốn mạo hiểm va chạm với một
-"growler", một trong những tảng băng trôi nhỏ nguy hiểm nổi lềnh bềnh với bề mặt xấp xỉ
+_"growler"_, một trong những tảng băng trôi nhỏ nguy hiểm nổi lềnh bềnh với bề mặt xấp xỉ
 mặt nước. Con tàu rất ổn định trong vùng biển theo mùa, nhưng chắc chắn trông không gọn
 gàng và chỉn chu như lúc rời bờ biển Anh bốn tháng trước. Chúng tôi đã nạp đầy than
 tại Grytviken, và lượng nhiên liệu bổ sung này được lưu trữ trên boong, nơi nó gây cản
@@ -111,7 +111,7 @@ thấy Đội Thám hiểm đã có sức kéo đúng mức. Chúng là những 
 được chọn vì khả năng chịu đựng và sức mạnh, và nếu chúng hăng hái kéo xe như cách
 chúng đang hăng hái đánh nhau thì mọi chuyện sẽ ổn thôi. Những người phụ trách lũ chó
 đang làm việc đầy nhiệt huyết, và sự hăng hái của họ trong việc nghiên cứu bản tính
-và thói quen của các "đối tượng" chăm sóc hứa hẹn việc điều khiển hiệu quả và làm
+và thói quen của các _"đối tượng"_ chăm sóc hứa hẹn việc điều khiển hiệu quả và làm
 việc tốt về sau.
 
 ![Hình: Người dẫn đầu][2]
@@ -199,7 +199,7 @@ và không gây ra nhiều khó khăn. Buồm mũi được căng để tận d�
 tàu thỉnh thoảng va chạm với băng và chịu một vài cú va chạm mạnh. Một hoặc hai lần
 tàu bị dừng khựng lại trước những mảng băng cứng, nhưng không có thiệt hại nào xảy
 ra. Mối quan tâm chính là bảo vệ chân vịt và bánh lái. Nếu một vụ va chạm có vẻ không
-thể tránh khỏi, sĩ quan phụ trách sẽ ra lệnh "chậm" hoặc "nửa tốc độ" cho động cơ,
+thể tránh khỏi, sĩ quan phụ trách sẽ ra lệnh _"chậm"_ hoặc _"nửa tốc độ"_ cho động cơ,
 và bẻ lái để cú va chạm vào tảng băng chỉ là một cú sượt qua. Sau đó, bánh lái sẽ
 được bẻ về phía băng với mục đích đẩy chân vịt ra khỏi đó, và con tàu lại tiến
 lên. Worsley, Wild, và tôi, cùng với ba sĩ quan, chia làm ba ca trực trong khi chúng tôi xuyên qua
@@ -224,7 +224,7 @@ với những tảng băng thường xuyên nằm sát hai bên mạn tàu. Chim
 chúng tôi. Những con chim cánh cụt nhỏ bé kỳ lạ thấy con tàu là nguồn gây ra sự phấn
 khích rõ rệt và mang lại nhiều niềm vui cho mọi người trên tàu. Một trong những trò đùa
 quen thuộc là tất cả chim cánh cụt Adelie trên tảng băng dường như đều quen biết Clark,
-và khi anh ấy ở bánh lái, chúng lao tới nhanh nhất có thể, kêu lên "Clark! Clark!" và tỏ vẻ
+và khi anh ấy ở bánh lái, chúng lao tới nhanh nhất có thể, kêu lên _"Clark! Clark!"_ và tỏ vẻ
 rất phẫn nộ và bối rối vì anh không bao giờ chờ chúng hay thậm chí là trả lời chúng.
 
 Chúng tôi tìm thấy vài rãnh nước tốt hướng về phía nam vào buổi tối, và tiếp tục tiến
@@ -273,8 +273,8 @@ phía nam xuyên qua dải băng trong vòng hai mươi bốn giờ. Vị trí l
 Nam, kinh độ 18° 12´ Tây. Cơn gió dịu đi lúc 8 giờ tối, và chúng tôi đi được năm dặm
 về phía nam trước nửa đêm rồi dừng lại ở cuối một rãnh nước dài, chờ cho đến khi
 thời tiết quang hơn. Chính trong đợt chạy ngắn này, thuyền trưởng, với tín hiệu bẻ lái
-hết sang trái, đã hét lên với nhà khoa học ở bánh lái: "Vì lòng Chúa thương, sao anh không
-bẻ lái sang trái đi!" Câu trả lời vang lên với giọng phẫn nộ: "Tôi đang xì mũi."
+hết sang trái, đã hét lên với nhà khoa học ở bánh lái: _"Vì lòng Chúa thương, sao anh không
+bẻ lái sang trái đi!"_ Câu trả lời vang lên với giọng phẫn nộ: _"Tôi đang xì mũi."_
 
 Tàu *Endurance* đạt được một số tiến triển vào ngày hôm sau. Những rãnh nước hở dài
 chạy về hướng tây nam, và con tàu đâm hết tốc lực qua những vùng băng non thỉnh thoảng
@@ -291,8 +291,8 @@ vài tảng băng cũ dày đặc. Nhiều tảng băng lớn nằm trong tầm 
 vòng vèo. Con tàu bị chặn lại tại một điểm bởi một mảnh băng hình nêm, nhưng chúng tôi
 thả neo băng xuyên qua nó, kéo nó ra phía sau và tiến qua khe hở. Lái tàu trong điều kiện này
 đòi hỏi cả sức mạnh lẫn tinh thần. Có tiếng loảng xoảng ở phía đuôi vào buổi chiều,
-và Hussey, người đang ở bánh lái, giải thích rằng "Bánh lái xoay vòng và hất tôi bay qua
-nó!" Vị trí lúc chính ngọ là vĩ độ 62° 13´ Nam, kinh độ 18° 53´ Tây, và quãng đường
+và Hussey, người đang ở bánh lái, giải thích rằng _"Bánh lái xoay vòng và hất tôi bay qua
+nó!"_ Vị trí lúc chính ngọ là vĩ độ 62° 13´ Nam, kinh độ 18° 53´ Tây, và quãng đường
 đi được trong hai mươi bốn giờ trước đó là 32 dặm theo hướng tây nam. Chúng tôi thấy
 ba con cá voi xanh trong ngày và một con chim cánh cụt Hoàng đế, một con chim nặng 58 bảng,
 được đưa vào kho lương thực.
@@ -309,13 +309,13 @@ băng khá dày với đặc tính rất ngoan cố. Băng đóng có thể đư
 chơi ghép hình khổng lồ và vô tận do thiên nhiên thiết kế. Các mảnh của trò chơi trong
 dải băng thưa trôi hơi xa nhau và trở nên xáo trộn; ở nhiều nơi chúng lại ép sát vào nhau;
 khi dải băng khép lại, những vùng tắc nghẽn ngày càng lớn và các mảnh bị chèn chặt hơn
-cho đến khi cuối cùng trở thành "băng đóng dày đặc", khi mà toàn bộ trò chơi ghép hình
+cho đến khi cuối cùng trở thành _"băng đóng dày đặc"_, khi mà toàn bộ trò chơi ghép hình
 bị chèn chặt đến mức với sự cẩn thận và nỗ lực, người ta có thể đi bộ theo mọi
 hướng. Nơi các mảnh không khít nhau, dĩ nhiên là có nước hở, vốn sẽ đóng băng trong vài
-giờ sau khi tỏa ra những luồng "khói băng". Theo áp lực mới, lớp băng non này "xếp chồng",
+giờ sau khi tỏa ra những luồng _"khói băng"_. Theo áp lực mới, lớp băng non này _"xếp chồng"_,
 tạo thành độ dày gấp đôi với độ dẻo như kẹo mạch nha. Một lần nữa, các cạnh đối
 lập của những tảng băng lớn dựng đứng lên trong một cuộc xung đột chậm chạp và gần
-như im lặng, cho đến khi những "hàng rào băng" cao được hình thành quanh mỗi mảnh ghép. Tại
+như im lặng, cho đến khi những _"hàng rào băng"_ cao được hình thành quanh mỗi mảnh ghép. Tại
 nơi giao nhau của nhiều tảng băng, những vùng hỗn loạn của các khối băng và mảng băng
 xếp chồng được hình thành. Đôi khi những chồng khối băng hình vuông vức cao 5 đến 6
 feet được xếp gọn gàng đến mức dường như không thể là tác phẩm của Thiên nhiên. Một
@@ -349,7 +349,7 @@ Trong khi chờ thời tiết dịu đi và băng mở ra, tôi đã lắp máy 
 trục bánh lái và thấy độ sâu là 2810 sải. Mẫu đáy biển bị mất do dây bị đứt cách
 cuối dây 60 sải. Trong buổi chiều, ba con chim cánh cụt Adelie tiếp cận tàu băng qua tảng
 băng trong khi Hussey gảy những giai điệu ngọt ngào trên cây đàn banjo. Những con chim nhỏ với
-vẻ mặt nghiêm trang dường như đánh giá cao bài "Đường đến Tipperary thật xa", nhưng chúng
+vẻ mặt nghiêm trang dường như đánh giá cao bài _"Đường đến Tipperary thật xa"_, nhưng chúng
 chạy trốn trong kinh hãi khi Hussey chiêu đãi chúng một chút âm nhạc đến từ Scotland. Những
 tiếng cười lớn từ con tàu càng làm chúng hoảng sợ, và chúng chạy đi nhanh nhất có thể
 với những đôi chân ngắn tũn. Dải băng mở ra một chút lúc 6 giờ 15 phút tối, và chúng
@@ -432,15 +432,15 @@ rượu Grog một lần nữa vào bữa sáng, dành cho những ai còn trong
 trong chúng tôi có quà từ quê nhà để mở. Sau đó là một bữa tối thực sự lộng lẫy,
 bao gồm súp rùa, cá trắng, thịt thỏ hầm, bánh pudding Giáng sinh, bánh mince-pie, chà là, sung
 và trái cây ngâm đường, cùng rượu rum và bia stout. Vào buổi tối, mọi người cùng tham gia
-một "buổi hát hò". Hussey đã chế một chiếc vĩ cầm một dây, mà theo lời Worsley, anh "diễn
-tấu một cách không gây đau đớn chút nào". Gió mạnh dần thành một cơn gió đông nam mạnh
+một _"buổi hát hò"_. Hussey đã chế một chiếc vĩ cầm một dây, mà theo lời Worsley, anh _"diễn
+tấu một cách không gây đau đớn chút nào"_. Gió mạnh dần thành một cơn gió đông nam mạnh
 vừa phải và không thể tiến thêm, vì vậy chúng tôi có thể an tâm tận hưởng những niềm
 vui của buổi tối.
 
 Thời tiết vẫn xấu vào ngày 26 và 27 tháng 12, và tàu *Endurance* tiếp tục neo vào một
 tảng băng. Vị trí lúc chính ngọ ngày 26 là vĩ độ 65° 43´ Nam, kinh độ 17° 36´ Tây. Chúng
 tôi thực hiện một phép đo độ sâu khác vào ngày này bằng máy Lucas và thấy đáy ở 2819
-sải. Mẫu thu được là bùn xanh lục địa (trầm tích băng hà) với một số *phù du*. Mọi
+sải. Mẫu thu được là bùn xanh lục địa (trầm tích băng hà) với một số *trùng tia*. Mọi
 người thay phiên nhau làm việc kéo dây, hai người làm cùng nhau trong những đợt mười phút.
 
 Chủ Nhật, ngày 27 tháng 12, là một ngày yên tĩnh trên tàu. Cơn gió nam thổi tuyết thành
@@ -475,7 +475,7 @@ feet và dày 4 feet bị đẩy cao mười hoặc mười hai feet lên tảng
 với của nó. Vị trí lúc chính ngọ là vĩ độ 66° 47´ Nam, kinh độ 15° 52´ Tây, và quãng
 đường đi được trong hai mươi bốn giờ trước đó là 51 dặm hướng Nam 29° Đông.
 
-"Từ chính ngọ, đặc điểm của dải băng đã cải thiện," Worsley viết vào ngày này. "Mặc
+_"Từ chính ngọ, đặc điểm của dải băng đã cải thiện,"_ Worsley viết vào ngày này. _"Mặc
 dù các rãnh nước ngắn, các tảng băng đã mủn và dễ dàng bị phá vỡ nếu chọn được
 một vị trí tốt với sự cẩn thận và phán đoán. Trong nhiều trường hợp, chúng tôi tìm
 thấy những mảng băng non lớn mà tàu có thể cắt qua một hoặc hai dặm một mạch. Tôi
@@ -484,7 +484,7 @@ tốt nhất, vì từ đó người ta có thể nhìn về phía trước và 
 đồng thời cũng có thể bảo vệ bánh lái và chân vịt, những bộ phận dễ tổn thương
 nhất của một con tàu trong băng. Lúc nửa đêm, khi tôi đang ngồi trong 'phòng quan sát', tôi
 nghe thấy một tiếng ồn náo nhiệt dưới boong, cùng tiếng chuông reo, và nhận ra đó là năm
-mới." Worsley bước xuống từ vị trí cao chót vót và gặp Wild, Hudson, và tôi trên cầu tàu,
+mới."_ Worsley bước xuống từ vị trí cao chót vót và gặp Wild, Hudson, và tôi trên cầu tàu,
 nơi chúng tôi bắt tay và chúc nhau một năm mới hạnh phúc và thành công. Kể từ khi tiến
 vào dải băng ngày 11 tháng 12, chúng tôi đã đi được 480 dặm, qua cả băng thưa và băng
 đóng dày đặc. Chúng tôi đã đẩy và chiến đấu cùng con tàu nhỏ bé, và nó đã vượt qua
