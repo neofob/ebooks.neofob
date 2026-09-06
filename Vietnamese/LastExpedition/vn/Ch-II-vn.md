@@ -274,7 +274,7 @@ cùng trôi đi hỗn loạn. Chúng tôi trú ẩn dưới sự che chắn củ
 Một trận bão tuyết từ hướng đông đông bắc đã ngăn chúng tôi rời khỏi nơi trú ẩn
 của tảng băng vào ngày hôm sau (Chủ Nhật, 17 tháng 1). Thời tiết trong xanh, nhưng cơn gió
 mạnh đẩy những đám mây tuyết dày đặc khỏi đất liền và che khuất đường bờ biển
-hầu hết thời gian. "Vùng đất, khi nhìn thấy vào lúc không khí trong lành, có vẻ cao hơn
+hầu hết thời gian. _"Vùng đất, khi nhìn thấy vào lúc không khí trong lành, có vẻ cao hơn
 chúng tôi nghĩ ngày hôm qua; có lẽ nó cao tới 3000 feet trên đỉnh sông băng. Bờ biển Caird,
 như tôi đã đặt tên, kết nối vùng Coats’ Land, được Bruce phát hiện năm 1904, với vùng
 Luitpold Land, được Filchner phát hiện năm 1912. Phần phía bắc có đặc điểm tương tự vùng
@@ -295,7 +295,7 @@ hàng ngàn khe nứt. Suốt chiều dài bờ biển, chúng tôi không thấ
 nào. Thậm chí không một nunatak đơn độc xuất hiện để làm giảm đi bề mặt của băng và
 tuyết. Nhưng sự vươn lên của những sườn băng hướng tới đường chân trời cùng những
 gờ, bậc thang và khe nứt xuất hiện khi băng tiến gần đến biển đã kể về những ngọn
-đồi và thung lũng nằm bên dưới."
+đồi và thung lũng nằm bên dưới."_
 
 ![Hình: Sát dưới Rào chắn][10]
 <p align="left">Sát dưới Rào chắn</p>
@@ -312,7 +312,7 @@ băng cho đến 9 giờ 30 phút sáng, khi nó kết thúc bằng hai vịnh, 
 được che chắn bởi các tảng băng mắc cạn ở phía tây. Bờ biển phía sau chạy theo hướng
 nam tây nam với sườn đất thoai thoải.
 
-"Dải băng giờ đây buộc chúng tôi phải đi về phía tây 14 dặm, khi chúng tôi xuyên qua một
+_"Dải băng giờ đây buộc chúng tôi phải đi về phía tây 14 dặm, khi chúng tôi xuyên qua một
 đường dài các mảnh băng vụn dày trộn lẫn với những khối lớn và các 'growler'. Chúng
 tôi làm điều này chỉ với buồm mũi, động cơ bị dừng để bảo vệ chân vịt. Điều
 này đưa chúng tôi vào vùng nước hở, nơi chúng tôi đi hướng Nam 50° Tây trong 24 dặm. Sau
@@ -322,7 +322,7 @@ băng cho thấy sự thay đổi. Các tảng băng rất dày và bị phủ b
 giữa các tảng băng quá dày và nặng đến nỗi chúng tôi không thể xuyên qua nếu không tiêu
 tốn một lượng năng lượng lớn, và khi đó cũng chỉ đi được một đoạn ngắn. Vì vậy,
 chúng tôi dừng tàu chờ một lát để xem liệu dải băng có mở ra chút nào khi cơn gió đông
-bắc này ngừng thổi hay không."
+bắc này ngừng thổi hay không."_
 
 Vị trí của chúng tôi vào sáng ngày 19 là vĩ độ 76° 34´ Nam, kinh độ 31° 30´ Tây. Thời
 tiết tốt, nhưng không thể tiến thêm. Băng đã khép lại quanh con tàu trong đêm, và không
@@ -356,12 +356,12 @@ rào chắn chắc chắn phải cách bảy mươi dặm, và có thể thậm 
 
 Chủ Nhật, ngày 24 tháng 1, là một ngày nắng ráo, với gió đông và nam nhẹ. Không nhìn thấy
 nước hở từ đỉnh cột buồm, nhưng có một vùng bầu trời phản chiếu nước nhẹ về
-phía tây và tây bắc. "Đây là lần đầu tiên trong mười ngày gió thay đổi khỏi hướng
+phía tây và tây bắc. _"Đây là lần đầu tiên trong mười ngày gió thay đổi khỏi hướng
 đông bắc và đông, và trong năm ngày này gió đã tăng lên thành bão. Rõ ràng băng đã bị
 nén chặt ở khu vực này, và chúng tôi phải kiên nhẫn chờ cho đến khi có một cơn gió nam
 hoặc các dòng hải lưu mở băng. Chúng tôi đang trôi chậm. Vị trí hôm nay là 76° 49´ Nam,
 33° 51´ Tây. Worsley và James, làm việc trên tảng băng với một từ kế Kew, tìm thấy độ
-lệch là sáu độ tây." Ngay trước nửa đêm, một vết nứt phát triển trong băng rộng năm
+lệch là sáu độ tây."_ Ngay trước nửa đêm, một vết nứt phát triển trong băng rộng năm
 yard và dài một dặm, cách mũi tàu năm mươi yard. Vết nứt đã mở rộng thành một phần tư
 dặm vào lúc 10 giờ sáng ngày 25, và trong ba giờ chúng tôi đã cố gắng đẩy con tàu vào kẽ
 hở này với động cơ chạy hết tốc lực về phía trước và căng tất cả các buồm. Hiệu
@@ -432,7 +432,7 @@ băng non trong hồ, nhưng dải băng thách thức chúng tôi. Nỗ lực �
 một ngày đẹp trời với bầu trời xanh. Nhiệt độ vẫn thấp, –2° Fahr. vào nửa đêm. Sau
 khi phá vỡ một số băng non, tàu *Endurance* bị kẹt vào tảng băng mềm. Động cơ chạy hết
 tốc lực về phía sau không tạo ra hiệu quả cho đến khi tất cả mọi người cùng tham gia
-"lắc" tàu. Những chuồng chó ở giữa tàu khiến mọi người phải tập trung ở phía đuôi,
+_"lắc"_ tàu. Những chuồng chó ở giữa tàu khiến mọi người phải tập trung ở phía đuôi,
 nơi họ xô đẩy từ bên này sang bên kia thành một khối trong không gian hạn chế quanh bánh
 lái. Đây là một cảnh tượng nực cười, những người đàn ông ngã nhào lên nhau giữa
 những tiếng cười lớn mà không tạo ra nhiều hiệu quả lên con tàu. Tàu vẫn đứng yên,
@@ -444,14 +444,14 @@ tời ra tảng băng để chạy thử. Động cơ hoạt động rất thàn
 khoảng sáu dặm một giờ trên những phiến băng và gờ băng bị che khuất bởi một hoặc hai
 feet tuyết mềm. Bề mặt còn tệ hơn những gì chúng tôi mong đợi sẽ đối mặt trên đất
 liền hoặc băng rào chắn. Chiếc xe motor tự kéo mình trở lại bằng một sợi dây cáp thép
-500 sải và được đưa lên tàu. "Từ đỉnh cột buồm, ảo ảnh liên tục đưa ra những báo
+500 sải và được đưa lên tàu. _"Từ đỉnh cột buồm, ảo ảnh liên tục đưa ra những báo
 động giả cho chúng tôi. Mọi thứ mang một vẻ không thực. Những tảng băng treo ngược trên
 bầu trời; đất liền xuất hiện như những lớp mây bạc hoặc vàng kim. Những dải mây trông
 giống như đất liền, những tảng băng giả dạng đảo hoặc nunatak, và rào chắn xa xôi ở
 phía nam hiện ra trong tầm mắt, mặc dù thực sự nó nằm ngoài phạm vi tầm nhìn của chúng
 tôi. Tệ nhất là vẻ ngoài đánh lừa của vùng nước hở, gây ra bởi sự khúc xạ của vùng
 nước ở xa, hoặc do mặt trời chiếu xiên trên một cánh đồng tuyết mịn hoặc mặt vách
-băng dưới đường chân trời."
+băng dưới đường chân trời."_
 
 Nửa cuối tháng Hai không tạo ra thay đổi quan trọng nào trong tình cảnh của chúng tôi. Sáng sớm
 ngày 14, tôi ra lệnh cho động cơ chạy hơi nước mạnh và cử tất cả mọi người lên tảng
@@ -503,7 +503,7 @@ băng đang cứng lại. Hải cẩu dần biến mất và chim chóc rời b�
 hiện ra trong thời tiết đẹp ở đường chân trời xa xôi, nhưng giờ đây nó nằm ngoài tầm
 với của chúng tôi, và những hối tiếc về những bến cảng nằm lại phía sau là vô ích.
 
-"Chúng tôi phải chờ mùa xuân, điều có thể mang lại cho chúng tôi vận may tốt hơn. Nếu
+_"Chúng tôi phải chờ mùa xuân, điều có thể mang lại cho chúng tôi vận may tốt hơn. Nếu
 tôi đoán trước một tháng rằng băng sẽ kìm giữ chúng tôi ở đây, tôi đã thiết lập căn
 cứ của chúng tôi tại một trong những nơi đổ bộ ở sông băng lớn. Nhưng lúc đó không
 có lý do gì để dự báo rằng số phận sẽ nghiệt ngã như vậy. Thời tiết lặng gió với
@@ -511,7 +511,7 @@ cái lạnh thấu xương trong một tháng mùa hè chắc chắn là ngoại
 là sự trôi dạt. Những luồng gió và hải lưu lang thang sẽ đưa con tàu đi đâu trong những
 tháng mùa đông dài phía trước? Chúng tôi sẽ đi về phía tây, không nghi ngờ gì, nhưng đi
 bao xa? Và liệu có thể thoát khỏi dải băng vào đầu mùa xuân và chạm tới vịnh Vahsel hoặc
-một nơi đổ bộ phù hợp nào khác? Đây là những câu hỏi trọng đại đối với chúng tôi."
+một nơi đổ bộ phù hợp nào khác? Đây là những câu hỏi trọng đại đối với chúng tôi."_
 
 Vào ngày 24 tháng 2, chúng tôi ngừng tuân theo nề nếp sinh hoạt của tàu, và tàu *Endurance*
 trở thành một trạm trú đông. Mọi người đều làm việc trong ngày và ngủ vào ban đêm,
@@ -539,7 +539,7 @@ gia vào nhiều trận đấu căng thẳng.
 <p align="left">Mặt trời đang lặn: Tàu <i>Endurance</i> bị đóng băng chặt</p>
 
 Worsley dẫn một nhóm ra tảng băng vào ngày 26 và bắt đầu xây một dãy nhà băng igloo và
-"nhà chó" dogloo xung quanh tàu. Những công trình nhỏ này được xây theo kiểu người Eskimo,
+_"nhà chó"_ dogloo xung quanh tàu. Những công trình nhỏ này được xây theo kiểu người Eskimo,
 bằng những khối băng lớn, với những tấm mỏng làm mái. Ván gỗ hoặc da hải cẩu đông
 lạnh được đặt lên trên tất cả, tuyết được đắp lên trên và nén vào các mối nối,
 sau đó nước được dội lên các cấu trúc để làm mọi thứ vững chắc. Băng được nén
