@@ -72,7 +72,7 @@ khoảng 17 dặm. Hurley chụp một số bức ảnh và Wordie trở về tr
 bụi và một ít rêu.
 
 _“Trong bán kính một dặm quanh núi băng là lớp băng non mỏng, đủ chắc để đi bộ qua một
-cách cẩn thận,” Worsley viết. _“Vùng áp lực nguy hiểm, đối với một con tàu, dường như
+cách cẩn thận,”_ Worsley viết. _“Vùng áp lực nguy hiểm, đối với một con tàu, dường như
 không kéo dài quá một phần tư dặm tính từ núi băng. Ở đây có những vết nứt và sự
 chuyển động nhẹ liên tục, điều này trở nên gây phấn khích cho người lữ hành khi anh ta
 cảm thấy một miếng băng dần dần lật ngược dưới chân mình. Gần núi băng, áp lực tạo
