@@ -128,6 +128,7 @@ nghĩ về khả năng chết ngay lập tức. Thật vậy, một lúc sau tô
 lo lắng về việc làm khô một đôi tất vốn dĩ không được sạch cho lắm đang được treo
 gần chỗ sữa buổi tối của chúng tôi. Việc có việc để làm đã kéo suy nghĩ của anh ta
 trở lại với những lo toan thường nhật của cuộc sống.
+
 Thời tiết xấu tạm lắng vào ngày 21 tháng Tư, và người thợ mộc bắt đầu thu thập
 vật liệu để làm boong cho chiếc _James Caird_. Anh ta lắp cột buồm của chiếc _Stancomb Wills_
 chạy dọc từ mũi đến đuôi bên trong chiếc _James Caird_ làm xà dọc (hog-back), nhờ đó gia
@@ -161,10 +162,12 @@ khá tốt, nhưng tuyết từ băng nội địa không ngừng đổ xuống,
 đã phải từ bỏ dự án này.
 
 
-[Hình: Hạ thủy chiếc _James Caird_]
+![Hình: Hạ thủy chiếc _James Caird_][054]
+<p align="left">Hạ thủy chiếc <i>James Caird</i></p>
 
 
-[Hình: Chiếc _Stancomb Wills_]
+![Hình: Chiếc _Stancomb Wills_][055]
+<p align="left">Chiếc <i>Stancomb Wills</i></p>
 
 
 Thời tiết đẹp vào ngày 23 tháng Tư, và chúng tôi khẩn trương đẩy nhanh công tác chuẩn
@@ -197,6 +200,7 @@ ra, chúng tôi đã thu thập một số tảng đá cuội tròn và khoảng
 cho hai thùng nước của chúng tôi.Lương thực và thiết bị mang theo trên chiếc _James Caird_,
 đủ cho sáu người trong một tháng, cụ thể như sau:
 
+```
 30 hộp diêm.
 6,5 gallon dầu paraffin.
 1 hộp cồn công nghiệp.
@@ -207,9 +211,10 @@ cho hai thùng nước của chúng tôi.Lương thực và thiết bị mang th
 6 túi ngủ.
 Một vài đôi tất dự phòng.
 Một vài cây nến và một ít dầu mỡ hải cẩu trong túi đựng dầu.
-
+```
 
 _Thực phẩm_:
+```
 3 hòm khẩu phần kéo xe trượt tuyết = 300 khẩu phần.
 2 hòm thực phẩm hạt = 200 khẩu phần.
 2 hòm bánh quy = 600 chiếc bánh quy.
@@ -219,16 +224,17 @@ _Thực phẩm_:
 1 hộp muối Cerebos.
 36 gallon nước.
 250 lbs băng.
-
+```
 
 _Thiết bị_:
+```
 Kính lục phân.
 Neo biển.
 Ống nhòm.
 Hải đồ.
 La bàn lăng kính.
 Áp kế aneroid.
-
+```
 
 Sóng lừng khá nhẹ khi chiếc _Stancomb Wills_ được hạ thủy và con thuyền bắt đầu di chuyển
 mà không gặp khó khăn gì; nhưng nửa giờ sau, khi chúng tôi đang kéo chiếc _James Caird_ xuống,
@@ -563,6 +569,7 @@ những ngày đó là hình ảnh Crean hát khi đang cầm bánh lái. Anh �
 và không ai biết đó là bài hát gì. Nó không có giai điệu và đơn điệu như tiếng tụng kinh
 của một nhà sư Phật giáo; nhưng bằng cách nào đó, nó lại mang vẻ vui tươi. Trong những
 lúc ngẫu hứng, Crean sẽ cố hát bài _“The Wearing of the Green.”_
+
 Đêm thứ mười, Worsley không thể duỗi thẳng người sau ca trực ở tay lái. Anh bị chuột rút
 toàn thân, và chúng tôi phải kéo anh xuống dưới sàn tàu, xoa bóp cho đến khi anh có thể duỗi
 người ra và chui vào túi ngủ. Một cơn gió Tây Bắc mạnh ập đến vào ngày thứ mười một
@@ -639,10 +646,12 @@ Elephant. Đó là một khoảnh khắc hạnh phúc. Dù đang bị hành hạ
 và yếu ớt, niềm hạnh phúc vẫn tỏa rạng trong chúng tôi. Công việc gần như đã hoàn thành.
 
 
-[Hình: Trong tầm nhìn tới mục tiêu: Tiến gần Nam Georgia]
+![Hình: Trong tầm nhìn tới mục tiêu: Tiến gần Nam Georgia][056]
+<p align="left">Trong tầm nhìn tới mục tiêu: Tiến gần Nam Georgia</p>
 
 
-[Hình: Đặt chân lên Nam Georgia]
+![Hình: Đặt chân lên Nam Georgia][057]
+<p align="left">Đặt chân lên Nam Georgia</p>
 
 
 Chúng tôi tiến về phía bờ để tìm nơi cập bến, và chẳng mấy chốc, chúng tôi có thể nhìn
@@ -734,6 +743,7 @@ trào ngay sát bờ. Chúng tôi nghe thấy tiếng róc rách như một bả
 và khi nhìn xung quanh, chúng tôi tìm thấy một dòng nước ngọt ngay dưới chân. Một lát sau,
 chúng tôi quỳ xuống uống những ngụm nước tinh khiết, lạnh buốt, đem lại sức sống mới
 cho chúng tôi. Đó là một khoảnh khắc tuyệt vời.
+
 Việc tiếp theo là lấy đồ tiếp tế và đá dằn ra khỏi thuyền để cố định thuyền cho
 đêm nay. Chúng tôi chuyển đồ tiếp tế và trang bị lên trên mức nước triều cao, rồi vứt
 bỏ những bao cát và những tảng đá mà chúng tôi đã quá quen thuộc. Sau đó, chúng tôi cố
@@ -770,9 +780,11 @@ bằng đường biển. Các vách đá và sông băng xung quanh không có l
 về phía đầu vịnh. Tôi sắp xếp các ca trực mỗi giờ cho thời gian còn lại của đêm, rồi
 thay chỗ Crean nằm cùng những người đang ngủ và chợp mắt một lúc trước khi bình minh đến.
 
-[Hình: [Vũng Hang ở Nam Georgia]]
+![Hình: Vũng Hang ở Nam Georgia][058]
+<p align="left">Vũng Hang ở Nam Georgia</p>
 
-[Hình: [Vùng xung quanh vịnh King Haakon]]
+![Hình: Vùng xung quanh vịnh King Haakon][059]
+<p align="left">Vùng xung quanh vịnh King Haakon</p>
 
 Biển lặng dần vào những giờ đầu buổi sáng (ngày 11 tháng 5), và sau khi mặt trời mọc,
 chúng tôi bắt tay vào việc đưa thuyền lên bờ, trước hết là nạp năng lượng cho nhiệm
@@ -839,7 +851,8 @@ chúng tôi sấy thuốc lá trong tàn lửa và hút một cách mãn nguyệ
 khô quần áo vốn đã sũng nước muối, nhưng không thành công lắm. Chúng tôi không thể cho phép
 nhóm lửa ngoại trừ mục đích nấu ăn cho đến khi tìm thấy mỡ động vật hoặc củi trôi dạt.
 
-[Hình: [Sơ đồ chỗ ngủ trong hang]]
+![Hình: Sơ đồ chỗ ngủ trong hang][060]
+<p align="left">Sơ đồ chỗ ngủ trong hang</p>
 
 Giai đoạn cuối cùng của hành trình vẫn còn phải thực hiện. Tôi nhận ra rằng tình trạng
 chung của cả nhóm, đặc biệt là McNeish và Vincent, sẽ khiến chúng tôi không thể ra khơi một
@@ -998,10 +1011,12 @@ hăng hái. Một con hải tượng cung cấp cho chúng tôi nhiên liệu v�
 cả nhóm no nê và khá hài lòng được nghỉ ngơi tại Trại Peggotty.
 
 
-[Hình: Hải tượng ở Nam Georgia]
+![Hình: Hải tượng ở Nam Georgia][061]
+<p align="left">Hải tượng ở Nam Georgia</p>
 
 
-[Hình: Những vách đá chúng tôi đã leo xuống khi băng qua hòn đảo]
+![Hình: Những vách đá chúng tôi đã leo xuống khi băng qua hòn đảo][062]
+<p align="left">Những vách đá chúng tôi đã leo xuống khi băng qua hòn đảo</p>
 
 
 Như tôi đã nói, trại của chúng tôi nằm ở phía bắc vịnh King Haakon, gần phía cuối vịnh. Con
@@ -1156,3 +1171,17 @@ dốc và sông băng. Những con người đang sống trong những ngôi nh�
 ở bờ biển phía đông. Tin tức về thế giới bên ngoài đang chờ đón chúng tôi ở đó, và
 trên hết, bờ biển phía đông chính là phương tiện để cứu hai mươi hai người mà chúng
 tôi đã để lại trên đảo Elephant.
+
+
+[`Trước - Chương VIII`](Ch-VIII-vn.md) | [`Mục lục`](INDEX.md) | [`Tiếp theo - Chương X`](Ch-X-vn.md)
+
+
+[054]: ../en/images/054.jpg
+[055]: ../en/images/055.jpg
+[056]: ../en/images/056.jpg
+[057]: ../en/images/057.jpg
+[058]: ../en/images/058.jpg
+[059]: ../en/images/059.jpg
+[060]: ../en/images/060.jpg
+[061]: ../en/images/061.jpg
+[062]: ../en/images/062.jpg
