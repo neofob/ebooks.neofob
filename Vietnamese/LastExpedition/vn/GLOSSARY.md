@@ -14,6 +14,8 @@
 - *Dudley Docker*: *Dudley Docker*
 - *Instituto de Pesca*: *Instituto de Pesca*
 - *Yelcho*: *Yelcho*
+- *Southern Sky*: *Southern Sky*
+- *Orwell*: *Orwell*
 
 ## Places
 - South Pole: Cực Nam
