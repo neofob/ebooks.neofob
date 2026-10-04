@@ -126,9 +126,9 @@ của tàu *Endurance* và những cuộc phiêu lưu sau đó của Đội Thá
 nhận được thông điệp sau từ Đức vua:
 
 _“Vui mừng khi biết tin anh đã đến quần đảo Falkland an toàn và tin rằng các đồng chí
-của anh trên đảo Elephant sẽ sớm được giải cứu.
+của anh trên đảo Elephant sẽ sớm được giải cứu._
 
-GEORGE R.I.”_
+_GEORGE R.I.”_
 
 Tôi sẽ không cố gắng mô tả chi tiết những sự kiện trong những ngày sau khi chúng tôi
 đến quần đảo Falkland. Tâm trí tôi chỉ tập trung vào việc giải cứu nhóm người trên
