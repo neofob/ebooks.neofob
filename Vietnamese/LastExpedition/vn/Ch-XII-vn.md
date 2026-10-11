@@ -596,6 +596,11 @@ các đồng đội vừa được cứu của mình đang ăn uống.
 ![Hình: Góc nhìn xuyên qua một hang động trên đảo Elephant][077]
 <p align="left">Góc nhìn xuyên qua một hang động trên đảo Elephant</p>
 
+
+[`Trước - Chương XI`](Ch-XI-vn.md) | [`Mục lục`](INDEX.md) | [`Tiếp theo - Chương XIII`](Ch-XIII-vn.md)
+
+
+
 [070]: ../en/images/070.jpg
 [071]: ../en/images/071.jpg
 [072]: ../en/images/072.jpg
