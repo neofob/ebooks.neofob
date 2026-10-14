@@ -69,9 +69,9 @@ the Vietnamese is grim and brief.
 honour, the Navy's code). Let that *đạo* (duty/rectitude) resonate without turning into Confucian sermon.
 
 ## 🛠 Technical Instructions
-- **Output**: one file per source file, in the `vn/` directory next to `en/`, named `Preface.txt`, `Ch-I.txt` …
-`Ch-XVIII.txt`, `Appendix-I.txt`, `Appendix-II.txt`. Plain text, same paragraph structure as the source. Do not
-merge or split chapters.
+- **Output**: one file per source file, in the `vn/` directory next to `en/`, named `Preface-vn.md`, `Ch-I-vn.md` …
+`Ch-XVIII-vn.md`, `Appendix-I-vn.md`, `Appendix-II-vn.md`. Plain text, in Markdown format same paragraph structure
+as the source. Do not merge or split chapters.
 - **Headings**: chapter heading line 1 is `CHƯƠNG I`, line 2 is the title in uppercase Vietnamese (e.g.,
 `CHƯƠNG I` / `VÀO BIỂN WEDDELL`). Keep the original two-line layout and the blank lines after.
 - **Illustration notes**: lines like `[Illustration: ...]` → `[Hình: ...]`, keeping the rest of the note translated.
